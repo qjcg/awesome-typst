@@ -49,5 +49,6 @@ Official project links.
 - [alta-typst](https://github.com/GeorgeHoneywood/alta-typst): A simple Typst CV template, inspired by AltaCV by LianTze Lim.
 - [simplecv](https://github.com/LaurenzV/simplecv): SimpleCV is a simple and elegant CV template written in Typst.
 - [typst-templates](https://github.com/eigenein/typst-templates):  Templates for Typst
+- [typst-templates](https://github.com/haxibami/typst-template): My typst templates
 - [typstry](https://github.com/qjcg/typstry): A Tapestry of Typst Templates & Examples
 - [writable-gm-screen-inserts](https://github.com/LLBlumire/writable-gm-screen-inserts): Writable Game Master Screen Inserts
