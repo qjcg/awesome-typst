@@ -79,7 +79,7 @@ Official project links.
 
 ### Linguistics
 
-- [leipzig-gloss](https://gitea.everydayimshuflin.com/greg/typst-lepizig-glossing): A library that provides primitives for creating glossing rules according to Leibzig.
+- [leipzig-gloss](https://gitea.everydayimshuflin.com/greg/typst-lepizig-glossing): A library that provides primitives for creating glossing rules according to Leipzig.
 
 ### Mathematics
 
