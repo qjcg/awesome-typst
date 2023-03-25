@@ -76,3 +76,11 @@ Official project links.
 ### Slides
 
 - [typst-slides](https://github.com/andreasKroepelin/typst-slides): A template for creating slides in Typst
+
+### Linguistics
+
+- [leipzig-gloss](https://gitea.everydayimshuflin.com/greg/typst-lepizig-glossing): A library that provides primitives for creating glossing rules according to Leipzig.
+
+### Mathematics
+
+- [commutative-diagrams](https://gitlab.com/giacomogallina/typst-cd): A library for creating commutative diagrams.
