@@ -65,6 +65,7 @@ Official project links.
 - [typst-undergradmath](https://github.com/johanvx/typst-undergradmath): A Typst port of [undergradmath](https://gitlab.com/jim.hefferon/undergradmath)
 - [typstry](https://github.com/qjcg/typstry): A Tapestry of Typst Templates & Examples
 - [writable-gm-screen-inserts](https://github.com/LLBlumire/writable-gm-screen-inserts): Writable Game Master Screen Inserts
+- [assignment-template](https://github.com/AntoniosBarotsis/typst-assignment-template): A simple assignment template
 
 ### CV
 
