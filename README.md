@@ -84,3 +84,7 @@ Official project links.
 ### Mathematics
 
 - [commutative-diagrams](https://gitlab.com/giacomogallina/typst-cd): A library for creating commutative diagrams.
+
+### Physics
+
+- [physics](https://github.com/Leedehai/typst-physics): A library for common physics notations.
