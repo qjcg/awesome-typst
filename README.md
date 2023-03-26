@@ -73,6 +73,10 @@ Official project links.
 - [simplecv](https://github.com/LaurenzV/simplecv): SimpleCV is a simple and elegant CV template written in Typst.
 - [resume.typ](https://github.com/wusyong/resume.typ): Simple and ergonimic template to generate resume and CV. 
 
+### Formatting
+
+- [typst-diagbox](https://github.com/PgBiel/typst-diagbox): A library for diagonal line dividers in Typst tables
+
 ### Slides
 
 - [typst-slides](https://github.com/andreasKroepelin/typst-slides): A template for creating slides in Typst
