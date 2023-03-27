@@ -7,7 +7,6 @@ Curated collection of useful links for [Typst](https://github.com/typst/typst) u
 PRs welcomed!
 
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
-
 ## Table of Contents
 
 - [Awesome Typst](#awesome-typst)
@@ -21,10 +20,10 @@ PRs welcomed!
     - [General](#general-1)
     - [CV](#cv)
     - [Formatting](#formatting)
-    - [Slides](#slides)
     - [Linguistics](#linguistics)
     - [Mathematics](#mathematics)
     - [Physics](#physics)
+    - [Slides](#slides)
 
 <!-- markdown-toc end -->
 
@@ -85,10 +84,6 @@ Official project links.
 
 - [typst-diagbox](https://github.com/PgBiel/typst-diagbox): A library for diagonal line dividers in Typst tables
 
-### Slides
-
-- [typst-slides](https://github.com/andreasKroepelin/typst-slides): A template for creating slides in Typst
-
 ### Linguistics
 
 - [leipzig-gloss](https://gitea.everydayimshuflin.com/greg/typst-lepizig-glossing): A library that provides primitives for creating glossing rules according to Leipzig.
@@ -107,3 +102,6 @@ Official project links.
 <!-- markdown-toc-header-toc-title: "## Table of Contents" -->
 <!-- markdown-toc-indentation-space: 2 -->
 <!-- End: -->
+### Slides
+
+- [typst-slides](https://github.com/andreasKroepelin/typst-slides): A template for creating slides in Typst
