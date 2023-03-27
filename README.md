@@ -23,6 +23,7 @@ PRs welcomed!
     - [Linguistics](#linguistics)
     - [Mathematics](#mathematics)
     - [Physics](#physics)
+    - [Plotting](#plotting)
     - [Slides](#slides)
 
 <!-- markdown-toc end -->
@@ -101,6 +102,10 @@ Official project links.
 ### Physics
 
 - [physics](https://github.com/Leedehai/typst-physics): A library for common physics notations, e.g. vectors, derivatives, dirac notations, tensors, isotopes.
+
+### Plotting
+
+- [typst-plot](https://github.com/johannes-wolf/typst-plot): A library for plotting line charts.
 
 ### Slides
 
