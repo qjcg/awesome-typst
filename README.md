@@ -98,10 +98,11 @@ Official project links.
 
 - [physics](https://github.com/Leedehai/typst-physics): A library for common physics notations, e.g. vectors, derivatives, dirac notations, tensors, isotopes.
 
+### Slides
+
+- [typst-slides](https://github.com/andreasKroepelin/typst-slides): A template for creating slides in Typst
+
 <!-- Local Variables: -->
 <!-- markdown-toc-header-toc-title: "## Table of Contents" -->
 <!-- markdown-toc-indentation-space: 2 -->
 <!-- End: -->
-### Slides
-
-- [typst-slides](https://github.com/andreasKroepelin/typst-slides): A template for creating slides in Typst
