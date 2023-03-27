@@ -7,16 +7,26 @@ Curated collection of useful links for [Typst](https://github.com/typst/typst) u
 PRs welcomed!
 
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
-**Table of Contents**
+
+## Table of Contents
 
 - [Awesome Typst](#awesome-typst)
-    - [Official](#official)
-    - [Editor Integrations](#editor-integrations)
-    - [Tools](#tools)
-    - [Templates](#templates)
+  - [Official](#official)
+  - [Editor Integrations](#editor-integrations)
+    - [General](#general)
+    - [Vim/NeoVim](#vimneovim)
+    - [Emacs](#emacs)
+  - [Tools](#tools)
+  - [Templates & Libraries](#templates--libraries)
+    - [General](#general-1)
+    - [CV](#cv)
+    - [Formatting](#formatting)
+    - [Slides](#slides)
+    - [Linguistics](#linguistics)
+    - [Mathematics](#mathematics)
+    - [Physics](#physics)
 
 <!-- markdown-toc end -->
-
 
 ## Official
 
@@ -28,10 +38,10 @@ Official project links.
 - [Blog](https://typst.app/blog/)
 - Social: [Discord] [Instagram] [LinkedIn] [Twitter]
 
-[Discord]: https://discord.gg/2uDybryKPe
-[Instagram]: https://instagram.com/typstapp/
-[LinkedIn]: https://www.linkedin.com/company/typst/
-[Twitter]: https://twitter.com/typstapp/
+[discord]: https://discord.gg/2uDybryKPe
+[instagram]: https://instagram.com/typstapp/
+[linkedin]: https://www.linkedin.com/company/typst/
+[twitter]: https://twitter.com/typstapp/
 
 ## Editor Integrations
 
@@ -58,20 +68,18 @@ Official project links.
 
 ### General
 
+- [assignment-template](https://github.com/AntoniosBarotsis/typst-assignment-template): A simple assignment template
 - [ieee-typst-template](https://github.com/bsp0109/ieee-typst-template): A template to write IEEE Papers in Typst
-- [typst-ipa](https://github.com/imatpot/typst-ipa):  🔄 ASCII / IPA conversion for Typst
-- [typst-templates](https://github.com/eigenein/typst-templates):  Templates for Typst
+- [typst-templates](https://github.com/eigenein/typst-templates): Templates for Typst
 - [typst-templates](https://github.com/haxibami/typst-template): My typst templates
-- [typst-undergradmath](https://github.com/johanvx/typst-undergradmath): A Typst port of [undergradmath](https://gitlab.com/jim.hefferon/undergradmath)
 - [typstry](https://github.com/qjcg/typstry): A Tapestry of Typst Templates & Examples
 - [writable-gm-screen-inserts](https://github.com/LLBlumire/writable-gm-screen-inserts): Writable Game Master Screen Inserts
-- [assignment-template](https://github.com/AntoniosBarotsis/typst-assignment-template): A simple assignment template
 
 ### CV
 
 - [alta-typst](https://github.com/GeorgeHoneywood/alta-typst): A simple Typst CV template, inspired by AltaCV by LianTze Lim.
+- [resume.typ](https://github.com/wusyong/resume.typ): Simple and ergonimic template to generate resume and CV.
 - [simplecv](https://github.com/LaurenzV/simplecv): SimpleCV is a simple and elegant CV template written in Typst.
-- [resume.typ](https://github.com/wusyong/resume.typ): Simple and ergonimic template to generate resume and CV. 
 
 ### Formatting
 
@@ -84,11 +92,18 @@ Official project links.
 ### Linguistics
 
 - [leipzig-gloss](https://gitea.everydayimshuflin.com/greg/typst-lepizig-glossing): A library that provides primitives for creating glossing rules according to Leipzig.
+- [typst-ipa](https://github.com/imatpot/typst-ipa): 🔄 ASCII / IPA conversion for Typst
 
 ### Mathematics
 
 - [commutative-diagrams](https://gitlab.com/giacomogallina/typst-cd): A library for creating commutative diagrams.
+- [typst-undergradmath](https://github.com/johanvx/typst-undergradmath): A Typst port of [undergradmath](https://gitlab.com/jim.hefferon/undergradmath)
 
 ### Physics
 
 - [physics](https://github.com/Leedehai/typst-physics): A library for common physics notations, e.g. vectors, derivatives, dirac notations, tensors, isotopes.
+
+<!-- Local Variables: -->
+<!-- markdown-toc-header-toc-title: "## Table of Contents" -->
+<!-- markdown-toc-indentation-space: 2 -->
+<!-- End: -->
