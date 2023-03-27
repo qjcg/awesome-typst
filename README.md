@@ -13,8 +13,8 @@ PRs welcomed!
   - [Official](#official)
   - [Editor Integrations](#editor-integrations)
     - [General](#general)
-    - [Vim/NeoVim](#vimneovim)
     - [Emacs](#emacs)
+    - [Vim/NeoVim](#vimneovim)
   - [Tools](#tools)
   - [Templates & Libraries](#templates--libraries)
     - [General](#general-1)
@@ -49,14 +49,14 @@ Official project links.
 - [tree-sitter-typst](https://github.com/SeniorMars/tree-sitter-typst): A TreeSitter parser for the Typst File Format
 - [typst-lsp](https://github.com/nvarner/typst-lsp): A brand-new language server for Typst, plus a VS Code extension
 
+### Emacs
+
+- [typst-mode.el](https://github.com/Ziqi-Yang/typst-mode.el): An Emacs major mode for the `typst` markup-based typesetting system
+
 ### Vim/NeoVim
 
 - [typst.nvim](https://github.com/SeniorMars/typst.nvim): WIP. Goals: Treesitter highlighting, snippets, and a smooth intergration with neovim.
 - [typst.vim](https://github.com/kaarmu/typst.vim): Vim plugin for Typst
-
-### Emacs
-
-- [typst-mode.el](https://github.com/Ziqi-Yang/typst-mode.el): An Emacs major mode for the `typst` markup-based typesetting system
 
 ## Tools
 
