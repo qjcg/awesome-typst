@@ -79,6 +79,8 @@ Official project links.
 - [alta-typst](https://github.com/GeorgeHoneywood/alta-typst): A simple Typst CV template, inspired by AltaCV by LianTze Lim.
 - [resume.typ](https://github.com/wusyong/resume.typ): Simple and ergonimic template to generate resume and CV.
 - [simplecv](https://github.com/LaurenzV/simplecv): SimpleCV is a simple and elegant CV template written in Typst.
+- [typst-cv-template](https://github.com/skyzh/typst-cv-template): Chi CV Template (For Typst)
+- [typst-resume-template](https://github.com/bamboovir/typst-resume-template): Aesthetic style inspired by the Awesome-CV project.
 
 ### Formatting
 
