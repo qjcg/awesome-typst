@@ -1,0 +1,13 @@
+# markdownlint config file
+# Playground: https://dlaa.me/markdownlint/
+# Rules: https://github.com/DavidAnson/markdownlint/tree/main#rules--aliases
+
+default: true
+
+# MD013 - Line length
+MD013:
+  line_length: 1000
+
+# MD024/no-duplicate-heading/no-duplicate-header - Multiple headings with the same content
+MD024:
+  siblings_only: true
