@@ -62,7 +62,7 @@ Official project links.
 
 - [typst-bot](https://github.com/mattfbacon/typst-bot): A discord bot to render Typst code
 - [typst-pandoc](https://github.com/lvignoli/typst-pandoc): Typst custom reader and writer for Pandoc
-
+- [typst-fmt](https://github.com/astrale-sharp/typst-fmt/): An in development Typst formatter (PR welcomed). 
 ## Templates & Libraries
 
 ### General
