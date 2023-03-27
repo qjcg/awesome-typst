@@ -68,6 +68,7 @@ Official project links.
 ### General
 
 - [assignment-template](https://github.com/AntoniosBarotsis/typst-assignment-template): A simple assignment template
+- [typst-assignment-template](https://github.com/astrale-sharp/typst-assignement-template.git): Yet another simple assignment template
 - [ieee-typst-template](https://github.com/bsp0109/ieee-typst-template): A template to write IEEE Papers in Typst
 - [typst-templates](https://github.com/eigenein/typst-templates): Templates for Typst
 - [typst-templates](https://github.com/haxibami/typst-template): My typst templates
