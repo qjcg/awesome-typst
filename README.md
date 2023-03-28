@@ -7,7 +7,7 @@ Curated collection of useful links for [Typst](https://github.com/typst/typst) u
 PRs welcomed!
 
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
-## Table of Contents
+## Contents
 
 - [Awesome Typst](#awesome-typst)
   - [Official](#official)
@@ -119,6 +119,6 @@ Official project links.
 - [typst-slides](https://github.com/andreasKroepelin/typst-slides): A template for creating slides in Typst
 
 <!-- Local Variables: -->
-<!-- markdown-toc-header-toc-title: "## Table of Contents" -->
+<!-- markdown-toc-header-toc-title: "## Contents" -->
 <!-- markdown-toc-indentation-space: 2 -->
 <!-- End: -->
