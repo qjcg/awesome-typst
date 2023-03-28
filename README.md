@@ -17,6 +17,7 @@ PRs welcomed!
     - [Vim/NeoVim](#vimneovim)
   - [Tools](#tools)
   - [Templates & Libraries](#templates--libraries)
+    - [Official](#official-1)
     - [General](#general-1)
     - [CV](#cv)
     - [Formatting](#formatting)
@@ -66,6 +67,10 @@ Official project links.
 - [typst-pandoc](https://github.com/lvignoli/typst-pandoc): Typst custom reader and writer for Pandoc
 
 ## Templates & Libraries
+
+### Official
+
+- [typst/templates](https://github.com/typst/templates):  The templates that ship with the Typst web app
 
 ### General
 
