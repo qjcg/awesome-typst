@@ -57,13 +57,13 @@ Official project links.
 
 ### Vim/NeoVim
 
-- [typst.nvim](https://github.com/SeniorMars/typst.nvim): WIP. Goals: Treesitter highlighting, snippets, and a smooth intergration with neovim.
+- [typst.nvim](https://github.com/SeniorMars/typst.nvim): WIP. Goals: Treesitter highlighting, snippets, and a smooth intergration with neovim
 - [typst.vim](https://github.com/kaarmu/typst.vim): Vim plugin for Typst
 
 ## Tools
 
 - [typst-bot](https://github.com/mattfbacon/typst-bot): A discord bot to render Typst code
-- [typst-fmt](https://github.com/astrale-sharp/typst-fmt/): An in development Typst formatter (PR welcomed).
+- [typst-fmt](https://github.com/astrale-sharp/typst-fmt/): An in development Typst formatter (PR welcomed)
 - [typst-pandoc](https://github.com/lvignoli/typst-pandoc): Typst custom reader and writer for Pandoc
 
 ## Templates & Libraries
@@ -85,12 +85,12 @@ Official project links.
 
 ### CV
 
-- [alta-typst](https://github.com/GeorgeHoneywood/alta-typst): A simple Typst CV template, inspired by AltaCV by LianTze Lim.
-- [attractive-typst-resume](https://github.com/Harkunwar/attractive-typst-resume): A modern looking, attractive CV/Resume template by Harkunwar Kochar.
-- [resume.typ](https://github.com/wusyong/resume.typ): Simple and ergonimic template to generate resume and CV.
-- [simplecv](https://github.com/LaurenzV/simplecv): SimpleCV is a simple and elegant CV template written in Typst.
+- [alta-typst](https://github.com/GeorgeHoneywood/alta-typst): A simple Typst CV template, inspired by AltaCV by LianTze Lim
+- [attractive-typst-resume](https://github.com/Harkunwar/attractive-typst-resume): A modern looking, attractive CV/Resume template by Harkunwar Kochar
+- [resume.typ](https://github.com/wusyong/resume.typ): Simple and ergonimic template to generate resume and CV
+- [simplecv](https://github.com/LaurenzV/simplecv): SimpleCV is a simple and elegant CV template written in Typst
 - [typst-cv-template](https://github.com/skyzh/typst-cv-template): Chi CV Template (For Typst)
-- [typst-resume-template](https://github.com/bamboovir/typst-resume-template): Aesthetic style inspired by the Awesome-CV project.
+- [typst-resume-template](https://github.com/bamboovir/typst-resume-template): Aesthetic style inspired by the Awesome-CV project
 
 ### Formatting
 
@@ -103,16 +103,16 @@ Official project links.
 
 ### Mathematics
 
-- [commutative-diagrams](https://gitlab.com/giacomogallina/typst-cd): A library for creating commutative diagrams.
+- [commutative-diagrams](https://gitlab.com/giacomogallina/typst-cd): A library for creating commutative diagrams
 - [typst-undergradmath](https://github.com/johanvx/typst-undergradmath): A Typst port of [undergradmath](https://gitlab.com/jim.hefferon/undergradmath)
 
 ### Physics
 
-- [physics](https://github.com/Leedehai/typst-physics): A library for common physics notations, e.g. vectors, derivatives, dirac notations, tensors, isotopes.
+- [physics](https://github.com/Leedehai/typst-physics): A library for common physics notations, e.g. vectors, derivatives, dirac notations, tensors, isotopes
 
 ### Plotting
 
-- [typst-plot](https://github.com/johannes-wolf/typst-plot): A library for plotting line charts.
+- [typst-plot](https://github.com/johannes-wolf/typst-plot): A library for plotting line charts
 
 ### Slides
 
