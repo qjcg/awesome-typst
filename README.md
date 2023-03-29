@@ -125,8 +125,8 @@ Official project links.
 ### Mathematics
 
 - [commutative-diagrams](https://gitlab.com/giacomogallina/typst-cd): A library for creating commutative diagrams
-- [typst-undergradmath](https://github.com/johanvx/typst-undergradmath): A Typst port of [undergradmath](https://gitlab.com/jim.hefferon/undergradmath)
 - [typst-theorems](https://github.com/sahasatvik/typst-theorems): A library for creating numbered theorem environments
+- [typst-undergradmath](https://github.com/johanvx/typst-undergradmath): A Typst port of [undergradmath](https://gitlab.com/jim.hefferon/undergradmath)
 
 ### Physics
 
