@@ -62,10 +62,10 @@ Official project links.
 
 ## Tools
 
+- [typst-action](https://github.com/lvignoli/typst-action): Build Typst documents using GitHub actions
 - [typst-bot](https://github.com/mattfbacon/typst-bot): A discord bot to render Typst code
 - [typst-fmt](https://github.com/astrale-sharp/typst-fmt/): An in development Typst formatter (PR welcomed)
 - [typst-pandoc](https://github.com/lvignoli/typst-pandoc): Typst custom reader and writer for Pandoc
-- [typst-action](https://github.com/lvignoli/typst-action): Build Typst documents using GitHub actions
 
 ## Templates & Libraries
 
