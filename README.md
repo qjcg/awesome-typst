@@ -136,6 +136,10 @@ Official project links.
 
 - [typst-plot](https://github.com/johannes-wolf/typst-plot): A library for plotting line charts
 
+### Raytracing
+
+- [typst-raytracer](https://github.com/SeniorMars/typst-raytracer): raytracer in typst
+
 ### Slides
 
 - [typst-slides](https://github.com/andreasKroepelin/typst-slides): A template for creating slides in Typst
