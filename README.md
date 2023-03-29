@@ -30,6 +30,7 @@ PRs welcomed!
     - [Mathematics](#mathematics)
     - [Physics](#physics)
     - [Plotting](#plotting)
+    - [Raytracing](#raytracing)
     - [Slides](#slides)
   - [Tools](#tools)
 
