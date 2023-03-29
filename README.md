@@ -11,11 +11,12 @@ PRs welcomed!
 
 - [Awesome Typst](#awesome-typst)
   - [Official](#official)
+  - [Chatbots](#chatbots)
   - [Editor Integrations](#editor-integrations)
     - [General](#general)
     - [Emacs](#emacs)
     - [Vim/NeoVim](#vimneovim)
-  - [Tools](#tools)
+  - [GitHub Actions](#github-actions)
   - [Templates & Libraries](#templates--libraries)
     - [Official](#official-1)
     - [General](#general-1)
@@ -26,6 +27,7 @@ PRs welcomed!
     - [Physics](#physics)
     - [Plotting](#plotting)
     - [Slides](#slides)
+  - [Tools](#tools)
 
 <!-- markdown-toc end -->
 
@@ -44,6 +46,10 @@ Official project links.
 [linkedin]: https://www.linkedin.com/company/typst/
 [twitter]: https://twitter.com/typstapp/
 
+## Chatbots
+
+- [typst-bot](https://github.com/mattfbacon/typst-bot): A discord bot to render Typst code
+
 ## Editor Integrations
 
 ### General
@@ -61,11 +67,9 @@ Official project links.
 - [typst.vim](https://github.com/kaarmu/typst.vim): Vim plugin for Typst
 
 ## Tools
+## GitHub Actions
 
 - [typst-action](https://github.com/lvignoli/typst-action): Build Typst documents using GitHub actions
-- [typst-bot](https://github.com/mattfbacon/typst-bot): A discord bot to render Typst code
-- [typst-fmt](https://github.com/astrale-sharp/typst-fmt/): An in development Typst formatter (PR welcomed)
-- [typst-pandoc](https://github.com/lvignoli/typst-pandoc): Typst custom reader and writer for Pandoc
 
 ## Templates & Libraries
 
@@ -119,6 +123,11 @@ Official project links.
 ### Slides
 
 - [typst-slides](https://github.com/andreasKroepelin/typst-slides): A template for creating slides in Typst
+
+## Tools
+
+- [typst-fmt](https://github.com/astrale-sharp/typst-fmt/): An in development Typst formatter (PR welcomed)
+- [typst-pandoc](https://github.com/lvignoli/typst-pandoc): Typst custom reader and writer for Pandoc
 
 <!-- Local Variables: -->
 <!-- markdown-toc-header-toc-title: "## Contents" -->
