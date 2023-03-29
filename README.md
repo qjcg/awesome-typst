@@ -11,11 +11,15 @@ PRs welcomed!
 
 - [Awesome Typst](#awesome-typst)
   - [Official](#official)
+  - [Browser Extensions](#browser-extensions)
+    - [Firefox](#firefox)
   - [Chatbots](#chatbots)
   - [Editor Integrations](#editor-integrations)
     - [General](#general)
     - [Emacs](#emacs)
-    - [Vim/NeoVim](#vimneovim)
+    - [Language Servers](#language-servers)
+    - [Vim](#vim)
+    - [VSCode](#vscode)
   - [GitHub Actions](#github-actions)
   - [Templates & Libraries](#templates--libraries)
     - [Official](#official-1)
@@ -46,6 +50,12 @@ Official project links.
 [linkedin]: https://www.linkedin.com/company/typst/
 [twitter]: https://twitter.com/typstapp/
 
+## Browser Extensions
+
+### Firefox
+
+- [yank](https://addons.mozilla.org/en-US/firefox/addon/yank/): Yank URL and title of current tab, format to a chosen markup language, and copy to clipboard (supports typst link format)
+
 ## Chatbots
 
 - [typst-bot](https://github.com/mattfbacon/typst-bot): A discord bot to render Typst code
@@ -55,18 +65,24 @@ Official project links.
 ### General
 
 - [tree-sitter-typst](https://github.com/SeniorMars/tree-sitter-typst): A TreeSitter parser for the Typst File Format
-- [typst-lsp](https://github.com/nvarner/typst-lsp): A brand-new language server for Typst, plus a VS Code extension
 
 ### Emacs
 
 - [typst-mode.el](https://github.com/Ziqi-Yang/typst-mode.el): An Emacs major mode for the `typst` markup-based typesetting system
 
-### Vim/NeoVim
+### Language Servers
+
+- [typst-lsp](https://github.com/nvarner/typst-lsp): A brand-new language server for Typst, plus a VS Code extension
+
+### Vim
 
 - [typst.nvim](https://github.com/SeniorMars/typst.nvim): WIP. Goals: Treesitter highlighting, snippets, and a smooth intergration with neovim
 - [typst.vim](https://github.com/kaarmu/typst.vim): Vim plugin for Typst
 
-## Tools
+### VSCode
+
+- [Typst LSP VS Code Extension](https://marketplace.visualstudio.com/items?itemName=nvarner.typst-lsp)
+
 ## GitHub Actions
 
 - [typst-action](https://github.com/lvignoli/typst-action): Build Typst documents using GitHub actions
