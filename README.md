@@ -125,6 +125,7 @@ PRs welcomed!
 - [simplecv](https://github.com/LaurenzV/simplecv): SimpleCV is a simple and elegant CV template written in Typst
 - [typst-cv-template](https://github.com/skyzh/typst-cv-template): Chi CV Template (For Typst)
 - [typst-resume-template](https://github.com/bamboovir/typst-resume-template): Aesthetic style inspired by the Awesome-CV project
+- [moderncv.typst](https://github.com/giovanniberti/moderncv.typst): A CV template inspired by LaTeX's `moderncv`
 
 ### Formatting
 
