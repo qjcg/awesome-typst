@@ -149,6 +149,7 @@ Official project links.
 
 - [typst-fmt](https://github.com/astrale-sharp/typst-fmt/): An in development Typst formatter (PR welcomed)
 - [typst-pandoc](https://github.com/lvignoli/typst-pandoc): Typst custom reader and writer for Pandoc
+- [typst-live](https://github.com/ItsEthra/typst-live): Hot reloading of pdf in web browser
 
 <!-- Local Variables: -->
 <!-- markdown-toc-header-toc-title: "## Contents" -->
