@@ -66,6 +66,7 @@ PRs welcomed!
 ### CLI Tools
 
 - [typst-fmt](https://github.com/astrale-sharp/typst-fmt/): An in development Typst formatter (PR welcomed)
+- [typst-live](https://github.com/ItsEthra/typst-live): Hot reloading of pdf in web browser
 - [typst-pandoc](https://github.com/lvignoli/typst-pandoc): Typst custom reader and writer for Pandoc
 
 ### Editor Integrations
