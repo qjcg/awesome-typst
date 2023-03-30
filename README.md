@@ -109,9 +109,9 @@ PRs welcomed!
 
 - [assignment-template](https://github.com/AntoniosBarotsis/typst-assignment-template): A simple assignment template
 - [ieee-typst-template](https://github.com/bsp0109/ieee-typst-template): A template to write IEEE Papers in Typst
+- [simple-typst-thesis](https://github.com/zagoli/simple-typst-thesis): A template useful for writing simple thesis in Typst
 - [typst-assignment-template](https://github.com/astrale-sharp/typst-assignement-template.git): Yet another simple assignment template
 - [typst-homework-template](https://github.com/OriginCode/typst-homework-template): A simple homework template inspired by the LaTeX homework template by Adam Blank
-- [simple-typst-thesis](https://github.com/zagoli/simple-typst-thesis): A template useful for writing simple thesis in Typst
 - [typst-templates](https://github.com/eigenein/typst-templates): Templates for Typst
 - [typst-templates](https://github.com/haxibami/typst-template): My typst templates
 - [typstry](https://github.com/qjcg/typstry): A Tapestry of Typst Templates & Examples
