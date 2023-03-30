@@ -10,19 +10,22 @@ PRs welcomed!
 ## Contents
 
 - [Awesome Typst](#awesome-typst)
-  - [Official](#official)
-  - [Browser Extensions](#browser-extensions)
-    - [Firefox](#firefox)
-  - [Chatbots](#chatbots)
-  - [Editor Integrations](#editor-integrations)
-    - [General](#general)
-    - [Emacs](#emacs)
-    - [Language Servers](#language-servers)
-    - [Vim](#vim)
-    - [VSCode](#vscode)
-  - [GitHub Actions](#github-actions)
+  - [Official Project Links](#official-project-links)
+  - [Integrations & Tools](#integrations--tools)
+    - [Browser Extensions](#browser-extensions)
+      - [Firefox](#firefox)
+    - [Chatbots](#chatbots)
+    - [CLI Tools](#cli-tools)
+    - [Editor Integrations](#editor-integrations)
+      - [General](#general)
+      - [Emacs](#emacs)
+      - [Language Servers](#language-servers)
+      - [Obsidian](#obsidian)
+      - [Vim](#vim)
+      - [VSCode](#vscode)
+    - [GitHub Actions](#github-actions)
   - [Templates & Libraries](#templates--libraries)
-    - [Official](#official-1)
+    - [Official](#official)
     - [General](#general-1)
     - [CV](#cv)
     - [Formatting](#formatting)
@@ -32,15 +35,12 @@ PRs welcomed!
     - [Plotting](#plotting)
     - [Raytracing](#raytracing)
     - [Slides](#slides)
-  - [Tools](#tools)
 
 <!-- markdown-toc end -->
 
-## Official
+## Official Project Links
 
-Official project links.
-
-- [typst.app](https://typst.app)
+- [typst.app](https://typst.app): The Typst web app
 - [Typst Documentation](https://typst.app/docs)
 - [GitHub](https://github.com/typst/typst)
 - [Blog](https://typst.app/blog/)
@@ -51,40 +51,51 @@ Official project links.
 [linkedin]: https://www.linkedin.com/company/typst/
 [twitter]: https://twitter.com/typstapp/
 
-## Browser Extensions
+## Integrations & Tools
 
-### Firefox
+### Browser Extensions
+
+#### Firefox
 
 - [yank](https://addons.mozilla.org/en-US/firefox/addon/yank/): Yank URL and title of current tab, format to a chosen markup language, and copy to clipboard (supports typst link format)
 
-## Chatbots
+### Chatbots
 
 - [typst-bot](https://github.com/mattfbacon/typst-bot): A discord bot to render Typst code
 
-## Editor Integrations
+### CLI Tools
 
-### General
+- [typst-fmt](https://github.com/astrale-sharp/typst-fmt/): An in development Typst formatter (PR welcomed)
+- [typst-pandoc](https://github.com/lvignoli/typst-pandoc): Typst custom reader and writer for Pandoc
+
+### Editor Integrations
+
+#### General
 
 - [tree-sitter-typst](https://github.com/SeniorMars/tree-sitter-typst): A TreeSitter parser for the Typst File Format
 
-### Emacs
+#### Emacs
 
 - [typst-mode.el](https://github.com/Ziqi-Yang/typst-mode.el): An Emacs major mode for the `typst` markup-based typesetting system
 
-### Language Servers
+#### Language Servers
 
 - [typst-lsp](https://github.com/nvarner/typst-lsp): A brand-new language server for Typst, plus a VS Code extension
 
-### Vim
+#### Obsidian
+
+- [obsidian-typst](https://github.com/fenjalien/obsidian-typst): Renders typst code blocks in Obsidian into images using Typst through the power of WASM!
+
+#### Vim
 
 - [typst.nvim](https://github.com/SeniorMars/typst.nvim): WIP. Goals: Treesitter highlighting, snippets, and a smooth intergration with neovim
 - [typst.vim](https://github.com/kaarmu/typst.vim): Vim plugin for Typst
 
-### VSCode
+#### VSCode
 
 - [Typst LSP VS Code Extension](https://marketplace.visualstudio.com/items?itemName=nvarner.typst-lsp)
 
-## GitHub Actions
+### GitHub Actions
 
 - [typst-action](https://github.com/lvignoli/typst-action): Build Typst documents using GitHub actions
 
@@ -92,7 +103,7 @@ Official project links.
 
 ### Official
 
-- [typst/templates](https://github.com/typst/templates):  The templates that ship with the Typst web app
+- [typst/templates](https://github.com/typst/templates): The templates that ship with the Typst web app
 
 ### General
 
@@ -145,12 +156,6 @@ Official project links.
 ### Slides
 
 - [typst-slides](https://github.com/andreasKroepelin/typst-slides): A template for creating slides in Typst
-
-## Tools
-
-- [typst-fmt](https://github.com/astrale-sharp/typst-fmt/): An in development Typst formatter (PR welcomed)
-- [typst-pandoc](https://github.com/lvignoli/typst-pandoc): Typst custom reader and writer for Pandoc
-- [typst-live](https://github.com/ItsEthra/typst-live): Hot reloading of pdf in web browser
 
 <!-- Local Variables: -->
 <!-- markdown-toc-header-toc-title: "## Contents" -->
