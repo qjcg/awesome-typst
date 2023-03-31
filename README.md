@@ -117,6 +117,7 @@ PRs welcomed!
 - [typst-templates](https://github.com/haxibami/typst-template): My typst templates
 - [typstry](https://github.com/qjcg/typstry): A Tapestry of Typst Templates & Examples
 - [writable-gm-screen-inserts](https://github.com/LLBlumire/writable-gm-screen-inserts): Writable Game Master Screen Inserts
+- [typst-palette](https://github.com/kaarmu/typst-palette): A package of color palettes for Typst
 
 ### CV
 
