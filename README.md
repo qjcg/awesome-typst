@@ -114,21 +114,21 @@ PRs welcomed!
 - [simple-typst-thesis](https://github.com/zagoli/simple-typst-thesis): A template useful for writing simple thesis in Typst
 - [typst-assignment-template](https://github.com/astrale-sharp/typst-assignement-template.git): Yet another simple assignment template
 - [typst-homework-template](https://github.com/OriginCode/typst-homework-template): A simple homework template inspired by the LaTeX homework template by Adam Blank
+- [typst-palette](https://github.com/kaarmu/typst-palette): A package of color palettes for Typst
 - [typst-templates](https://github.com/eigenein/typst-templates): Templates for Typst
 - [typst-templates](https://github.com/haxibami/typst-template): My typst templates
 - [typstry](https://github.com/qjcg/typstry): A Tapestry of Typst Templates & Examples
 - [writable-gm-screen-inserts](https://github.com/LLBlumire/writable-gm-screen-inserts): Writable Game Master Screen Inserts
-- [typst-palette](https://github.com/kaarmu/typst-palette): A package of color palettes for Typst
 
 ### CV
 
 - [alta-typst](https://github.com/GeorgeHoneywood/alta-typst): A simple Typst CV template, inspired by AltaCV by LianTze Lim
 - [attractive-typst-resume](https://github.com/Harkunwar/attractive-typst-resume): A modern looking, attractive CV/Resume template by Harkunwar Kochar
+- [moderncv.typst](https://github.com/giovanniberti/moderncv.typst): A CV template inspired by LaTeX's `moderncv`
 - [resume.typ](https://github.com/wusyong/resume.typ): Simple and ergonimic template to generate resume and CV
 - [simplecv](https://github.com/LaurenzV/simplecv): SimpleCV is a simple and elegant CV template written in Typst
 - [typst-cv-template](https://github.com/skyzh/typst-cv-template): Chi CV Template (For Typst)
 - [typst-resume-template](https://github.com/bamboovir/typst-resume-template): Aesthetic style inspired by the Awesome-CV project
-- [moderncv.typst](https://github.com/giovanniberti/moderncv.typst): A CV template inspired by LaTeX's `moderncv`
 
 ### Formatting
 
