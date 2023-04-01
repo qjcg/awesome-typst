@@ -153,6 +153,10 @@ PRs welcomed!
 
 - [typst-plot](https://github.com/johannes-wolf/typst-plot): A library for plotting line charts
 
+### Posters
+
+- [typst-poster](https://github.com/pncnmnp/typst-poster): An academic poster template
+
 ### Raytracing
 
 - [typst-raytracer](https://github.com/SeniorMars/typst-raytracer): raytracer in typst
