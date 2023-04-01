@@ -73,7 +73,8 @@ PRs welcomed!
 
 #### General
 
-- [tree-sitter-typst](https://github.com/SeniorMars/tree-sitter-typst): A TreeSitter parser for the Typst File Format
+- [frozolotl/tree-sitter-typst](https://github.com/frozolotl/tree-sitter-typst): A tree-sitter grammar with a focus on correctness.
+- [SeniorMars/tree-sitter-typst](https://github.com/SeniorMars/tree-sitter-typst): A TreeSitter parser for the Typst File Format
 
 #### Emacs
 
