@@ -134,7 +134,7 @@ PRs welcomed!
 ### Formatting
 
 - [typst-diagbox](https://github.com/PgBiel/typst-diagbox): A library for diagonal line dividers in Typst tables
-- [typst-boxes](https://github.com/lkoehl/typst-boxes/): A library to draw colourful boxes.
+- [typst-boxes](https://github.com/lkoehl/typst-boxes): A library to draw colorful boxes.
 
 ### Linguistics
 
