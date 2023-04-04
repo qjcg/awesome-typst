@@ -109,17 +109,22 @@ PRs welcomed!
 
 ### General
 
-- [assignment-template](https://github.com/AntoniosBarotsis/typst-assignment-template): A simple assignment template
 - [ieee-typst-template](https://github.com/bsp0109/ieee-typst-template): A template to write IEEE Papers in Typst
 - [simple-typst-thesis](https://github.com/zagoli/simple-typst-thesis): A template useful for writing simple thesis in Typst
-- [typst-assignment-template](https://github.com/astrale-sharp/typst-assignement-template.git): Yet another simple assignment template
-- [typst-homework-template](https://github.com/OriginCode/typst-homework-template): A simple homework template inspired by the LaTeX homework template by Adam Blank
 - [typst-palette](https://github.com/kaarmu/typst-palette): A package of color palettes for Typst
 - [typst-templates](https://github.com/eigenein/typst-templates): Templates for Typst
 - [typst-templates](https://github.com/haxibami/typst-template): My typst templates
 - [typstry](https://github.com/qjcg/typstry): A Tapestry of Typst Templates & Examples
 - [tyspt-mla9-template](https://github.com/wychwitch/tyspt-mla9-template): An MLA 9th edition template
 - [writable-gm-screen-inserts](https://github.com/LLBlumire/writable-gm-screen-inserts): Writable Game Master Screen Inserts
+
+### Assignment
+
+- [assignment-template](https://github.com/AntoniosBarotsis/typst-assignment-template): A simple assignment template
+- [typst-assignment-template](https://github.com/astrale-sharp/typst-assignement-template.git): Yet another simple assignment template
+- [typst-homework-template](https://github.com/OriginCode/typst-homework-template): A simple homework template inspired by the LaTeX homework template by Adam Blank
+- [typst-assignment-template](https://github.com/gRox167/typst-assignment-template.git): Yet another simple assignment template with a cover and several useful math symbols.
+
 
 ### CV
 
