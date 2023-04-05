@@ -125,7 +125,6 @@ PRs welcomed!
 - [typst-homework-template](https://github.com/OriginCode/typst-homework-template): A simple homework template inspired by the LaTeX homework template by Adam Blank
 - [typst-assignment-template](https://github.com/gRox167/typst-assignment-template.git): Yet another simple assignment template with a cover and several useful math symbols.
 
-
 ### CV
 
 - [alta-typst](https://github.com/GeorgeHoneywood/alta-typst): A simple Typst CV template, inspired by AltaCV by LianTze Lim
