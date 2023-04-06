@@ -23,6 +23,7 @@ PRs welcomed!
       - [Vim](#vim)
       - [VSCode](#vscode)
     - [GitHub Actions](#github-actions)
+    - [Programming](#programming)
   - [Templates & Libraries](#templates--libraries)
     - [Official](#official)
     - [General](#general-1)
@@ -99,6 +100,10 @@ PRs welcomed!
 ### GitHub Actions
 
 - [typst-action](https://github.com/lvignoli/typst-action): Build Typst documents using GitHub actions
+
+### Programming
+
+- [typst-py](https://github.com/messense/typst-py):  Python binding to typst
 
 ## Templates & Libraries
 
