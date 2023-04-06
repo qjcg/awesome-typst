@@ -13,7 +13,6 @@ PRs welcomed!
   - [Official Project Links](#official-project-links)
   - [Integrations & Tools](#integrations--tools)
     - [Browser Extensions](#browser-extensions)
-      - [Firefox](#firefox)
     - [Chatbots](#chatbots)
     - [CLI Tools](#cli-tools)
     - [Editor Integrations](#editor-integrations)
@@ -57,9 +56,7 @@ PRs welcomed!
 
 ### Browser Extensions
 
-#### Firefox
-
-- [yank](https://addons.mozilla.org/en-US/firefox/addon/yank/): Yank URL and title of current tab, format to a chosen markup language, and copy to clipboard (supports typst link format)
+- (FireFox) [yank](https://addons.mozilla.org/en-US/firefox/addon/yank/): Yank URL and title of current tab, format to a chosen markup language, and copy to clipboard (supports typst link format)
 
 ### Chatbots
 
