@@ -27,12 +27,14 @@ PRs welcomed!
   - [Templates & Libraries](#templates--libraries)
     - [Official](#official)
     - [General](#general-1)
+    - [Assignments](#assignments)
     - [CV](#cv)
     - [Formatting](#formatting)
     - [Linguistics](#linguistics)
     - [Mathematics](#mathematics)
     - [Physics](#physics)
     - [Plotting](#plotting)
+    - [Posters](#posters)
     - [Raytracing](#raytracing)
     - [Slides](#slides)
 
@@ -118,12 +120,12 @@ PRs welcomed!
 - [tyspt-mla9-template](https://github.com/wychwitch/tyspt-mla9-template): An MLA 9th edition template
 - [writable-gm-screen-inserts](https://github.com/LLBlumire/writable-gm-screen-inserts): Writable Game Master Screen Inserts
 
-### Assignment
+### Assignments
 
 - [assignment-template](https://github.com/AntoniosBarotsis/typst-assignment-template): A simple assignment template
 - [typst-assignment-template](https://github.com/astrale-sharp/typst-assignement-template.git): Yet another simple assignment template
-- [typst-homework-template](https://github.com/OriginCode/typst-homework-template): A simple homework template inspired by the LaTeX homework template by Adam Blank
 - [typst-assignment-template](https://github.com/gRox167/typst-assignment-template.git): Yet another simple assignment template with a cover and several useful math symbols.
+- [typst-homework-template](https://github.com/OriginCode/typst-homework-template): A simple homework template inspired by the LaTeX homework template by Adam Blank
 
 ### CV
 
@@ -134,7 +136,7 @@ PRs welcomed!
 - [simplecv](https://github.com/LaurenzV/simplecv): SimpleCV is a simple and elegant CV template written in Typst
 - [typst-cv-template](https://github.com/skyzh/typst-cv-template): Chi CV Template (For Typst)
 - [typst-resume-template](https://github.com/bamboovir/typst-resume-template): Aesthetic style inspired by the Awesome-CV project
-- [vercanard](https://github.com/elegaanz/vercanard): A colorful resume template for Typst 
+- [vercanard](https://github.com/elegaanz/vercanard): A colorful resume template for Typst
 
 ### Formatting
 
