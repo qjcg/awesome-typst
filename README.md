@@ -176,6 +176,10 @@ PRs welcomed!
 
 - [typst-slides](https://github.com/andreasKroepelin/typst-slides): A template for creating slides in Typst
 
+### Letters
+
+- [typst-letter](https://github.com/dvdvgt/typst-letter): A typst letter template inspired by the DIN 5008 norm
+
 <!-- Local Variables: -->
 <!-- markdown-toc-header-toc-title: "## Contents" -->
 <!-- markdown-toc-indentation-space: 2 -->
