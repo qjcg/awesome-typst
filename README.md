@@ -184,7 +184,6 @@ PRs welcomed!
 
 - [typst-slides](https://github.com/andreasKroepelin/typst-slides): A template for creating slides in Typst
 
-
 <!-- Local Variables: -->
 <!-- markdown-toc-header-toc-title: "## Contents" -->
 <!-- markdown-toc-indentation-space: 2 -->
