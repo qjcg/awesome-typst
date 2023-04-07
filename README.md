@@ -121,6 +121,7 @@ PRs welcomed!
 - [typstry](https://github.com/qjcg/typstry): A Tapestry of Typst Templates & Examples
 - [tyspt-mla9-template](https://github.com/wychwitch/tyspt-mla9-template): An MLA 9th edition template
 - [writable-gm-screen-inserts](https://github.com/LLBlumire/writable-gm-screen-inserts): Writable Game Master Screen Inserts
+- [SimplePaper](https://github.com/1bitbool/SimplePaper): A Chinese template for writing simple paper
 
 ### Assignments
 
@@ -140,6 +141,7 @@ PRs welcomed!
 - [typst-resume-template](https://github.com/bamboovir/typst-resume-template): Aesthetic style inspired by the Awesome-CV project
 - [vercanard](https://github.com/elegaanz/vercanard): A colorful resume template for Typst
 - [typst-mixed-resume](https://github.com/titaneric/typst-mixed-resume): A casual and elegant resume template inspired by multiple templates.
+- [typst-cv-resume](https://github.com/jxpeng98/Typst-CV-Resume): A CV template with Sans font inspired by LaTeX `Deedy-Resume`
 
 ### Formatting
 
@@ -176,6 +178,10 @@ PRs welcomed!
 ### Slides
 
 - [typst-slides](https://github.com/andreasKroepelin/typst-slides): A template for creating slides in Typst
+
+### Letters
+
+- [typst-letter](https://github.com/dvdvgt/typst-letter): A typst letter template inspired by the DIN 5008 norm
 
 <!-- Local Variables: -->
 <!-- markdown-toc-header-toc-title: "## Contents" -->
