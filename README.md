@@ -30,6 +30,7 @@ PRs welcomed!
     - [Assignments](#assignments)
     - [CV](#cv)
     - [Formatting](#formatting)
+    - [Letters](#letters)
     - [Linguistics](#linguistics)
     - [Mathematics](#mathematics)
     - [Physics](#physics)
@@ -137,16 +138,20 @@ PRs welcomed!
 - [moderncv.typst](https://github.com/giovanniberti/moderncv.typst): A CV template inspired by LaTeX's `moderncv`
 - [resume.typ](https://github.com/wusyong/resume.typ): Simple and ergonimic template to generate resume and CV
 - [simplecv](https://github.com/LaurenzV/simplecv): SimpleCV is a simple and elegant CV template written in Typst
+- [typst-cv-resume](https://github.com/jxpeng98/Typst-CV-Resume): A CV template with Sans font inspired by LaTeX `Deedy-Resume`
 - [typst-cv-template](https://github.com/skyzh/typst-cv-template): Chi CV Template (For Typst)
+- [typst-mixed-resume](https://github.com/titaneric/typst-mixed-resume): A casual and elegant resume template inspired by multiple templates.
 - [typst-resume-template](https://github.com/bamboovir/typst-resume-template): Aesthetic style inspired by the Awesome-CV project
 - [vercanard](https://github.com/elegaanz/vercanard): A colorful resume template for Typst
-- [typst-mixed-resume](https://github.com/titaneric/typst-mixed-resume): A casual and elegant resume template inspired by multiple templates.
-- [typst-cv-resume](https://github.com/jxpeng98/Typst-CV-Resume): A CV template with Sans font inspired by LaTeX `Deedy-Resume`
 
 ### Formatting
 
 - [typst-diagbox](https://github.com/PgBiel/typst-diagbox): A library for diagonal line dividers in Typst tables
 - [typst-boxes](https://github.com/lkoehl/typst-boxes): A library to draw colorful boxes.
+
+### Letters
+
+- [typst-letter](https://github.com/dvdvgt/typst-letter): A typst letter template inspired by the DIN 5008 norm
 
 ### Linguistics
 
@@ -179,9 +184,6 @@ PRs welcomed!
 
 - [typst-slides](https://github.com/andreasKroepelin/typst-slides): A template for creating slides in Typst
 
-### Letters
-
-- [typst-letter](https://github.com/dvdvgt/typst-letter): A typst letter template inspired by the DIN 5008 norm
 
 <!-- Local Variables: -->
 <!-- markdown-toc-header-toc-title: "## Contents" -->
