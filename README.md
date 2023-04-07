@@ -140,6 +140,7 @@ PRs welcomed!
 - [typst-cv-template](https://github.com/skyzh/typst-cv-template): Chi CV Template (For Typst)
 - [typst-resume-template](https://github.com/bamboovir/typst-resume-template): Aesthetic style inspired by the Awesome-CV project
 - [vercanard](https://github.com/elegaanz/vercanard): A colorful resume template for Typst
+- [typst-mixed-resume](https://github.com/titaneric/typst-mixed-resume): A casual and elegant resume template inspired by multiple templates.
 - [typst-cv-resume](https://github.com/jxpeng98/Typst-CV-Resume): A CV template with Sans font inspired by LaTeX `Deedy-Resume`
 
 ### Formatting
