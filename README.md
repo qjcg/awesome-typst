@@ -29,6 +29,7 @@ PRs welcomed!
     - [General](#general-1)
     - [Assignments](#assignments)
     - [CV](#cv)
+    - [Footnotes & Endnotes](#footnotes--endnotes)
     - [Formatting](#formatting)
     - [Letters](#letters)
     - [Linguistics](#linguistics)
@@ -144,7 +145,7 @@ PRs welcomed!
 - [typst-resume-template](https://github.com/bamboovir/typst-resume-template): Aesthetic style inspired by the Awesome-CV project
 - [vercanard](https://github.com/elegaanz/vercanard): A colorful resume template for Typst
 
-### Footnote & Endnote
+### Footnotes & Endnotes
 
 - [typst-notes](https://github.com/saadulkh/typst-notes): A library for adding footnotes and endnotes in Typst
 
