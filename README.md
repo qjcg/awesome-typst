@@ -144,6 +144,10 @@ PRs welcomed!
 - [typst-resume-template](https://github.com/bamboovir/typst-resume-template): Aesthetic style inspired by the Awesome-CV project
 - [vercanard](https://github.com/elegaanz/vercanard): A colorful resume template for Typst
 
+### Footnote & Endnote
+
+- [typst-notes](https://github.com/saadulkh/typst-notes): A library for adding footnotes and endnotes in Typst
+
 ### Formatting
 
 - [typst-diagbox](https://github.com/PgBiel/typst-diagbox): A library for diagonal line dividers in Typst tables
