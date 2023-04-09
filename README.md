@@ -153,6 +153,7 @@ PRs welcomed!
 
 - [typst-diagbox](https://github.com/PgBiel/typst-diagbox): A library for diagonal line dividers in Typst tables
 - [typst-boxes](https://github.com/lkoehl/typst-boxes): A library to draw colorful boxes.
+- [simple-poem-typst](https://github.com/asibahi/simple-poem-typst): An application of the `measure` function to set Arabic poetry.
 
 ### Letters
 
