@@ -149,6 +149,7 @@ PRs welcomed!
 ### Footnotes & Endnotes
 
 - [typst-notes](https://github.com/saadulkh/typst-notes): A library for adding footnotes and endnotes in Typst
+- [notes.typ](https://github.com/tbug/notes.typ): A library for notes with deduplication and customizability.
 
 ### Formatting
 
