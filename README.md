@@ -139,6 +139,7 @@ PRs welcomed!
 - [moderncv.typst](https://github.com/giovanniberti/moderncv.typst): A CV template inspired by LaTeX's `moderncv`
 - [resume.typ](https://github.com/wusyong/resume.typ): Simple and ergonimic template to generate resume and CV
 - [simplecv](https://github.com/LaurenzV/simplecv): SimpleCV is a simple and elegant CV template written in Typst
+- [typst-cv-miku](https://github.com/ice-kylin/typst-cv-miku): A simple, elegant, academic style CV template for typst. Support for English and Chinese (and more)
 - [typst-cv-resume](https://github.com/jxpeng98/Typst-CV-Resume): A CV template with Sans font inspired by LaTeX `Deedy-Resume`
 - [typst-cv-template](https://github.com/skyzh/typst-cv-template): Chi CV Template (For Typst)
 - [typst-mixed-resume](https://github.com/titaneric/typst-mixed-resume): A casual and elegant resume template inspired by multiple templates.
