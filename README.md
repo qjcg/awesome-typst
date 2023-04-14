@@ -158,6 +158,7 @@ PRs welcomed!
 - [simple-poem-typst](https://github.com/asibahi/simple-poem-typst): An application of the `measure` function to set Arabic poetry.
 - [typst-boxes](https://github.com/lkoehl/typst-boxes): A library to draw colorful boxes.
 - [typst-diagbox](https://github.com/PgBiel/typst-diagbox): A library for diagonal line dividers in Typst tables
+- [typst-tablex](https://github.com/PgBiel/typst-tablex): More powerful and customizable tables in Typst!
 
 ### Letters
 
