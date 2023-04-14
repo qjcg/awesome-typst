@@ -98,6 +98,7 @@ PRs welcomed!
 #### VSCode
 
 - [Typst LSP VS Code Extension](https://marketplace.visualstudio.com/items?itemName=nvarner.typst-lsp)
+- [Typst Preview VS Code Extension](https://marketplace.visualstudio.com/items?itemName=mgt19937.typst-preview): Preview your Typst files in VS Code instantly
 
 ### GitHub Actions
 
