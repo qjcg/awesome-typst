@@ -117,6 +117,7 @@ PRs welcomed!
 
 ### General
 
+- [SimplePaper](https://github.com/1bitbool/SimplePaper): A Chinese template for writing simple paper
 - [ieee-typst-template](https://github.com/bsp0109/ieee-typst-template): A template to write IEEE Papers in Typst
 - [simple-typst-thesis](https://github.com/zagoli/simple-typst-thesis): A template useful for writing simple thesis in Typst
 - [typst-palette](https://github.com/kaarmu/typst-palette): A package of color palettes for Typst
@@ -125,7 +126,6 @@ PRs welcomed!
 - [typstry](https://github.com/qjcg/typstry): A Tapestry of Typst Templates & Examples
 - [tyspt-mla9-template](https://github.com/wychwitch/tyspt-mla9-template): An MLA 9th edition template
 - [writable-gm-screen-inserts](https://github.com/LLBlumire/writable-gm-screen-inserts): Writable Game Master Screen Inserts
-- [SimplePaper](https://github.com/1bitbool/SimplePaper): A Chinese template for writing simple paper
 
 ### Assignments
 
@@ -150,14 +150,14 @@ PRs welcomed!
 
 ### Footnotes & Endnotes
 
-- [typst-notes](https://github.com/saadulkh/typst-notes): A library for adding footnotes and endnotes in Typst
 - [notes.typ](https://github.com/tbug/notes.typ): A library for notes with deduplication and customizability.
+- [typst-notes](https://github.com/saadulkh/typst-notes): A library for adding footnotes and endnotes in Typst
 
 ### Formatting
 
-- [typst-diagbox](https://github.com/PgBiel/typst-diagbox): A library for diagonal line dividers in Typst tables
-- [typst-boxes](https://github.com/lkoehl/typst-boxes): A library to draw colorful boxes.
 - [simple-poem-typst](https://github.com/asibahi/simple-poem-typst): An application of the `measure` function to set Arabic poetry.
+- [typst-boxes](https://github.com/lkoehl/typst-boxes): A library to draw colorful boxes.
+- [typst-diagbox](https://github.com/PgBiel/typst-diagbox): A library for diagonal line dividers in Typst tables
 
 ### Letters
 
@@ -171,9 +171,9 @@ PRs welcomed!
 ### Mathematics
 
 - [commutative-diagrams](https://gitlab.com/giacomogallina/typst-cd): A library for creating commutative diagrams
+- [typst-algorithms](https://github.com/platformer/typst-algorithms): A library for writing algorithms
 - [typst-theorems](https://github.com/sahasatvik/typst-theorems): A library for creating numbered theorem environments
 - [typst-undergradmath](https://github.com/johanvx/typst-undergradmath): A Typst port of [undergradmath](https://gitlab.com/jim.hefferon/undergradmath)
-- [typst-algorithms](https://github.com/platformer/typst-algorithms): A library for writing algorithms
 
 ### Physics
 
