@@ -101,6 +101,7 @@ PRs welcomed!
 
 ### GitHub Actions
 
+- [setup-typst](https://github.com/yusancky/setup-typst): A cross-OS action for installing Typst
 - [typst-action](https://github.com/lvignoli/typst-action): Build Typst documents using GitHub actions
 
 ### Programming
