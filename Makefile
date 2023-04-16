@@ -6,7 +6,7 @@ watch: main.typ links.yaml
 	typst watch $<
 
 .PHONY: export
-export: links.yaml
+export: links.cue links.yaml
 
 links.yaml: links.cue
 	@cue export --out yaml > $@

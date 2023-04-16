@@ -21,10 +21,10 @@
 
 #let coverPage(title) = {
  set text(font: "ETBembo")
- set page(fill: maroon)
+ set page(fill: maroon, numbering: none)
  set align(center)
  v(20%)
- text(title, 50pt, white)
+ text(title, 60pt, white)
 }
 
 #coverPage[*Awesome \ Typst*]
@@ -35,25 +35,42 @@
 
 #pagebreak()
 
-#for (section, items) in yaml(inputYAML) [
+#for (section, content) in yaml(inputYAML) [
 	= #section
 
-	#for i in items [
-		+ #link(i.url, i.name)
-		  - #i.description
+	#if type(content) == "dictionary" [
+		#for (subsection, items) in content [
+
+			== #subsection
+
+			#for i in items [
+				+ #link(i.url, i.name)
+				  - #i.description
+			]
+		]
+	] else if type(content) == "array" [
+
+		#let items = content
+
+	// TODO: Choose one of (list, table) to stick with and remove the other.
+
+		#for i in items [
+			+ #link(i.url, i.name)
+			  - #i.description
+		]
+
+		#line(length: 80%)
+
+		#table(
+			columns: 3,
+			stroke: none,
+			[*Link*], [*Description*], [*Notes*],
+
+			..(for i in items {
+				( [#link(i.url, i.name)], i.description, "", )
+			})
+		)
+
+		#pagebreak()
 	]
-
-	#line(length: 80%)
-
-	#table(
-		columns: 3,
-		stroke: none,
-		[*Link*], [*Description*], [*Notes*],
-
-		..(for i in items {
-			( [#link(i.url, i.name)], i.description, "", )
-		})
-	)
-
-	#pagebreak()
 ]
