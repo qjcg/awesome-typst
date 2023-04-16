@@ -35,7 +35,7 @@
 
 #pagebreak()
 
-#for (section, content) in yaml(inputYAML) [
+#for (section, content) in yaml(inputYAML).links [
 	= #section
 
 	#if type(content) == "dictionary" [
