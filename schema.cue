@@ -6,4 +6,4 @@ package main
 	description: string
 }
 
-[...#Link]
+[string]: [...#Link]

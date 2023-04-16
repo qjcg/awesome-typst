@@ -1,29 +1,33 @@
+#let inputYAML = "links.yaml"
+
 #set document(
  title: "Awesome Typst",
 )
 
 #set page(
  paper: "us-letter",
+ numbering: "1",
 )
 
 #set text(
- font: "Mona Sans",
- size: 12pt,
+ font: "ETBembo",
+ size: 16pt,
 )
 
 #show link: it => [
 	#set text(blue)
-	#underline(it)
+	#it
 ]
 
 #let coverPage(title) = {
- set page(fill: navy)
+ set text(font: "ETBembo")
+ set page(fill: maroon)
  set align(center)
  v(20%)
  text(title, 50pt, white)
 }
 
-#coverPage[*Awesome Typst*]
+#coverPage[*Awesome \ Typst*]
 
 #pagebreak()
 
@@ -31,11 +35,25 @@
 
 #pagebreak()
 
-= Integrations & Tools
+#for (section, items) in yaml(inputYAML) [
+	= #section
 
-#for (name, url, description) in yaml("links.yaml") [
-	+ #link(url, name): #description
+	#for i in items [
+		+ #link(i.url, i.name)
+		  - #i.description
+	]
+
+	#line(length: 80%)
+
+	#table(
+		columns: 3,
+		stroke: none,
+		[*Link*], [*Description*], [*Notes*],
+
+		..(for i in items {
+			( [#link(i.url, i.name)], i.description, "", )
+		})
+	)
+
+	#pagebreak()
 ]
-
-
-= Templates & Libraries
