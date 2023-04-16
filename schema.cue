@@ -1,9 +1,9 @@
 package main
 
 #Link: {
+	name:        string
 	url:         =~"^http(s)?"
-	linkName:    string
 	description: string
 }
 
-links: [...#Link]
+[...#Link]
