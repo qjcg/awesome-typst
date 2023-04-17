@@ -184,6 +184,10 @@ PRs welcomed!
 
 - [typst-plot](https://github.com/johannes-wolf/typst-plot): A library for plotting line charts
 
+### Graphics
+
+- [typst-canvas](https://github.com/johannes-wolf/typst-canvas): A library for drawing things
+
 ### Posters
 
 - [typst-poster](https://github.com/pncnmnp/typst-poster): An academic poster template
