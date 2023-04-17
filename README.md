@@ -31,6 +31,7 @@ PRs welcomed!
     - [CV](#cv)
     - [Footnotes & Endnotes](#footnotes--endnotes)
     - [Formatting](#formatting)
+    - [Graphics](#graphics)
     - [Letters](#letters)
     - [Linguistics](#linguistics)
     - [Mathematics](#mathematics)
@@ -160,6 +161,11 @@ PRs welcomed!
 - [typst-diagbox](https://github.com/PgBiel/typst-diagbox): A library for diagonal line dividers in Typst tables
 - [typst-tablex](https://github.com/PgBiel/typst-tablex): More powerful and customizable tables in Typst!
 
+### Graphics
+
+- [typst-canvas](https://github.com/johannes-wolf/typst-canvas): A library for drawing things
+- [typst-raytracer](https://github.com/SeniorMars/typst-raytracer): raytracer in typst
+
 ### Letters
 
 - [typst-letter](https://github.com/dvdvgt/typst-letter): A typst letter template inspired by the DIN 5008 norm
@@ -184,17 +190,9 @@ PRs welcomed!
 
 - [typst-plot](https://github.com/johannes-wolf/typst-plot): A library for plotting line charts
 
-### Graphics
-
-- [typst-canvas](https://github.com/johannes-wolf/typst-canvas): A library for drawing things
-
 ### Posters
 
 - [typst-poster](https://github.com/pncnmnp/typst-poster): An academic poster template
-
-### Raytracing
-
-- [typst-raytracer](https://github.com/SeniorMars/typst-raytracer): raytracer in typst
 
 ### Slides
 
