@@ -8,10 +8,37 @@ PRs welcomed!
 
 ## Contents
 
-- [Integrations & Tools](map[Browser Extensions:[map[description:Yank URL and title of current tab, format to a chosen markup language, and copy to clipboard (supports typst link format) name:yank url:https://addons.mozilla.org/en-US/firefox/addon/yank/]] CLI Tools:[map[description:An in development Typst formatter (PR welcomed) name:typst-fmt url:https://github.com/astrale-sharp/typst-fmt/] map[description:Hot reloading of pdf in web browser name:typst-live url:https://github.com/ItsEthra/typst-live] map[description:Typst custom reader and writer for Pandoc name:typst-pandoc url:https://github.com/lvignoli/typst-pandoc]] Chatbots:[map[description:A discord bot to render Typst code name:typst-bot url:https://github.com/mattfbacon/typst-bot]] Editor Integrations:[map[description:A tree-sitter grammar with a focus on correctness. name:frozolotl/tree-sitter-typst url:https://github.com/frozolotl/tree-sitter-typst] map[description:A TreeSitter parser for the Typst File Format name:SeniorMars/tree-sitter-typst url:https://github.com/SeniorMars/tree-sitter-typst] map[description:An Emacs major mode for the typst markup-based typesetting system name:typst-mode.el url:https://github.com/Ziqi-Yang/typst-mode.el] map[description:A brand-new language server for Typst, plus a VS Code extension name:typst-lsp url:https://github.com/nvarner/typst-lsp]]])
-- [Official Project Links]([map[description:The Typst web app name:typst.app url:https://typst.app] map[description: name:Typst Documentation url:https://typst.app/docs/] map[description: name:GitHub url:https://github.com/typst/typst] map[description: name:Blog url:https://typst.app/blog/] map[description: name:Discord url:https://discord.gg/2uDybryKPe] map[description: name:Instagram url:https://instagram.com/typstapp/] map[description: name:LinkedIn url:https://www.linkedin.com/company/typst/] map[description: name:Twitter url:https://twitter.com/typstapp/]])
-- [Templates & Libraries]([map[description:Hot reloading of pdf in web browser name:typst-live url:https://github.com/ItsEthra/typst-live] map[description:Typst custom reader and writer for Pandoc name:typst-pandoc url:https://github.com/lvignoli/typst-pandoc]])
+- [Official Project Links](#Official Project Links)
+- [Integrations & Tools](#Integrations & Tools)
+- [Templates & Libraries](#Templates & Libraries)
 
+
+
+## Official Project Links
+
+- [typst.app](https://typst.app): The Typst web app
+- [Typst Documentation](https://typst.app/docs/): 
+- [GitHub](https://github.com/typst/typst): 
+- [Blog](https://typst.app/blog/): 
+- [Discord](https://discord.gg/2uDybryKPe): 
+- [Instagram](https://instagram.com/typstapp/): 
+- [LinkedIn](https://www.linkedin.com/company/typst/): 
+- [Twitter](https://twitter.com/typstapp/): 
+
+## Integrations & Tools
+
+- [<no value>](<no value>): <no value>
+- [<no value>](<no value>): <no value>
+- [<no value>](<no value>): <no value>
+- [<no value>](<no value>): <no value>
+
+## Templates & Libraries
+
+- [typst-live](https://github.com/ItsEthra/typst-live): Hot reloading of pdf in web browser
+- [typst-pandoc](https://github.com/lvignoli/typst-pandoc): Typst custom reader and writer for Pandoc
+
+
+# TODO: AUTOMATE GENERATION OF ALL BELOW
 
 ## Official Project Links
 

@@ -8,9 +8,24 @@ PRs welcomed!
 
 ## Contents
 
-{{ range $k, $v := . -}}
-	- [{{ $k }}]({{ $v }})
+{{ range $section := . -}}
+{{- range $title, $items := $section -}}
+- [{{ $title }}](#{{ $title }})
+{{ end -}}
 {{ end }}
+
+{{ range $section := . -}}
+{{ range $title, $items := $section }}
+## {{ $title }}
+
+{{ range $i := $items -}}
+- [{{ $i.name }}]({{ $i.url }}): {{ $i.description }}
+{{ end -}}
+
+{{ end -}}
+{{ end }}
+
+# TODO: AUTOMATE GENERATION OF ALL BELOW
 
 ## Official Project Links
 
