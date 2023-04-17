@@ -47,62 +47,72 @@ links: [
 	},
 
 	{
-		"Integrations & Tools": {
+		"Integrations & Tools": [
 
-			"Browser Extensions": [
-				{
-					name:        "yank"
-					url:         "https://addons.mozilla.org/en-US/firefox/addon/yank/"
-					description: "Yank URL and title of current tab, format to a chosen markup language, and copy to clipboard (supports typst link format)"
-				},
-			]
-			Chatbots: [
-				{
-					name:        "typst-bot"
-					url:         "https://github.com/mattfbacon/typst-bot"
-					description: "A discord bot to render Typst code"
-				},
-			]
-
-			"CLI Tools": [
-				{
-					name:        "typst-fmt"
-					url:         "https://github.com/astrale-sharp/typst-fmt/"
-					description: "An in development Typst formatter (PR welcomed)"
-				},
-				{
-					name:        "typst-live"
-					url:         "https://github.com/ItsEthra/typst-live"
-					description: "Hot reloading of pdf in web browser"
-				},
-				{
-					name:        "typst-pandoc"
-					url:         "https://github.com/lvignoli/typst-pandoc"
-					description: "Typst custom reader and writer for Pandoc"
-				},
-			]
-		}
-		"Editor Integrations": [
 			{
-				name:        "frozolotl/tree-sitter-typst"
-				url:         "https://github.com/frozolotl/tree-sitter-typst"
-				description: "A tree-sitter grammar with a focus on correctness."
-			},
-			{
-				name:        "SeniorMars/tree-sitter-typst"
-				url:         "https://github.com/SeniorMars/tree-sitter-typst"
-				description: "A TreeSitter parser for the Typst File Format"
+				"Browser Extensions": [
+					{
+						name:        "yank"
+						url:         "https://addons.mozilla.org/en-US/firefox/addon/yank/"
+						description: "Yank URL and title of current tab, format to a chosen markup language, and copy to clipboard (supports typst link format)"
+					},
+				]
 			},
 
 			{
-				name:        "typst-mode.el"
-				url:         "https://github.com/Ziqi-Yang/typst-mode.el"
-				description: "An Emacs major mode for the typst markup-based typesetting system"
+				Chatbots: [
+					{
+						name:        "typst-bot"
+						url:         "https://github.com/mattfbacon/typst-bot"
+						description: "A discord bot to render Typst code"
+					},
+				]
 			},
+
 			{
-				name:        "typst-lsp"
-				url:         "https://github.com/nvarner/typst-lsp"
-				description: "A brand-new language server for Typst, plus a VS Code extension"
+				"CLI Tools": [
+					{
+						name:        "typst-fmt"
+						url:         "https://github.com/astrale-sharp/typst-fmt/"
+						description: "An in development Typst formatter (PR welcomed)"
+					},
+					{
+						name:        "typst-live"
+						url:         "https://github.com/ItsEthra/typst-live"
+						description: "Hot reloading of pdf in web browser"
+					},
+					{
+						name:        "typst-pandoc"
+						url:         "https://github.com/lvignoli/typst-pandoc"
+						description: "Typst custom reader and writer for Pandoc"
+					},
+				]
+			},
+
+			{
+				"Editor Integrations": [
+					{
+						name:        "frozolotl/tree-sitter-typst"
+						url:         "https://github.com/frozolotl/tree-sitter-typst"
+						description: "A tree-sitter grammar with a focus on correctness."
+					},
+					{
+						name:        "SeniorMars/tree-sitter-typst"
+						url:         "https://github.com/SeniorMars/tree-sitter-typst"
+						description: "A TreeSitter parser for the Typst File Format"
+					},
+
+					{
+						name:        "typst-mode.el"
+						url:         "https://github.com/Ziqi-Yang/typst-mode.el"
+						description: "An Emacs major mode for the typst markup-based typesetting system"
+					},
+					{
+						name:        "typst-lsp"
+						url:         "https://github.com/nvarner/typst-lsp"
+						description: "A brand-new language server for Typst, plus a VS Code extension"
+					},
+				]
 			},
 		]
 	},

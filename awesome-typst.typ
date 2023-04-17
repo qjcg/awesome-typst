@@ -35,42 +35,48 @@
 
 #pagebreak()
 
-#for (section, content) in yaml(inputYAML).links [
-	= #section
+#for section in yaml(inputYAML).links [
 
-	#if type(content) == "dictionary" [
-		#for (subsection, items) in content [
+	#for (title, items) in section [
 
-			== #subsection
+		= #title
+
+		#if "url" in items.at(0).keys() [
+
+			// TODO: Choose one of (list, table) to stick with and remove the other.
 
 			#for i in items [
 				+ #link(i.url, i.name)
 				  - #i.description
 			]
+
+			#line(length: 100%)
+
+			#table(
+				columns: 3,
+				stroke: none,
+				[*Link*], [*Description*], [*Notes*],
+
+				..(for i in items {
+					( [#link(i.url, i.name)], i.description, "", )
+				})
+			)
+
+			#pagebreak()
+		] else [
+			#let sections = items
+
+			#for s in sections [
+				#for (title, items) in s [
+
+					== #title
+
+					#for i in items [
+						+ #link(i.url, i.name)
+						  - #i.description
+					]
+				]
+			]
 		]
-	] else if type(content) == "array" [
-
-		#let items = content
-
-	// TODO: Choose one of (list, table) to stick with and remove the other.
-
-		#for i in items [
-			+ #link(i.url, i.name)
-			  - #i.description
-		]
-
-		#line(length: 80%)
-
-		#table(
-			columns: 3,
-			stroke: none,
-			[*Link*], [*Description*], [*Notes*],
-
-			..(for i in items {
-				( [#link(i.url, i.name)], i.description, "", )
-			})
-		)
-
-		#pagebreak()
 	]
 ]

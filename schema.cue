@@ -6,7 +6,6 @@ package main
 	description: string
 }
 
-#Section: [...#Link]
-#SubSection: [...#Link]
+#Section: [string]: [...#Link] | [...#Section]
 
-links: [string]: [...#Link] | {[string]: [...#Link]}
+links: [...#Section]

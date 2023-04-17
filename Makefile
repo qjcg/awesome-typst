@@ -1,19 +1,21 @@
 in := awesome-typst.typ
 out := $(in:.typ=.pdf)
+in_data := links.cue
+out_data := $(in_data:.cue=.yaml)
 
-$(out): $(in) links.yaml links.cue
+$(out): $(in) $(in_data) $(out_data)
 	typst compile $<
 
 .PHONY: watch
-watch: $(in) links.yaml
+watch: $(in) $(out_data)
 	typst watch $<
 
 .PHONY: export
-export: links.cue links.yaml
+export: $(in_data) $(out_data)
 
-links.yaml: links.cue
+$(out_data): $(in_data)
 	@cue export --out yaml > $@
 
 .PHONY: clean
 clean:
-	rm -f $(out)
+	rm -f $(out) $(out_data)
