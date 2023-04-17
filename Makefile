@@ -6,6 +6,12 @@ out_data := $(in_data:.cue=.yaml)
 $(out): $(in) $(in_data) $(out_data)
 	typst compile $<
 
+.PHONY: readme
+readme: README.md README.md.tmpl
+
+README.md: README.md.tmpl
+	cue build
+
 .PHONY: watch
 watch: $(in) $(out_data)
 	typst watch $<
