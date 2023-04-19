@@ -15,6 +15,7 @@ PRs welcomed!
     - [Browser Extensions](#browser-extensions)
     - [Chatbots](#chatbots)
     - [CLI Tools](#cli-tools)
+    - [Editors](#editors)
     - [Editor Integrations](#editor-integrations)
       - [General](#general)
       - [Emacs](#emacs)
@@ -71,6 +72,10 @@ PRs welcomed!
 - [typst-fmt](https://github.com/astrale-sharp/typst-fmt/): An in development Typst formatter (PR welcomed)
 - [typst-live](https://github.com/ItsEthra/typst-live): Hot reloading of pdf in web browser
 - [typst-pandoc](https://github.com/lvignoli/typst-pandoc): Typst custom reader and writer for Pandoc
+
+### Editors
+
+- [typstudio](https://github.com/Cubxity/typstudio): An in development desktop editor built using Tauri.
 
 ### Editor Integrations
 
