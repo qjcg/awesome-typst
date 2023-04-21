@@ -116,7 +116,6 @@ links: [
 			},
 		]
 	},
-
 	{
 		"Templates & Libraries": [
 			{
@@ -130,5 +129,6 @@ links: [
 				description: "Typst custom reader and writer for Pandoc"
 			},
 		]
+
 	},
 ]
