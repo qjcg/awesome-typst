@@ -114,6 +114,7 @@ PRs welcomed!
 ### Programming
 
 - [typst-py](https://github.com/messense/typst-py):  Python binding to typst
+- [leetcode.typ](https://github.com/lucifer1004/leetcode.typ): Solving Leetcode problems in Typst
 
 ## Templates & Libraries
 
