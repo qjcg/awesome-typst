@@ -1,27 +1,46 @@
-in := awesome-typst.typ
-out := $(in:.typ=.pdf)
-in_data := links.cue
-out_data := $(in_data:.cue=.yaml)
+in_typst := awesome-typst.typ
+in_cue := links.cue
+in_readme := README.md.tmpl
 
-$(out): $(in) $(in_data) $(out_data)
+out_pdf := $(in_typst:.typ=.pdf)
+out_yaml := $(in_cue:.cue=.yaml)
+out_readme := $(basename $(in_readme))
+
+
+.PHONY: all
+all: $(out_readme) $(out_pdf) $(out_yaml)
+
+
+# PDF
+
+.PHONY: pdf
+pdf: $(out_pdf)
+
+$(out_pdf): $(in_typst) $(out_yaml)
 	typst compile $<
 
-.PHONY: readme
-readme: README.md README.md.tmpl
-
-README.md: README.md.tmpl
-	cue build
-
 .PHONY: watch
-watch: $(in) $(out_data)
+watch:
 	typst watch $<
 
-.PHONY: export
-export: $(in_data) $(out_data)
 
-$(out_data): $(in_data)
-	@cue export --out yaml > $@
+# README
+
+.PHONY: readme
+readme: $(out_readme)
+
+$(out_readme): $(in_readme) $(out_yaml)
+	cue build
+
+
+# YAML
+
+.PHONY: yaml
+yaml: $(out_yaml)
+
+$(out_yaml): $(in_cue)
+	cue export --out yaml > $@
 
 .PHONY: clean
 clean:
-	rm -f $(out) $(out_data)
+	rm -f $(out_pdf) $(out_readme) $(out_yaml)
