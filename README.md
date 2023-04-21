@@ -39,7 +39,6 @@ PRs welcomed!
     - [Physics](#physics)
     - [Plotting](#plotting)
     - [Posters](#posters)
-    - [Raytracing](#raytracing)
     - [Slides](#slides)
 
 <!-- markdown-toc end -->
