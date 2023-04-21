@@ -61,6 +61,7 @@ PRs welcomed!
 ### Browser Extensions
 
 - (FireFox) [yank](https://addons.mozilla.org/en-US/firefox/addon/yank/) - Yank URL and title of current tab, format to a chosen markup language, and copy to clipboard (supports typst link format)
+- (FireFox) [bib-kit](https://github.com/MordragT/bib_kit) - Retrieve website information to create citations in the hayagriva format
 
 ### Chatbots
 
