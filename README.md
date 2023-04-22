@@ -127,7 +127,7 @@ PRs welcomed!
 - [SimplePaper](https://github.com/1bitbool/SimplePaper) - A Chinese template for writing simple paper
 - [ieee-typst-template](https://github.com/bsp0109/ieee-typst-template) - A template to write IEEE Papers in Typst
 - [simple-typst-thesis](https://github.com/zagoli/simple-typst-thesis) - A template useful for writing simple thesis in Typst
-- [typst-palette](https://github.com/kaarmu/typst-palette) - A package of color palettes for Typst
+- [typst-palettes](https://github.com/kaarmu/typst-palettes) - A library of color palettes for Typst
 - [typst-templates](https://github.com/eigenein/typst-templates) - Templates for Typst
 - [typst-templates](https://github.com/haxibami/typst-template) - My typst templates
 - [typstry](https://github.com/qjcg/typstry) - A Tapestry of Typst Templates & Examples
