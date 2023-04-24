@@ -16,37 +16,37 @@ PRs welcomed!
 
 ## Official Project Links
 
-- [typst.app](https://typst.app): The Typst web app
-- [Typst Documentation](https://typst.app/docs/):
-- [GitHub](https://github.com/typst/typst):
-- [Blog](https://typst.app/blog/):
-- [Discord](https://discord.gg/2uDybryKPe):
-- [Instagram](https://instagram.com/typstapp/):
-- [LinkedIn](https://www.linkedin.com/company/typst/):
-- [Twitter](https://twitter.com/typstapp/):
+- [typst.app](https://typst.app) - The Typst web app
+- [Typst Documentation](https://typst.app/docs/) -
+- [GitHub](https://github.com/typst/typst) -
+- [Blog](https://typst.app/blog/) -
+- [Discord](https://discord.gg/2uDybryKPe) -
+- [Instagram](https://instagram.com/typstapp/) -
+- [LinkedIn](https://www.linkedin.com/company/typst/) -
+- [Twitter](https://twitter.com/typstapp/) -
 
 ## Integrations & Tools
 
-- [<no value>](<no value>): <no value>
-- [<no value>](<no value>): <no value>
-- [<no value>](<no value>): <no value>
-- [<no value>](<no value>): <no value>
+- [<no value>](<no value>) - <no value>
+- [<no value>](<no value>) - <no value>
+- [<no value>](<no value>) - <no value>
+- [<no value>](<no value>) - <no value>
 
 ## Templates & Libraries
 
-- [typst-live](https://github.com/ItsEthra/typst-live): Hot reloading of pdf in web browser
-- [typst-pandoc](https://github.com/lvignoli/typst-pandoc): Typst custom reader and writer for Pandoc
+- [typst-live](https://github.com/ItsEthra/typst-live) - Hot reloading of pdf in web browser
+- [typst-pandoc](https://github.com/lvignoli/typst-pandoc) - Typst custom reader and writer for Pandoc
 
 
 # TODO: AUTOMATE GENERATION OF ALL BELOW
 
 ## Official Project Links
 
-- [typst.app](https://typst.app) - The Typst web app
+- [typst.app](https://typst.app): The Typst web app
 - [Typst Documentation](https://typst.app/docs)
 - [GitHub](https://github.com/typst/typst)
 - [Blog](https://typst.app/blog/)
-- Social - [Discord] [Instagram] [LinkedIn] [Twitter]
+- Social: [Discord] [Instagram] [LinkedIn] [Twitter]
 
 [discord]: https://discord.gg/2uDybryKPe
 [instagram]: https://instagram.com/typstapp/
@@ -62,17 +62,13 @@ PRs welcomed!
 
 ### Chatbots
 
-- [typst-bot](https://github.com/mattfbacon/typst-bot) - A discord bot to render Typst code
+- [typst-bot](https://github.com/mattfbacon/typst-bot): A discord bot to render Typst code
 
 ### CLI Tools
 
-- [typst-fmt](https://github.com/astrale-sharp/typst-fmt/) - An in development Typst formatter (PR welcomed)
-- [typst-live](https://github.com/ItsEthra/typst-live) - Hot reloading of pdf in web browser
-- [typst-pandoc](https://github.com/lvignoli/typst-pandoc) - Typst custom reader and writer for Pandoc
-
-### Editors
-
-- [typstudio](https://github.com/Cubxity/typstudio) - An in development desktop editor built using Tauri.
+- [typst-fmt](https://github.com/astrale-sharp/typst-fmt/): An in development Typst formatter (PR welcomed)
+- [typst-live](https://github.com/ItsEthra/typst-live): Hot reloading of pdf in web browser
+- [typst-pandoc](https://github.com/lvignoli/typst-pandoc): Typst custom reader and writer for Pandoc
 
 ### Editor Integrations
 
@@ -88,52 +84,51 @@ PRs welcomed!
 
 ### GitHub Actions
 
-- [setup-typst](https://github.com/yusancky/setup-typst) - A cross-OS action for installing Typst
-- [typst-action](https://github.com/lvignoli/typst-action) - Build Typst documents using GitHub actions
+- [setup-typst](https://github.com/yusancky/setup-typst): A cross-OS action for installing Typst
+- [typst-action](https://github.com/lvignoli/typst-action): Build Typst documents using GitHub actions
 
 ### Programming
 
-- [leetcode.typ](https://github.com/lucifer1004/leetcode.typ) - Solving Leetcode problems in Typst
-- [typst-py](https://github.com/messense/typst-py) - Python binding to typst
+- [typst-py](https://github.com/messense/typst-py):  Python binding to typst
 
 ## Templates & Libraries
 
 ### Official
 
-- [typst/templates](https://github.com/typst/templates) - The templates that ship with the Typst web app
+- [typst/templates](https://github.com/typst/templates): The templates that ship with the Typst web app
 
 ### General
 
-- [SimplePaper](https://github.com/1bitbool/SimplePaper) - A Chinese template for writing simple paper
-- [ieee-typst-template](https://github.com/bsp0109/ieee-typst-template) - A template to write IEEE Papers in Typst
-- [simple-typst-thesis](https://github.com/zagoli/simple-typst-thesis) - A template useful for writing simple thesis in Typst
-- [typst-palettes](https://github.com/kaarmu/typst-palettes) - A library of color palettes for Typst
-- [typst-templates](https://github.com/eigenein/typst-templates) - Templates for Typst
-- [typst-templates](https://github.com/haxibami/typst-template) - My typst templates
-- [typstry](https://github.com/qjcg/typstry) - A Tapestry of Typst Templates & Examples
-- [tyspt-mla9-template](https://github.com/wychwitch/tyspt-mla9-template) - An MLA 9th edition template
-- [writable-gm-screen-inserts](https://github.com/LLBlumire/writable-gm-screen-inserts) - Writable Game Master Screen Inserts
+- [SimplePaper](https://github.com/1bitbool/SimplePaper): A Chinese template for writing simple paper
+- [ieee-typst-template](https://github.com/bsp0109/ieee-typst-template): A template to write IEEE Papers in Typst
+- [simple-typst-thesis](https://github.com/zagoli/simple-typst-thesis): A template useful for writing simple thesis in Typst
+- [typst-palette](https://github.com/kaarmu/typst-palette): A package of color palettes for Typst
+- [typst-templates](https://github.com/eigenein/typst-templates): Templates for Typst
+- [typst-templates](https://github.com/haxibami/typst-template): My typst templates
+- [typstry](https://github.com/qjcg/typstry): A Tapestry of Typst Templates & Examples
+- [tyspt-mla9-template](https://github.com/wychwitch/tyspt-mla9-template): An MLA 9th edition template
+- [writable-gm-screen-inserts](https://github.com/LLBlumire/writable-gm-screen-inserts): Writable Game Master Screen Inserts
 
 ### Assignments
 
-- [assignment-template](https://github.com/AntoniosBarotsis/typst-assignment-template) - A simple assignment template
-- [typst-assignment-template](https://github.com/astrale-sharp/typst-assignement-template.git) - Yet another simple assignment template
-- [typst-assignment-template](https://github.com/gRox167/typst-assignment-template.git) - Yet another simple assignment template with a cover and several useful math symbols.
-- [typst-homework-template](https://github.com/OriginCode/typst-homework-template) - A simple homework template inspired by the LaTeX homework template by Adam Blank
+- [assignment-template](https://github.com/AntoniosBarotsis/typst-assignment-template): A simple assignment template
+- [typst-assignment-template](https://github.com/astrale-sharp/typst-assignement-template.git): Yet another simple assignment template
+- [typst-assignment-template](https://github.com/gRox167/typst-assignment-template.git): Yet another simple assignment template with a cover and several useful math symbols.
+- [typst-homework-template](https://github.com/OriginCode/typst-homework-template): A simple homework template inspired by the LaTeX homework template by Adam Blank
 
 ### CV
 
-- [alta-typst](https://github.com/GeorgeHoneywood/alta-typst) - A simple Typst CV template, inspired by AltaCV by LianTze Lim
-- [attractive-typst-resume](https://github.com/Harkunwar/attractive-typst-resume) - A modern looking, attractive CV/Resume template by Harkunwar Kochar
-- [moderncv.typst](https://github.com/giovanniberti/moderncv.typst) - A CV template inspired by LaTeX's `moderncv`
-- [resume.typ](https://github.com/wusyong/resume.typ) - Simple and ergonimic template to generate resume and CV
-- [simplecv](https://github.com/LaurenzV/simplecv) - SimpleCV is a simple and elegant CV template written in Typst
-- [typst-cv-miku](https://github.com/ice-kylin/typst-cv-miku) - A simple, elegant, academic style CV template for typst. Support for English and Chinese (and more)
-- [typst-cv-resume](https://github.com/jxpeng98/Typst-CV-Resume) - A CV template with Sans font inspired by LaTeX `Deedy-Resume`
-- [typst-cv-template](https://github.com/skyzh/typst-cv-template) - Chi CV Template (For Typst)
-- [typst-mixed-resume](https://github.com/titaneric/typst-mixed-resume) - A casual and elegant resume template inspired by multiple templates.
-- [typst-resume-template](https://github.com/bamboovir/typst-resume-template) - Aesthetic style inspired by the Awesome-CV project
-- [vercanard](https://github.com/elegaanz/vercanard) - A colorful resume template for Typst
+- [alta-typst](https://github.com/GeorgeHoneywood/alta-typst): A simple Typst CV template, inspired by AltaCV by LianTze Lim
+- [attractive-typst-resume](https://github.com/Harkunwar/attractive-typst-resume): A modern looking, attractive CV/Resume template by Harkunwar Kochar
+- [moderncv.typst](https://github.com/giovanniberti/moderncv.typst): A CV template inspired by LaTeX's `moderncv`
+- [resume.typ](https://github.com/wusyong/resume.typ): Simple and ergonimic template to generate resume and CV
+- [simplecv](https://github.com/LaurenzV/simplecv): SimpleCV is a simple and elegant CV template written in Typst
+- [typst-cv-miku](https://github.com/ice-kylin/typst-cv-miku): A simple, elegant, academic style CV template for typst. Support for English and Chinese (and more)
+- [typst-cv-resume](https://github.com/jxpeng98/Typst-CV-Resume): A CV template with Sans font inspired by LaTeX `Deedy-Resume`
+- [typst-cv-template](https://github.com/skyzh/typst-cv-template): Chi CV Template (For Typst)
+- [typst-mixed-resume](https://github.com/titaneric/typst-mixed-resume): A casual and elegant resume template inspired by multiple templates.
+- [typst-resume-template](https://github.com/bamboovir/typst-resume-template): Aesthetic style inspired by the Awesome-CV project
+- [vercanard](https://github.com/elegaanz/vercanard): A colorful resume template for Typst
 
 ### Calendar / Timetable
 
@@ -141,8 +136,8 @@ PRs welcomed!
 
 ### Footnotes & Endnotes
 
-- [notes.typ](https://github.com/tbug/notes.typ) - A library for notes with deduplication and customizability.
-- [typst-notes](https://github.com/saadulkh/typst-notes) - A library for adding footnotes and endnotes in Typst
+- [notes.typ](https://github.com/tbug/notes.typ): A library for notes with deduplication and customizability.
+- [typst-notes](https://github.com/saadulkh/typst-notes): A library for adding footnotes and endnotes in Typst
 
 ### Formatting
 
@@ -187,14 +182,12 @@ PRs welcomed!
 
 ### Posters
 
-- [typst-poster](https://github.com/pncnmnp/typst-poster) - An academic poster template
+- [typst-poster](https://github.com/pncnmnp/typst-poster): An academic poster template
+
+### Raytracing
+
+- [typst-raytracer](https://github.com/SeniorMars/typst-raytracer): raytracer in typst
 
 ### Slides
 
-- [diapo](https://github.com/lvignoli/diapo) - A minimal and simplistic presentation template.
-- [typst-slides](https://github.com/andreasKroepelin/typst-slides) - A template for creating slides in Typst
-
-<!-- Local Variables: -->
-<!-- markdown-toc-header-toc-title: "## Contents" -->
-<!-- markdown-toc-indentation-space: 2 -->
-<!-- End: -->
+- [typst-slides](https://github.com/andreasKroepelin/typst-slides): A template for creating slides in Typst
