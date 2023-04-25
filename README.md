@@ -133,6 +133,7 @@ PRs welcomed!
 - [typstry](https://github.com/qjcg/typstry) - A Tapestry of Typst Templates & Examples
 - [tyspt-mla9-template](https://github.com/wychwitch/tyspt-mla9-template) - An MLA 9th edition template
 - [writable-gm-screen-inserts](https://github.com/LLBlumire/writable-gm-screen-inserts) - Writable Game Master Screen Inserts
+- [typst-psu](https://github.com/cafeclimber/typst-psu) - Penn State Dissertation / Thesis
 
 ### Assignments
 
@@ -193,6 +194,10 @@ PRs welcomed!
 ### Physics
 
 - [physics](https://github.com/Leedehai/typst-physics) - A library for usual physics notations, e.g. vectors and vector fields, matrices, differentials, derivatives, Dirac brakets, tensors, isotopes, and digital signal sequences.
+
+### Engineering
+
+- [circuitypst](https://github.com/fenjalien/circuitypst) - A library for drawing electronic circuit schematics
 
 ### Plotting
 
