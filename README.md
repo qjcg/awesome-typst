@@ -194,6 +194,10 @@ PRs welcomed!
 
 - [physics](https://github.com/Leedehai/typst-physics) - A library for usual physics notations, e.g. vectors and vector fields, matrices, differentials, derivatives, Dirac brakets, tensors, isotopes, and digital signal sequences.
 
+### Engineering
+
+- [circuitypst](https://github.com/fenjalien/circuitypst) - A library for drawing electronic circuit schematics
+
 ### Plotting
 
 - [typst-plot](https://github.com/johannes-wolf/typst-plot) - A library for plotting line charts
