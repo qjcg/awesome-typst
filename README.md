@@ -10,8 +10,9 @@ PRs welcomed!
 ## Contents
 
 - [Awesome Typst](#awesome-typst)
+  - [Contents](#contents)
   - [Official Project Links](#official-project-links)
-  - [Integrations & Tools](#integrations--tools)
+  - [Integrations \& Tools](#integrations--tools)
     - [Browser Extensions](#browser-extensions)
     - [Chatbots](#chatbots)
     - [CLI Tools](#cli-tools)
@@ -25,18 +26,20 @@ PRs welcomed!
       - [VSCode](#vscode)
     - [GitHub Actions](#github-actions)
     - [Programming](#programming)
-  - [Templates & Libraries](#templates--libraries)
+  - [Templates \& Libraries](#templates--libraries)
     - [Official](#official)
     - [General](#general-1)
     - [Assignments](#assignments)
     - [CV](#cv)
-    - [Footnotes & Endnotes](#footnotes--endnotes)
+    - [Calendar / Timetable](#calendar--timetable)
+    - [Footnotes \& Endnotes](#footnotes--endnotes)
     - [Formatting](#formatting)
     - [Graphics](#graphics)
     - [Letters](#letters)
     - [Linguistics](#linguistics)
     - [Mathematics](#mathematics)
     - [Physics](#physics)
+    - [Engineering](#engineering)
     - [Plotting](#plotting)
     - [Posters](#posters)
     - [Slides](#slides)
@@ -154,6 +157,9 @@ PRs welcomed!
 - [typst-mixed-resume](https://github.com/titaneric/typst-mixed-resume) - A casual and elegant resume template inspired by multiple templates.
 - [typst-resume-template](https://github.com/bamboovir/typst-resume-template) - Aesthetic style inspired by the Awesome-CV project
 - [vercanard](https://github.com/elegaanz/vercanard) - A colorful resume template for Typst
+
+### Calendar / Timetable
+- [typst-timetable](https://github.com/ludwig-austermann/typst-timetable) - A template for timetables
 
 ### Footnotes & Endnotes
 
