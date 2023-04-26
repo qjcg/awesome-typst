@@ -17,17 +17,11 @@ PRs welcomed!
     - [CLI Tools](#cli-tools)
     - [Editors](#editors)
     - [Editor Integrations](#editor-integrations)
-      - [General](#general)
-      - [Emacs](#emacs)
-      - [Language Servers](#language-servers)
-      - [Obsidian](#obsidian)
-      - [Vim](#vim)
-      - [VSCode](#vscode)
     - [GitHub Actions](#github-actions)
     - [Programming](#programming)
   - [Templates & Libraries](#templates--libraries)
     - [Official](#official)
-    - [General](#general-1)
+    - [General](#general)
     - [Assignments](#assignments)
     - [CV](#cv)
     - [Calendar / Timetable](#calendar--timetable)
@@ -81,32 +75,15 @@ PRs welcomed!
 
 ### Editor Integrations
 
-#### General
-
-- [frozolotl/tree-sitter-typst](https://github.com/frozolotl/tree-sitter-typst) - A tree-sitter grammar with a focus on correctness.
 - [SeniorMars/tree-sitter-typst](https://github.com/SeniorMars/tree-sitter-typst) - A TreeSitter parser for the Typst File Format
-
-#### Emacs
-
-- [typst-mode.el](https://github.com/Ziqi-Yang/typst-mode.el) - An Emacs major mode for the `typst` markup-based typesetting system
-
-#### Language Servers
-
-- [typst-lsp](https://github.com/nvarner/typst-lsp) - A brand-new language server for Typst, plus a VS Code extension
-
-#### Obsidian
-
-- [obsidian-typst](https://github.com/fenjalien/obsidian-typst) - Renders typst code blocks in Obsidian into images using Typst through the power of WASM!
-
-#### Vim
-
-- [typst.nvim](https://github.com/SeniorMars/typst.nvim) - WIP. Goals: Treesitter highlighting, snippets, and a smooth intergration with neovim
-- [typst.vim](https://github.com/kaarmu/typst.vim) - Vim plugin for Typst
-
-#### VSCode
-
 - [Typst LSP VS Code Extension](https://marketplace.visualstudio.com/items?itemName=nvarner.typst-lsp)
 - [Typst Preview VS Code Extension](https://marketplace.visualstudio.com/items?itemName=mgt19937.typst-preview) - Preview your Typst files in VS Code instantly
+- [frozolotl/tree-sitter-typst](https://github.com/frozolotl/tree-sitter-typst) - A tree-sitter grammar with a focus on correctness.
+- [obsidian-typst](https://github.com/fenjalien/obsidian-typst) - Renders typst code blocks in Obsidian into images using Typst through the power of WASM!
+- [typst-lsp](https://github.com/nvarner/typst-lsp) - A brand-new language server for Typst, plus a VS Code extension
+- [typst-mode.el](https://github.com/Ziqi-Yang/typst-mode.el) - An Emacs major mode for the `typst` markup-based typesetting system
+- [typst.nvim](https://github.com/SeniorMars/typst.nvim) - WIP. Goals: Treesitter highlighting, snippets, and a smooth intergration with neovim
+- [typst.vim](https://github.com/kaarmu/typst.vim) - Vim plugin for Typst
 
 ### GitHub Actions
 
