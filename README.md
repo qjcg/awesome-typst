@@ -10,9 +10,8 @@ PRs welcomed!
 ## Contents
 
 - [Awesome Typst](#awesome-typst)
-  - [Contents](#contents)
   - [Official Project Links](#official-project-links)
-  - [Integrations \& Tools](#integrations--tools)
+  - [Integrations & Tools](#integrations--tools)
     - [Browser Extensions](#browser-extensions)
     - [Chatbots](#chatbots)
     - [CLI Tools](#cli-tools)
@@ -26,13 +25,13 @@ PRs welcomed!
       - [VSCode](#vscode)
     - [GitHub Actions](#github-actions)
     - [Programming](#programming)
-  - [Templates \& Libraries](#templates--libraries)
+  - [Templates & Libraries](#templates--libraries)
     - [Official](#official)
     - [General](#general-1)
     - [Assignments](#assignments)
     - [CV](#cv)
     - [Calendar / Timetable](#calendar--timetable)
-    - [Footnotes \& Endnotes](#footnotes--endnotes)
+    - [Footnotes & Endnotes](#footnotes--endnotes)
     - [Formatting](#formatting)
     - [Graphics](#graphics)
     - [Letters](#letters)
@@ -63,8 +62,8 @@ PRs welcomed!
 
 ### Browser Extensions
 
-- (FireFox) [yank](https://addons.mozilla.org/en-US/firefox/addon/yank/) - Yank URL and title of current tab, format to a chosen markup language, and copy to clipboard (supports typst link format)
 - (FireFox) [bib-kit](https://github.com/MordragT/bib_kit) - Retrieve website information to create citations in the hayagriva format
+- (FireFox) [yank](https://addons.mozilla.org/en-US/firefox/addon/yank/) - Yank URL and title of current tab, format to a chosen markup language, and copy to clipboard (supports typst link format)
 
 ### Chatbots
 
@@ -159,6 +158,7 @@ PRs welcomed!
 - [vercanard](https://github.com/elegaanz/vercanard) - A colorful resume template for Typst
 
 ### Calendar / Timetable
+
 - [typst-timetable](https://github.com/ludwig-austermann/typst-timetable) - A template for timetables
 
 ### Footnotes & Endnotes
@@ -168,11 +168,11 @@ PRs welcomed!
 
 ### Formatting
 
+- [ruby-typ](https://github.com/rinmyo/ruby-typ) - A library to add ruby text
 - [simple-poem-typst](https://github.com/asibahi/simple-poem-typst) - An application of the `measure` function to set Arabic poetry.
 - [typst-boxes](https://github.com/lkoehl/typst-boxes) - A library to draw colorful boxes.
 - [typst-diagbox](https://github.com/PgBiel/typst-diagbox) - A library for diagonal line dividers in Typst tables
 - [typst-tablex](https://github.com/PgBiel/typst-tablex) - More powerful and customizable tables in Typst!
-- [ruby-typ](https://github.com/rinmyo/ruby-typ) - A library to add ruby text
 
 ### Graphics
 
