@@ -112,7 +112,7 @@ PRs welcomed!
 - [typstry](https://github.com/qjcg/typstry) - A Tapestry of Typst Templates & Examples
 - [tyspt-mla9-template](https://github.com/wychwitch/tyspt-mla9-template) - An MLA 9th edition template
 - [writable-gm-screen-inserts](https://github.com/LLBlumire/writable-gm-screen-inserts) - Writable Game Master Screen Inserts
-- [typst-index](https://github.com/RolfBremer/typst-index) - Automatically Genrated Index Page
+- [typst-index](https://github.com/RolfBremer/typst-index) - Automatically Generated Index Page
 
 ### Assignments
 
