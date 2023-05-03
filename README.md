@@ -17,7 +17,7 @@ PRs welcomed!
     - [CLI Tools](#cli-tools)
     - [Editors](#editors)
     - [Editor Integrations](#editor-integrations)
-    - [GitHub Actions](#github-actions)
+    - [CI/CD](#ci-cd)
     - [Programming](#programming)
   - [Templates & Libraries](#templates--libraries)
     - [Official](#official)
@@ -85,10 +85,11 @@ PRs welcomed!
 - [typst.nvim](https://github.com/SeniorMars/typst.nvim) - WIP. Goals: Treesitter highlighting, snippets, and a smooth intergration with neovim
 - [typst.vim](https://github.com/kaarmu/typst.vim) - Vim plugin for Typst
 
-### GitHub Actions
+### CI/CD
 
-- [setup-typst](https://github.com/yusancky/setup-typst) - A cross-OS action for installing Typst
+- [setup-typst](https://github.com/yusancky/setup-typst) - A cross-OS github action for installing Typst
 - [typst-action](https://github.com/lvignoli/typst-action) - Build Typst documents using GitHub actions
+- [gitlab-ci-typst](https://gitlab.com/IvanSanchez/gitlab-ci-typst) - Build Typst documents using GitLab CI pipelines
 
 ### Programming
 
