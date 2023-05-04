@@ -17,7 +17,7 @@ PRs welcomed!
     - [CLI Tools](#cli-tools)
     - [Editors](#editors)
     - [Editor Integrations](#editor-integrations)
-    - [CI/CD](#ci-cd)
+    - [CI/CD](#cicd)
     - [Programming](#programming)
   - [Templates & Libraries](#templates--libraries)
     - [Official](#official)
