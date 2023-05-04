@@ -87,9 +87,9 @@ PRs welcomed!
 
 ### CI/CD
 
+- [gitlab-ci-typst](https://gitlab.com/IvanSanchez/gitlab-ci-typst) - Build Typst documents using GitLab CI pipelines
 - [setup-typst](https://github.com/yusancky/setup-typst) - A cross-OS github action for installing Typst
 - [typst-action](https://github.com/lvignoli/typst-action) - Build Typst documents using GitHub actions
-- [gitlab-ci-typst](https://gitlab.com/IvanSanchez/gitlab-ci-typst) - Build Typst documents using GitLab CI pipelines
 
 ### Programming
 
