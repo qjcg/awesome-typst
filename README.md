@@ -121,6 +121,7 @@ PRs welcomed!
 - [typst-assignment-template](https://github.com/astrale-sharp/typst-assignement-template.git) - Yet another simple assignment template
 - [typst-assignment-template](https://github.com/gRox167/typst-assignment-template.git) - Yet another simple assignment template with a cover and several useful math symbols.
 - [typst-homework-template](https://github.com/OriginCode/typst-homework-template) - A simple homework template inspired by the LaTeX homework template by Adam Blank
+- [typst-teacher-template](https://github.com/jomaway/typst-teacher-templates) - A collection of typst templates. Mainly used to create worksheets and exams for my classes.
 
 ### CV
 
