@@ -19,6 +19,7 @@ PRs welcomed!
     - [Editor Integrations](#editor-integrations)
     - [CI/CD](#cicd)
     - [Programming](#programming)
+    - [Typst As A Service](#typst-as-a-service)
   - [Templates & Libraries](#templates--libraries)
     - [Official](#official)
     - [General](#general)
@@ -95,6 +96,10 @@ PRs welcomed!
 
 - [leetcode.typ](https://github.com/lucifer1004/leetcode.typ) - Solving Leetcode problems in Typst
 - [typst-py](https://github.com/messense/typst-py) - Python binding to typst
+
+### Typst As A Service
+
+- [typst-http-api](https://github.com/slashformotion/typst-http-api) - An simple docker containing an API to compile typst markup
 
 ## Templates & Libraries
 
