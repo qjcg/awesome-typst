@@ -144,6 +144,7 @@ PRs welcomed!
 - [typst-resume-template](https://github.com/bamboovir/typst-resume-template) - Aesthetic style inspired by the Awesome-CV project
 - [vercanard](https://github.com/elegaanz/vercanard) - A colorful resume template for Typst
 - [billryan-typst](https://github.com/gvariable/billryan-typst) - A simple and minimalist resume template, inspired by Resume by Billryan.
+- [typst-resume-template](https://github.com/hexWars/resume) - A pretty resume template designed using typst.
 
 ### Calendar / Timetable
 
