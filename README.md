@@ -32,6 +32,7 @@ PRs welcomed!
     - [Letters](#letters)
     - [Linguistics](#linguistics)
     - [Mathematics](#mathematics)
+    - [Music](#music)
     - [Physics](#physics)
     - [Engineering](#engineering)
     - [Plotting](#plotting)
