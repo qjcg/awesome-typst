@@ -188,7 +188,7 @@ PRs welcomed!
 
 ### Music
 
-- [typst-chords](https://github.com/ljgago/typst-chords) - A library to write song lyrics with chord diagrams in Typst 
+- [typst-chords](https://github.com/ljgago/typst-chords) - A library to write song lyrics with chord diagrams in Typst
 
 ### Physics
 
