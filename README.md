@@ -185,6 +185,10 @@ PRs welcomed!
 - [typst-theorems](https://github.com/sahasatvik/typst-theorems) - A library for creating numbered theorem environments
 - [typst-undergradmath](https://github.com/johanvx/typst-undergradmath) - A Typst port of [undergradmath](https://gitlab.com/jim.hefferon/undergradmath)
 
+### Music
+
+- [typst-chords](https://github.com/ljgago/typst-chords) - A library to write song lyrics with chord diagrams in Typst 
+
 ### Physics
 
 - [physics](https://github.com/Leedehai/typst-physics) - A library for usual physics notations, e.g. vectors and vector fields, matrices, differentials, derivatives, Dirac brakets, tensors, isotopes, and digital signal sequences.
