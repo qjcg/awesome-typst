@@ -122,6 +122,7 @@ PRs welcomed!
 - [writable-gm-screen-inserts](https://github.com/LLBlumire/writable-gm-screen-inserts) - Writable Game Master Screen Inserts
 - [typst-index](https://github.com/RolfBremer/typst-index) - Automatically Generated Index Page
 - [typst-glossary](https://github.com/RolfBremer/typst-glossary) - Automatically Generated Glossary Page
+- [typst-invoice](https://github.com/erictapen/typst-invoice) - Generate invoices from TOML files
 
 ### Assignments
 
