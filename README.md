@@ -166,6 +166,7 @@ PRs welcomed!
 - [typst-boxes](https://github.com/lkoehl/typst-boxes) - A library to draw colorful boxes.
 - [typst-diagbox](https://github.com/PgBiel/typst-diagbox) - A library for diagonal line dividers in Typst tables
 - [typst-tablex](https://github.com/PgBiel/typst-tablex) - More powerful and customizable tables in Typst!
+- [typst-ansi_render](https://github.com/8LWXpg/typst-ansi_render) - A library to render text with ANSI escape sequences
 
 ### Graphics
 
