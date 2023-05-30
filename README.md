@@ -86,6 +86,7 @@ PRs welcomed!
 - [typst-mode.el](https://github.com/Ziqi-Yang/typst-mode.el) - An Emacs major mode for the `typst` markup-based typesetting system
 - [typst.nvim](https://github.com/SeniorMars/typst.nvim) - WIP. Goals: Treesitter highlighting, snippets, and a smooth intergration with neovim
 - [typst.vim](https://github.com/kaarmu/typst.vim) - Vim plugin for Typst
+- [typst-sympy-calculator](https://github.com/OrangeX4/vscode-typst-sympy-calculator) - VS Code extension for Typst math calculating, includes Arithmetic, Calculous, Matrix, Custom Variances and Funcions by yourself
 
 ### CI/CD
 
