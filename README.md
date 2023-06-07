@@ -37,6 +37,7 @@ PRs welcomed!
     - [Engineering](#engineering)
     - [Plotting](#plotting)
     - [Posters](#posters)
+    - [Scripting](#scripting)
     - [Slides](#slides)
 
 <!-- markdown-toc end -->
@@ -212,6 +213,10 @@ PRs welcomed!
 ### Posters
 
 - [typst-poster](https://github.com/pncnmnp/typst-poster) - An academic poster template
+
+### Scripting
+
+- [typst-strfmt](https://github.com/PgBiel/typst-strfmt) - Convenient Rust-like string formatting in Typst
 
 ### Slides
 
