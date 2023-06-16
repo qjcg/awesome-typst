@@ -203,6 +203,7 @@ PRs welcomed!
 ### Engineering
 
 - [circuitypst](https://github.com/fenjalien/circuitypst) - A library for drawing electronic circuit schematics
+- [typst-bytefield](https://github.com/jomaway/typst-bytefield) - A library for drawing (network) protocol headers
 
 ### Plotting
 
