@@ -127,6 +127,7 @@ PRs welcomed!
 - [typst-glossary](https://github.com/RolfBremer/typst-glossary) - Automatically Generated Glossary Page
 - [typst-invoice](https://github.com/erictapen/typst-invoice) - Generate invoices from TOML files
 - [Typst-Paper-Template](https://github.com/jxpeng98/Typst-Paper-Template) - Typst template for Working Paper
+
 ### Assignments
 
 - [assignment-template](https://github.com/AntoniosBarotsis/typst-assignment-template) - A simple assignment template
