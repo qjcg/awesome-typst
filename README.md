@@ -123,8 +123,8 @@ PRs welcomed!
 - [typstry](https://github.com/qjcg/typstry) - A Tapestry of Typst Templates & Examples
 - [tyspt-mla9-template](https://github.com/wychwitch/tyspt-mla9-template) - An MLA 9th edition template
 - [writable-gm-screen-inserts](https://github.com/LLBlumire/writable-gm-screen-inserts) - Writable Game Master Screen Inserts
-- [typst-index](https://github.com/RolfBremer/typst-index) - Automatically Generated Index Page
-- [typst-glossary](https://github.com/RolfBremer/typst-glossary) - Automatically Generated Glossary Page
+- [in-dexter](https://github.com/RolfBremer/in-dexter) - Automatically Generated Index Page (renamed from typst-index)
+- [gloss-awe](https://github.com/RolfBremer/gloss-awe) - Automatically Generated Glossary Page (renamed from typst-glossary)
 - [typst-invoice](https://github.com/erictapen/typst-invoice) - Generate invoices from TOML files
 - [Typst-Paper-Template](https://github.com/jxpeng98/Typst-Paper-Template) - Typst template for Working Paper
 
