@@ -193,6 +193,7 @@ PRs welcomed!
 - [typst-algorithms](https://github.com/platformer/typst-algorithms) - A library for writing algorithms
 - [typst-theorems](https://github.com/sahasatvik/typst-theorems) - A library for creating numbered theorem environments
 - [typst-undergradmath](https://github.com/johanvx/typst-undergradmath) - A Typst port of [undergradmath](https://gitlab.com/jim.hefferon/undergradmath)
+- [typst-himcm-template](https://github.com/EvanLuo42/typst-himcm-template) - An HiMCM template for Typst
 
 ### Music
 
