@@ -190,7 +190,7 @@ PRs welcomed!
 
 ### Mathematics
 
-- [commutative-diagrams](https://gitlab.com/giacomogallina/typst-cd) - A library for creating commutative diagrams
+- [commute](https://gitlab.com/giacomogallina/commute) - A library for creating commutative diagrams
 - [typst-algorithms](https://github.com/platformer/typst-algorithms) - A library for writing algorithms
 - [typst-theorems](https://github.com/sahasatvik/typst-theorems) - A library for creating numbered theorem environments
 - [typst-undergradmath](https://github.com/johanvx/typst-undergradmath) - A Typst port of [undergradmath](https://gitlab.com/jim.hefferon/undergradmath)
