@@ -176,7 +176,7 @@ PRs welcomed!
 
 ### Graphics
 
-- [CeTZ](https://github.com/johannes-wolf/typst-canvas) - CeTZ (CeTZ, ein Typst Zeichenpacket) is a library for drawing with [Typst](https://typst.app) with an API inspired by TikZ and [Processing](https://processing.org/)
+- [CeTZ](https://github.com/johannes-wolf/typst-canvas) - CeTZ (CeTZ, ein Typst Zeichenpacket) is a library for drawing with [Typst](https://typst.app) with an API inspired by TikZ and [Processing](https://processing.org/). It comes with modules for drawing plots, graphs and charts.
 - [typst-raytracer](https://github.com/SeniorMars/typst-raytracer) - raytracer in typst
 
 ### Letters
