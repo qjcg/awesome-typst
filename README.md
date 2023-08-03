@@ -223,7 +223,7 @@ PRs welcomed!
 
 ### Scripting
 
-- [typst-strfmt](https://github.com/PgBiel/typst-strfmt) - Convenient Rust-like string formatting in Typst
+- [typst-oxifmt](https://github.com/PgBiel/typst-oxifmt) - Convenient Rust-like string formatting in Typst
 
 ### Slides
 
