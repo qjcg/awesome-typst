@@ -224,6 +224,7 @@ PRs welcomed!
 ### Scripting
 
 - [typst-oxifmt](https://github.com/PgBiel/typst-oxifmt) - Convenient Rust-like string formatting in Typst
+- [typst-tools4typst](https://github.com/jneug/typst-tools4typst) - Tools for package and template authors.
 
 ### Slides
 
