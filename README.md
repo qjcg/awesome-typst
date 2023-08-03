@@ -129,6 +129,7 @@ PRs welcomed!
 - [typstry](https://github.com/qjcg/typstry) - A Tapestry of Typst Templates & Examples
 - [tyspt-mla9-template](https://github.com/wychwitch/tyspt-mla9-template) - An MLA 9th edition template
 - [writable-gm-screen-inserts](https://github.com/LLBlumire/writable-gm-screen-inserts) - Writable Game Master Screen Inserts
+- [Mantys](https://github.com/jneug/typst-mantys) - A template for writing manuals for Typst packages.
 
 ### Assignments
 
