@@ -175,6 +175,7 @@ PRs welcomed!
 - [showybox]([https://github.com/lkoehl/typst-showybox](https://github.com/Pablo-Gonzalez-Calderon/showybox-package)) - A Typst package for creating colorful and customizable boxes.
 - [typst-diagbox](https://github.com/PgBiel/typst-diagbox) - A library for diagonal line dividers in Typst tables
 - [typst-tablex](https://github.com/PgBiel/typst-tablex) - More powerful and customizable tables in Typst!
+- [typst-codelst](https://github.com/jneug/typst-codelst) - A Typst pakage to render source code.
 
 ### Graphics
 
