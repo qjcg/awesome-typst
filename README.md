@@ -129,6 +129,7 @@ PRs welcomed!
 - [typstry](https://github.com/qjcg/typstry) - A Tapestry of Typst Templates & Examples
 - [tyspt-mla9-template](https://github.com/wychwitch/tyspt-mla9-template) - An MLA 9th edition template
 - [writable-gm-screen-inserts](https://github.com/LLBlumire/writable-gm-screen-inserts) - Writable Game Master Screen Inserts
+- [Mantys](https://github.com/jneug/typst-mantys) - A template for writing manuals for Typst packages.
 
 ### Assignments
 
@@ -171,8 +172,10 @@ PRs welcomed!
 - [simple-poem-typst](https://github.com/asibahi/simple-poem-typst) - An application of the `measure` function to set Arabic poetry.
 - [typst-ansi_render](https://github.com/8LWXpg/typst-ansi_render) - A library to render text with ANSI escape sequences
 - [typst-boxes](https://github.com/lkoehl/typst-boxes) - A library to draw colorful boxes.
+- [showybox](https://github.com/Pablo-Gonzalez-Calderon/showybox-package) - A Typst package for creating colorful and customizable boxes.
 - [typst-diagbox](https://github.com/PgBiel/typst-diagbox) - A library for diagonal line dividers in Typst tables
 - [typst-tablex](https://github.com/PgBiel/typst-tablex) - More powerful and customizable tables in Typst!
+- [typst-codelst](https://github.com/jneug/typst-codelst) - A Typst pakage to render source code.
 
 ### Graphics
 
@@ -224,6 +227,7 @@ PRs welcomed!
 ### Scripting
 
 - [typst-oxifmt](https://github.com/PgBiel/typst-oxifmt) - Convenient Rust-like string formatting in Typst
+- [typst-tools4typst](https://github.com/jneug/typst-tools4typst) - Tools for package and template authors.
 
 ### Slides
 
