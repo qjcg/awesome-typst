@@ -130,6 +130,7 @@ PRs welcomed!
 - [tyspt-mla9-template](https://github.com/wychwitch/tyspt-mla9-template) - An MLA 9th edition template
 - [writable-gm-screen-inserts](https://github.com/LLBlumire/writable-gm-screen-inserts) - Writable Game Master Screen Inserts
 - [Mantys](https://github.com/jneug/typst-mantys) - A template for writing manuals for Typst packages.
+- [typst-orange-template](https://github.com/flavio20002/typst-orange-template) - A Typst book template inspired by The Legrand Orange Book
 
 ### Assignments
 
