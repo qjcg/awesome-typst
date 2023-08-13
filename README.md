@@ -220,7 +220,7 @@ PRs welcomed!
 ### Plotting
 
 - [typst-cd](https://gitlab.com/giacomogallina/typst-cd) - Proof of Concept for tikz-like commutative diagrams
-- [typst-plot](https://github.com/johannes-wolf/typst-plot) - A library for plotting line charts
+- [typst-plot](https://github.com/johannes-wolf/typst-plot) - A library for plotting line charts (deprecated in favor of CeTZ)
 - [typst-plotting](https://github.com/Pegacraft/typst-plotting) - A library for drawing a variety of charts and plots like line charts, histograms, and pie charts
 
 ### Posters
