@@ -181,6 +181,7 @@ PRs welcomed!
 - [typst-diagbox](https://github.com/PgBiel/typst-diagbox) - A library for diagonal line dividers in Typst tables
 - [typst-tablex](https://github.com/PgBiel/typst-tablex) - More powerful and customizable tables in Typst!
 - [typst-codelst](https://github.com/jneug/typst-codelst) - A Typst pakage to render source code.
+- [metro](https://github.com/fenjalien/metro) - A typst package to add typsetting to units!
 
 ### Graphics
 
