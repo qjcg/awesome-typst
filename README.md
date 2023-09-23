@@ -182,6 +182,7 @@ PRs welcomed!
 - [typst-tablex](https://github.com/PgBiel/typst-tablex) - More powerful and customizable tables in Typst!
 - [typst-codelst](https://github.com/jneug/typst-codelst) - A Typst pakage to render source code.
 - [metro](https://github.com/fenjalien/metro) - A typst package to add typsetting to units!
+- [syntastica-typst](https://github.com/RubixDev/syntastica-typst/) - Tree-sitter syntax highlighting for code blocks.
 
 ### Graphics
 
