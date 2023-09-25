@@ -92,9 +92,9 @@ PRs welcomed!
 - [obsidian-typst](https://github.com/fenjalien/obsidian-typst) - Renders typst code blocks in Obsidian into images using Typst through the power of WASM!
 - [typst-lsp](https://github.com/nvarner/typst-lsp) - A brand-new language server for Typst, plus a VS Code extension
 - [typst-mode.el](https://github.com/Ziqi-Yang/typst-mode.el) - An Emacs major mode for the `typst` markup-based typesetting system
+- [typst-sympy-calculator](https://github.com/OrangeX4/vscode-typst-sympy-calculator) - VS Code extension for Typst math calculating, includes Arithmetic, Calculus, Matrix, Custom Variances and Functions by yourself
 - [typst.nvim](https://github.com/SeniorMars/typst.nvim) - WIP. Goals: Treesitter highlighting, snippets, and a smooth integration with neovim
 - [typst.vim](https://github.com/kaarmu/typst.vim) - Vim plugin for Typst
-- [typst-sympy-calculator](https://github.com/OrangeX4/vscode-typst-sympy-calculator) - VS Code extension for Typst math calculating, includes Arithmetic, Calculus, Matrix, Custom Variances and Functions by yourself
 
 ### Programming
 
@@ -114,15 +114,17 @@ PRs welcomed!
 ### General
 
 - [Data Thinking Report Template](https://github.com/onefact/datathinking.org-report-template) - a template for artificial intelligence whitepapers with collaborative bibliographies using Zotero
+- [Mantys](https://github.com/jneug/typst-mantys) - A template for writing manuals for Typst packages.
 - [Project-Report-Typst](https://github.com/aurghya-0/Project-Report-Typst) - A simple template for college or university level project report.
 - [SimplePaper](https://github.com/1bitbool/SimplePaper) - A Chinese template for writing simple paper
 - [Typst-Paper-Template](https://github.com/jxpeng98/Typst-Paper-Template) - Typst template for Working Paper
 - [gloss-awe](https://github.com/RolfBremer/gloss-awe) - Automatically Generated Glossary Page (renamed from typst-glossary)
-- [ieee-typst-template](https://github.com/bsp0109/ieee-typst-template) - A template to write IEEE Papers in Typst
 - [ieee-trans-typst](https://github.com/p4perf4ce/typst-ieee-trans-template) - A template that mimic LaTeX IEEE Transaction template (`ieee-trans.cls`)
+- [ieee-typst-template](https://github.com/bsp0109/ieee-typst-template) - A template to write IEEE Papers in Typst
 - [in-dexter](https://github.com/RolfBremer/in-dexter) - Automatically Generated Index Page (renamed from typst-index)
 - [simple-typst-thesis](https://github.com/zagoli/simple-typst-thesis) - A template useful for writing simple thesis in Typst
 - [typst-invoice](https://github.com/erictapen/typst-invoice) - Generate invoices from TOML files
+- [typst-orange-template](https://github.com/flavio20002/typst-orange-template) - A Typst book template inspired by The Legrand Orange Book
 - [typst-palettes](https://github.com/kaarmu/typst-palettes) - A library of color palettes for Typst
 - [typst-templates](https://github.com/eigenein/typst-templates) - Templates for Typst
 - [typst-templates](https://github.com/haxibami/typst-template) - My typst templates
@@ -130,8 +132,6 @@ PRs welcomed!
 - [typstry](https://github.com/qjcg/typstry) - A Tapestry of Typst Templates & Examples
 - [tyspt-mla9-template](https://github.com/wychwitch/tyspt-mla9-template) - An MLA 9th edition template
 - [writable-gm-screen-inserts](https://github.com/LLBlumire/writable-gm-screen-inserts) - Writable Game Master Screen Inserts
-- [Mantys](https://github.com/jneug/typst-mantys) - A template for writing manuals for Typst packages.
-- [typst-orange-template](https://github.com/flavio20002/typst-orange-template) - A Typst book template inspired by The Legrand Orange Book
 
 ### Assignments
 
@@ -153,6 +153,7 @@ PRs welcomed!
 - [simplecv](https://github.com/LaurenzV/simplecv) - SimpleCV is a simple and elegant CV template written in Typst
 - [typst-cv-miku](https://github.com/ice-kylin/typst-cv-miku) - A simple, elegant, academic style CV template for typst. Support for English and Chinese (and more)
 - [typst-cv-resume](https://github.com/jxpeng98/Typst-CV-Resume) - A CV template with Sans font inspired by LaTeX `Deedy-Resume`
+- [typst-cv-template1](https://github.com/vaibhavjhawar/typst-cv-template1) - A CV template inspired by Alessandro Plasmati's Graduate CV LaTex template
 - [typst-cv-template](https://github.com/skyzh/typst-cv-template) - Chi CV Template (For Typst)
 - [typst-mixed-resume](https://github.com/titaneric/typst-mixed-resume) - A casual and elegant resume template inspired by multiple templates.
 - [typst-resume-template](https://github.com/bamboovir/typst-resume-template) - Aesthetic style inspired by the Awesome-CV project
@@ -160,7 +161,6 @@ PRs welcomed!
 - [typst-twentysecondcv](https://github.com/tomowang/typst-twentysecondcv) - A CV template inspired by LaTeX's `Twenty Seconds Resume/CV`
 - [typst-yaml-cv](https://github.com/daxartio/cv) - A simple cv template designed using typst and yaml.
 - [vercanard](https://github.com/elegaanz/vercanard) - A colorful resume template for Typst
-- [typst-cv-template1](https://github.com/vaibhavjhawar/typst-cv-template1) - A CV template inspired by Alessandro Plasmati's Graduate CV LaTex template
 
 ### Calendar / Timetable
 
@@ -173,16 +173,16 @@ PRs welcomed!
 
 ### Formatting
 
+- [metro](https://github.com/fenjalien/metro) - A typst package to add typsetting to units!
 - [ruby-typ](https://github.com/rinmyo/ruby-typ) - A library to add ruby text
+- [showybox](https://github.com/Pablo-Gonzalez-Calderon/showybox-package) - A Typst package for creating colorful and customizable boxes.
 - [simple-poem-typst](https://github.com/asibahi/simple-poem-typst) - An application of the `measure` function to set Arabic poetry.
+- [syntastica-typst](https://github.com/RubixDev/syntastica-typst/) - Tree-sitter syntax highlighting for code blocks.
 - [typst-ansi_render](https://github.com/8LWXpg/typst-ansi_render) - A library to render text with ANSI escape sequences
 - [typst-boxes](https://github.com/lkoehl/typst-boxes) - A library to draw colorful boxes.
-- [showybox](https://github.com/Pablo-Gonzalez-Calderon/showybox-package) - A Typst package for creating colorful and customizable boxes.
+- [typst-codelst](https://github.com/jneug/typst-codelst) - A Typst pakage to render source code.
 - [typst-diagbox](https://github.com/PgBiel/typst-diagbox) - A library for diagonal line dividers in Typst tables
 - [typst-tablex](https://github.com/PgBiel/typst-tablex) - More powerful and customizable tables in Typst!
-- [typst-codelst](https://github.com/jneug/typst-codelst) - A Typst pakage to render source code.
-- [metro](https://github.com/fenjalien/metro) - A typst package to add typsetting to units!
-- [syntastica-typst](https://github.com/RubixDev/syntastica-typst/) - Tree-sitter syntax highlighting for code blocks.
 
 ### Graphics
 
