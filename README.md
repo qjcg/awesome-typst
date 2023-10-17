@@ -119,6 +119,7 @@ PRs welcomed!
 - [Project-Report-Typst](https://github.com/aurghya-0/Project-Report-Typst) - A simple template for college or university level project report.
 - [SimplePaper](https://github.com/1bitbool/SimplePaper) - A Chinese template for writing simple paper
 - [Typst-Paper-Template](https://github.com/jxpeng98/Typst-Paper-Template) - Typst template for Working Paper
+- [LaPreprint](https://github.com/rowanc1/LaPreprint) - Beautiful preprints for Typst
 - [gloss-awe](https://github.com/RolfBremer/gloss-awe) - Automatically Generated Glossary Page (renamed from typst-glossary)
 - [ieee-conference-typst-template](https://github.com/DawnEver/ieee-conference-typst-template) A template to write IEEE Conference in Typst.
 - [ieee-trans-typst](https://github.com/p4perf4ce/typst-ieee-trans-template) - A template that mimic LaTeX IEEE Transaction template (`ieee-trans.cls`)
