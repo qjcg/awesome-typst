@@ -215,6 +215,7 @@ PRs welcomed!
 
 ### Music
 
+- [conchord](https://github.com/sitandr/conchord) - Typst package to easily write lyrics with chords and generate colorful fretboard diagrams
 - [typst-chords](https://github.com/ljgago/typst-chords) - A library to write song lyrics with chord diagrams in Typst
 
 ### Physics
