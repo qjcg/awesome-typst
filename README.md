@@ -184,7 +184,7 @@ PRs welcomed!
 - [syntastica-typst](https://github.com/RubixDev/syntastica-typst/) - Tree-sitter syntax highlighting for code blocks.
 - [typst-ansi_render](https://github.com/8LWXpg/typst-ansi_render) - A library to render text with ANSI escape sequences
 - [typst-boxes](https://github.com/lkoehl/typst-boxes) - A library to draw colorful boxes.
-- [typst-codelst](https://github.com/jneug/typst-codelst) - A Typst pakage to render source code.
+- [typst-codelst](https://github.com/jneug/typst-codelst) - A Typst package to render source code.
 - [typst-diagbox](https://github.com/PgBiel/typst-diagbox) - A library for diagonal line dividers in Typst tables
 - [typst-tablex](https://github.com/PgBiel/typst-tablex) - More powerful and customizable tables in Typst!
 
