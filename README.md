@@ -220,7 +220,7 @@ PRs welcomed!
 
 ### Physics
 
-- [physics](https://github.com/Leedehai/typst-physics) - A library for usual physics notations, e.g. vectors and vector fields, matrices, differentials, derivatives, Dirac brakets, tensors, isotopes, and digital signal sequences.
+- [physics](https://github.com/Leedehai/typst-physics) - A library for usual physics notations, e.g. vectors and vector fields, matrices, differentials, derivatives, Dirac brackets, tensors, isotopes, and digital signal sequences.
 
 ### Engineering
 
