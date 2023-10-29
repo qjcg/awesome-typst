@@ -48,13 +48,13 @@ PRs welcomed!
 - [Typst Documentation](https://typst.app/docs)
 - [GitHub](https://github.com/typst/typst)
 - [Blog](https://typst.app/blog/)
-- Social - [Discord] [Instagram] [LinkedIn] [Mastodon] [Twitter]
+- Social - [Discord] [Instagram] [LinkedIn] [Mastodon] [X]
 
 [discord]: https://discord.gg/2uDybryKPe
 [instagram]: https://instagram.com/typstapp/
 [linkedin]: https://www.linkedin.com/company/typst/
 [mastodon]: https://mastodon.social/@typst
-[twitter]: https://twitter.com/typstapp/
+[X]: https://twitter.com/typstapp/
 
 ## Integrations & Tools
 
