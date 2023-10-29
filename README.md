@@ -95,6 +95,7 @@ PRs welcomed!
 - [typst-sympy-calculator](https://github.com/OrangeX4/vscode-typst-sympy-calculator) - VS Code extension for Typst math calculating, includes Arithmetic, Calculus, Matrix, Custom Variances and Functions by yourself
 - [typst.nvim](https://github.com/SeniorMars/typst.nvim) - WIP. Goals: Treesitter highlighting, snippets, and a smooth integration with neovim
 - [typst.vim](https://github.com/kaarmu/typst.vim) - Vim plugin for Typst
+- [typst-conceal.vim](https://github.com/MrPicklePinosaur/typst-conceal.vim) - Vim/Nvim plugin for replacing long typst symbol names with unicode characters
 - [Typst Sync](https://github.com/OrangeX4/vscode-typst-sync) - A vscode extension for Typst local packages management and synchronization.
 
 ### Programming
