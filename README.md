@@ -159,6 +159,7 @@ PRs welcomed!
 - [typst-cv-resume](https://github.com/jxpeng98/Typst-CV-Resume) - A CV template with Sans font inspired by LaTeX `Deedy-Resume`
 - [typst-cv-template1](https://github.com/vaibhavjhawar/typst-cv-template1) - A CV template inspired by Alessandro Plasmati's Graduate CV LaTex template
 - [typst-cv-template](https://github.com/skyzh/typst-cv-template) - Chi CV Template (For Typst)
+- [typst-cv-teplate](https://github.com/JCGoran/typst-cv-template) - A CV template inspired by LaTeX's `Awesome CV`
 - [typst-mixed-resume](https://github.com/titaneric/typst-mixed-resume) - A casual and elegant resume template inspired by multiple templates.
 - [typst-resume-sans](https://github.com/mizlan/typst-resume-sans) - A sleek and unadorned sans-serif resume template.
 - [typst-resume-template](https://github.com/bamboovir/typst-resume-template) - Aesthetic style inspired by the Awesome-CV project
