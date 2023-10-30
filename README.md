@@ -54,7 +54,7 @@ PRs welcomed!
 [instagram]: https://instagram.com/typstapp/
 [linkedin]: https://www.linkedin.com/company/typst/
 [mastodon]: https://mastodon.social/@typst
-[X]: https://twitter.com/typstapp/
+[X]: https://x.com/typstapp/
 
 ## Integrations & Tools
 
