@@ -137,6 +137,7 @@ PRs welcomed!
 - [tyspt-mla9-template](https://github.com/wychwitch/tyspt-mla9-template) - An MLA 9th edition template
 - [writable-gm-screen-inserts](https://github.com/LLBlumire/writable-gm-screen-inserts) - Writable Game Master Screen Inserts
 - [french-association-status](https://github.com/coco33920/typst-association-status) - A Template to write status for french associations.
+- [aiaa-typst-template](https://gitlab.com/waterlubber/aiaa-typst-template) - A template for AIAA (American Institute of Aeronautics and Astronautics) papers.
 
 ### Assignments
 
