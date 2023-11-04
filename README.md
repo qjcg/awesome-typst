@@ -149,6 +149,12 @@ PRs welcomed!
 
 ### CV
 
+#### Examples
+
+- [bare-bones-cv](https://github.com/caffeinatedgaze/bare-bones-cv) – A minimalistic CV comprising essentials only. It works seemingly well with ATS.
+
+#### Templates
+
 - [alta-typst](https://github.com/GeorgeHoneywood/alta-typst) - A simple Typst CV template, inspired by AltaCV by LianTze Lim
 - [attractive-typst-resume](https://github.com/Harkunwar/attractive-typst-resume) - A modern looking, attractive CV/Resume template by Harkunwar Kochar
 - [awesomeCV-Typst](https://github.com/mintyfrankie/awesomeCV-Typst) - An opinionated, relived CV template inspired by the LaTeX `Awesome-CV` project, but with multilingual support and more
