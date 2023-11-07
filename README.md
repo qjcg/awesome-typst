@@ -232,6 +232,10 @@ PRs welcomed!
 
 - [physics](https://github.com/Leedehai/typst-physics) - A library for usual physics notations, e.g. vectors and vector fields, matrices, differentials, derivatives, Dirac brackets, tensors, isotopes, and digital signal sequences.
 
+## Conferences
+
+- [aiaa-typst](https://github.com/isaacew/aiaa-typst) - A template for creating conference papers in the style of the American Institute of Aeronautics and Astronautics.
+
 ### Engineering
 
 - [circuitypst](https://github.com/fenjalien/circuitypst) - A library for drawing electronic circuit schematics
