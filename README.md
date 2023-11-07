@@ -122,9 +122,6 @@ PRs welcomed!
 - [Typst-Paper-Template](https://github.com/jxpeng98/Typst-Paper-Template) - Typst template for Working Paper
 - [LaPreprint](https://github.com/rowanc1/LaPreprint) - Beautiful preprints for Typst
 - [gloss-awe](https://github.com/RolfBremer/gloss-awe) - Automatically Generated Glossary Page (renamed from typst-glossary)
-- [ieee-conference-typst-template](https://github.com/DawnEver/ieee-conference-typst-template) A template to write IEEE Conference in Typst.
-- [ieee-trans-typst](https://github.com/p4perf4ce/typst-ieee-trans-template) - A template that mimic LaTeX IEEE Transaction template (`ieee-trans.cls`)
-- [ieee-typst-template](https://github.com/bsp0109/ieee-typst-template) - A template to write IEEE Papers in Typst
 - [in-dexter](https://github.com/RolfBremer/in-dexter) - Automatically Generated Index Page (renamed from typst-index)
 - [simple-typst-thesis](https://github.com/zagoli/simple-typst-thesis) - A template useful for writing simple thesis in Typst
 - [typst-invoice](https://github.com/erictapen/typst-invoice) - Generate invoices from TOML files
@@ -235,6 +232,12 @@ PRs welcomed!
 ## Conferences
 
 - [aiaa-typst](https://github.com/isaacew/aiaa-typst) - A template for creating conference papers in the style of the American Institute of Aeronautics and Astronautics.
+- [ieee-conference-typst-template](https://github.com/DawnEver/ieee-conference-typst-template) A template to write IEEE Conference in Typst.
+- [ieee-typst-template](https://github.com/bsp0109/ieee-typst-template) - A template to write IEEE Papers in Typst
+
+## Journals
+
+- [ieee-trans-typst](https://github.com/p4perf4ce/typst-ieee-trans-template) - A template that mimic LaTeX IEEE Transaction template (`ieee-trans.cls`)
 
 ### Engineering
 
