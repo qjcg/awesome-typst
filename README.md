@@ -240,6 +240,9 @@ PRs welcomed!
 
 - [ieee-trans-typst](https://github.com/p4perf4ce/typst-ieee-trans-template) - A template that mimic LaTeX IEEE Transaction template (`ieee-trans.cls`)
 
+## Grants/Proposals
+- [typst-nsf-templates](https://github.com/ntjess/typst-nsf-templates) - National Science Foundation (NSF) general template and outlines for popular proposal types.
+
 ### Engineering
 
 - [circuitypst](https://github.com/fenjalien/circuitypst) - A library for drawing electronic circuit schematics
