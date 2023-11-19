@@ -235,6 +235,7 @@ PRs welcomed!
 - [aiaa-typst](https://github.com/isaacew/aiaa-typst) - A template for creating conference papers in the style of the American Institute of Aeronautics and Astronautics.
 - [ieee-conference-typst-template](https://github.com/DawnEver/ieee-conference-typst-template) A template to write IEEE Conference in Typst.
 - [ieee-typst-template](https://github.com/bsp0109/ieee-typst-template) - A template to write IEEE Papers in Typst
+- [ifacconf-typst](https://github.com/avonmoll/ifacconf-typst) - A template for creating conference papers in the style of the International Federation of Automatic Control
 
 ## Journals
 
