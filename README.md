@@ -39,6 +39,7 @@ PRs welcomed!
     - [Posters](#posters)
     - [Scripting](#scripting)
     - [Slides](#slides)
+    - [Tabletop RPGs](#tabletop-roleplaying-games)
 
 <!-- markdown-toc end -->
 
@@ -268,6 +269,10 @@ PRs welcomed!
 
 - [diapo](https://github.com/lvignoli/diapo) - A minimal and simplistic presentation template.
 - [polylux](https://github.com/andreasKroepelin/polylux) - Create presentation slides in Typst
+
+### Tabletop Roleplaying Games
+
+- [Troika! SRD](https://github.com/maxlambertini/troika-srd-typst) A typst version of the [Troika! RPG System Reference Document](https://docs.google.com/document/d/1haUfSVekt2gNab3V2CrL1Pg_sZ-ZlskphwXmSnGT9aw/edit) typeset in 2 columns on A4 page with cover and page background. 
 
 <!-- Local Variables: -->
 <!-- markdown-toc-header-toc-title: "## Contents" -->
