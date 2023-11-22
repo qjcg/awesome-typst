@@ -12,7 +12,7 @@ PRs welcomed!
 - [Awesome Typst](#awesome-typst)
   - [Official Project Links](#official-project-links)
   - [Integrations & Tools](#integrations--tools)
-    - [Browser Extensions](#browser-extensions)
+    - [Browser Extensions](#browser-extensions) 
     - [Chatbots](#chatbots)
     - [CI/CD](#cicd)
     - [CLI Tools](#cli-tools)
