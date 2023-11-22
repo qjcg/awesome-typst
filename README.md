@@ -210,6 +210,7 @@ PRs welcomed!
 
 - [leipzig-gloss](https://gitea.everydayimshuflin.com/greg/typst-lepizig-glossing) - A library that provides primitives for creating glossing rules according to Leipzig.
 - [typst-ipa](https://github.com/imatpot/typst-ipa) - 🔄 ASCII / IPA conversion for Typst
+- [typst-dictionary-template](https://kianting.info/wiki/w/Project:typst-dictionary-template)) - 📕  a template for lexical dictionary/glossary in Typst
 
 ### Mathematics
 
