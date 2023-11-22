@@ -272,7 +272,7 @@ PRs welcomed!
 
 ### Tabletop Roleplaying Games
 
-- [Troika! SRD](https://github.com/maxlambertini/troika-srd-typst) A typst version of the [Troika! RPG System Reference Document](https://docs.google.com/document/d/1haUfSVekt2gNab3V2CrL1Pg_sZ-ZlskphwXmSnGT9aw/edit) typeset in 2 columns on A4 page with cover and page background. 
+- [Troika! SRD](https://github.com/maxlambertini/troika-srd-typst) - A typst version of the [Troika! RPG System Reference Document](https://docs.google.com/document/d/1haUfSVekt2gNab3V2CrL1Pg_sZ-ZlskphwXmSnGT9aw/edit) typeset in 2 columns on A4 page with cover and page background. 
 
 <!-- Local Variables: -->
 <!-- markdown-toc-header-toc-title: "## Contents" -->
