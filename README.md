@@ -195,6 +195,7 @@ PRs welcomed!
 - [typst-codelst](https://github.com/jneug/typst-codelst) - A Typst package to render source code.
 - [typst-diagbox](https://github.com/PgBiel/typst-diagbox) - A library for diagonal line dividers in Typst tables
 - [typst-tablex](https://github.com/PgBiel/typst-tablex) - More powerful and customizable tables in Typst!
+- [typst-tablem](https://github.com/OrangeX4/typst-tablem) - Write markdown-like tables easily.
 
 ### Graphics
 
@@ -268,6 +269,7 @@ PRs welcomed!
 
 - [diapo](https://github.com/lvignoli/diapo) - A minimal and simplistic presentation template.
 - [polylux](https://github.com/andreasKroepelin/polylux) - Create presentation slides in Typst
+- [pinit](https://github.com/OrangeX4/typst-pinit) - Pin things as you like, especially useful for creating slides in typst.
 
 <!-- Local Variables: -->
 <!-- markdown-toc-header-toc-title: "## Contents" -->
