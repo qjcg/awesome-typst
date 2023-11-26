@@ -102,6 +102,7 @@ PRs welcomed!
 
 - [leetcode.typ](https://github.com/lucifer1004/leetcode.typ) - Solving Leetcode problems in Typst
 - [typst-py](https://github.com/messense/typst-py) - Python binding to typst
+- [typst-rb](https://github.com/actsasflinn/typst-rb) - Ruby binding to typst
 
 ### Typst As A Service
 
