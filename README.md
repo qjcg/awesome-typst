@@ -212,6 +212,7 @@ PRs welcomed!
 
 - [leipzig-gloss](https://gitea.everydayimshuflin.com/greg/typst-lepizig-glossing) - A library that provides primitives for creating glossing rules according to Leipzig.
 - [typst-ipa](https://github.com/imatpot/typst-ipa) - 🔄 ASCII / IPA conversion for Typst
+- [typst-dictionary-template](https://kianting.info/wiki/w/Project:typst-dictionary-template) - 📕  a template for lexical dictionary/glossary in Typst
 
 ### Mathematics
 
@@ -244,6 +245,7 @@ PRs welcomed!
 - [ieee-trans-typst](https://github.com/p4perf4ce/typst-ieee-trans-template) - A template that mimic LaTeX IEEE Transaction template (`ieee-trans.cls`)
 
 ## Grants/Proposals
+
 - [typst-nsf-templates](https://github.com/ntjess/typst-nsf-templates) - National Science Foundation (NSF) general template and outlines for popular proposal types.
 
 ### Engineering
