@@ -175,6 +175,7 @@ PRs welcomed!
 - [typst-twentysecondcv](https://github.com/tomowang/typst-twentysecondcv) - A CV template inspired by LaTeX's `Twenty Seconds Resume/CV`
 - [typst-yaml-cv](https://github.com/daxartio/cv) - A simple cv template designed using typst and yaml.
 - [vercanard](https://github.com/elegaanz/vercanard) - A colorful resume template for Typst
+- [modern-typst-template](https://github.com/peterpf/modern-typst-resume) - A modern resume/CV template.
 
 ### Calendar / Timetable
 
