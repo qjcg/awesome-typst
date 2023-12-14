@@ -126,6 +126,7 @@ PRs welcomed!
 - [gloss-awe](https://github.com/RolfBremer/gloss-awe) - Automatically Generated Glossary Page (renamed from typst-glossary)
 - [in-dexter](https://github.com/RolfBremer/in-dexter) - Automatically Generated Index Page (renamed from typst-index)
 - [simple-typst-thesis](https://github.com/zagoli/simple-typst-thesis) - A template useful for writing simple thesis in Typst
+- [typst-bioinfo-thesis](https://github.com/lkndl/typst-bioinfo-thesis) - Flexible section headers and page numbers; pretty outlines and a `wrapfig`
 - [typst-invoice](https://github.com/erictapen/typst-invoice) - Generate invoices from TOML files
 - [typst-orange-template](https://github.com/flavio20002/typst-orange-template) - A Typst book template inspired by The Legrand Orange Book
 - [typst-palettes](https://github.com/kaarmu/typst-palettes) - A library of color palettes for Typst
