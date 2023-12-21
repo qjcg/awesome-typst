@@ -56,6 +56,10 @@ PRs welcomed!
 [mastodon]: https://mastodon.social/@typst
 [X]: https://twitter.com/typstapp/
 
+## Unofficial Project Links
+
+- [Typst-telegram-russian-chat](https://t.me/typst_ru) - chat about Typst in Telegram in russian
+
 ## Integrations & Tools
 
 ### Browser Extensions
@@ -66,6 +70,8 @@ PRs welcomed!
 ### Chatbots
 
 - [typst-bot](https://github.com/mattfbacon/typst-bot) - A discord bot to render Typst code
+- [typst-bot-telegram](https://t.me/ru_rend_bot) - A telegram bot to render Typst code
+- [typst-math-bot-tg](https://github.com/daskol/typst-telegram-bot) - A telegram bot to render math expression in Typst
 
 ### CI/CD
 
