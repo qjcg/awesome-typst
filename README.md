@@ -59,6 +59,7 @@ PRs welcomed!
 ## Unofficial Project Links
 
 - [Typst-telegram-russian-chat](https://t.me/typst_ru) - chat about Typst in Telegram in russian
+- [#typst:matrix.org](https://matrix.to/#/#typst:matrix.org) - matrix room for Typst
 
 ## Integrations & Tools
 
