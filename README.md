@@ -11,6 +11,7 @@ PRs welcomed!
 
 - [Awesome Typst](#awesome-typst)
   - [Official Project Links](#official-project-links)
+  - [Unofficial Project Links](#unofficial-project-links)
   - [Integrations & Tools](#integrations--tools)
     - [Browser Extensions](#browser-extensions)
     - [Chatbots](#chatbots)
