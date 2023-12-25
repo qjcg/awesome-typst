@@ -60,6 +60,7 @@ PRs welcomed!
 ## Unofficial Project Links
 
 - [Typst-telegram-russian-chat](https://t.me/typst_ru) - chat about Typst in Telegram in russian
+- [#typst:matrix.org](https://matrix.to/#/#typst:matrix.org) - matrix room for Typst
 
 ## Integrations & Tools
 
@@ -218,6 +219,7 @@ PRs welcomed!
 
 ### Letters
 
+- [typst-letter](https://github.com/Sematre/typst-letter) - DIN 5008 letter template for Typst
 - [typst-letter](https://github.com/dvdvgt/typst-letter) - A typst letter template inspired by the DIN 5008 norm
 - [typst-letter-template](https://github.com/pascal-huber/typst-letter-template) - A customizable typst letter template with different presets (DIN 5008, Swiss C5)
 
