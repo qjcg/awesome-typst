@@ -187,6 +187,7 @@ PRs welcomed!
 - [typst-yaml-cv](https://github.com/daxartio/cv) - A simple cv template designed using typst and yaml.
 - [vercanard](https://github.com/elegaanz/vercanard) - A colorful resume template for Typst
 - [modern-typst-template](https://github.com/peterpf/modern-typst-resume) - A modern resume/CV template.
+- [NNJR](https://github.com/tzx/NNJR) - A resume template inspired by `Jake's Resume` LaTeX template. Uses Typst and YAML.
 
 ### Calendar / Timetable
 
