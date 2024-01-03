@@ -6,10 +6,10 @@ lint:
     BUILD +lint-lychee
 
 lint-markdown:
-	FROM avtodev/markdown-lint:v1
-	WORKDIR /work
-	COPY .markdownlint.yaml *.md .
-	RUN --entrypoint -- --config .markdownlint.yaml *.md
+    FROM avtodev/markdown-lint:v1
+    WORKDIR /work
+    COPY .markdownlint.yaml *.md .
+    RUN --entrypoint -- --config .markdownlint.yaml *.md
 
 lint-editorconfig:
     FROM mstruebing/editorconfig-checker:2.7.2
