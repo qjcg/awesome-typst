@@ -8,8 +8,8 @@ lint:
 lint-markdown:
   FROM avtodev/markdown-lint:v1
   WORKDIR /work
-  COPY .markdownlint.yaml README.md .
-  RUN --entrypoint -- --config .markdownlint.yaml README.md
+  COPY .markdownlint.yaml *.md .
+  RUN --entrypoint -- --config .markdownlint.yaml *.md
 
 lint-editorconfig:
   FROM mstruebing/editorconfig-checker:2.7.2
