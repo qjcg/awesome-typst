@@ -1,13 +1,10 @@
-name: Links
+name: Check Links
 
 on:
-  repository_dispatch:
   workflow_dispatch:
   schedule:
     - cron: "00 18 * * *"
 
-env:
-  earthly_version: v0.7.23
 
 jobs:
   check-links:
@@ -17,7 +14,9 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Download earthly
-        run: "sudo /bin/sh -c 'wget https://github.com/earthly/earthly/releases/download/'${earthly_version}'/earthly-linux-amd64 -O /usr/local/bin/earthly && chmod +x /usr/local/bin/earthly'"
+        run: "sudo /bin/sh -c 'wget https://github.com/earthly/earthly/releases/download/'${version}'/earthly-linux-amd64 -O /usr/local/bin/earthly && chmod +x /usr/local/bin/earthly'"
+        env:
+          version: v0.7.23
 
       - name: Check for broken links
         run: earthly --ci +lint-lychee
