@@ -9,6 +9,9 @@ on:
       - main
   workflow_dispatch: {}
 
+env:
+  earthly_version: v0.7.23
+
 jobs:
   lint:
     runs-on: ubuntu-latest
@@ -17,8 +20,8 @@ jobs:
       - name: Clone the repo
         uses: actions/checkout@v3
 
-      - name: Download latest earthly
-        run: "sudo /bin/sh -c 'wget https://github.com/earthly/earthly/releases/download/v0.7.23/earthly-linux-amd64 -O /usr/local/bin/earthly && chmod +x /usr/local/bin/earthly'"
+      - name: Download earthly
+        run: "sudo /bin/sh -c 'wget https://github.com/earthly/earthly/releases/download/${earthly_version}/earthly-linux-amd64 -O /usr/local/bin/earthly && chmod +x /usr/local/bin/earthly'"
 
-      - name: Run build
+      - name: Run earthly target
         run: earthly --ci +lint
