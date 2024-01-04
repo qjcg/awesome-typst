@@ -9,21 +9,19 @@ on:
       - main
   workflow_dispatch: {}
 
-env:
-  earthly_version: v0.7.23
-
 jobs:
   lint:
     runs-on: ubuntu-latest
-    name: Lint files
     steps:
       - name: Clone the repo
         uses: actions/checkout@v3
 
       - name: Download earthly
-        run: "sudo /bin/sh -c 'wget https://github.com/earthly/earthly/releases/download/'${earthly_version}'/earthly-linux-amd64 -O /usr/local/bin/earthly && chmod +x /usr/local/bin/earthly'"
+        run: "sudo /bin/sh -c 'wget https://github.com/earthly/earthly/releases/download/'${version}'/earthly-linux-amd64 -O /usr/local/bin/earthly && chmod +x /usr/local/bin/earthly'"
+        env:
+          version: v0.7.23
 
-      - name: Run earthly target
+      - name: Run linters
         run: earthly --ci +lint
         env:
           EARTHLY_SECRETS: ${{ secrets.EARTHLY_SECRETS }}
