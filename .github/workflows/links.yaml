@@ -6,6 +6,9 @@ on:
   schedule:
     - cron: "00 18 * * *"
 
+env:
+  earthly_version: v0.7.23
+
 jobs:
   check-links:
     runs-on: ubuntu-latest
@@ -13,11 +16,11 @@ jobs:
       - name: Clone the repo
         uses: actions/checkout@v3
 
+      - name: Download earthly
+        run: "sudo /bin/sh -c 'wget https://github.com/earthly/earthly/releases/download/'${earthly_version}'/earthly-linux-amd64 -O /usr/local/bin/earthly && chmod +x /usr/local/bin/earthly'"
+
       - name: Check for broken links
-        id: lychee
-        uses: lycheeverse/lychee-action@v1
-        env:
-          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+        run: earthly --ci +lint-lychee
 
       - name: Create issue from lychee output file
         if: env.lychee_exit_code != 0
