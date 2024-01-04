@@ -21,4 +21,5 @@ lint-lychee:
     FROM lycheeverse/lychee:0.13
     WORKDIR /work
     COPY . .
-    RUN lychee .
+    RUN --secret GITHUB_TOKEN lychee -o report.md -f markdown .
+    SAVE ARTIFACT report.md
