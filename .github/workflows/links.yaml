@@ -1,7 +1,7 @@
 name: Check Links
 
 on:
-  workflow_dispatch:
+  workflow_dispatch: {}
   schedule:
     - cron: "00 18 * * *"
 
@@ -20,6 +20,8 @@ jobs:
 
       - name: Check for broken links
         run: earthly --ci +lint-lychee
+        env:
+          EARTHLY_SECRETS: ${{ secrets.EARTHLY_SECRETS }}
 
       - name: Create issue from lychee output file
         if: env.lychee_exit_code != 0

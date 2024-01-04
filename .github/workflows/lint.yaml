@@ -25,3 +25,5 @@ jobs:
 
       - name: Run earthly target
         run: earthly --ci +lint
+        env:
+          EARTHLY_SECRETS: ${{ secrets.EARTHLY_SECRETS }}
