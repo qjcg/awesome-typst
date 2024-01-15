@@ -106,6 +106,7 @@ PRs welcomed!
 - [typst.vim](https://github.com/kaarmu/typst.vim) - Vim plugin for Typst
 - [typst-conceal.vim](https://github.com/MrPicklePinosaur/typst-conceal.vim) - Vim/Nvim plugin for replacing long typst symbol names with unicode characters
 - [Typst Sync](https://github.com/OrangeX4/vscode-typst-sync) - A vscode extension for Typst local packages management and synchronization.
+- [uben0/tree-sitter-typst](https://github.com/uben0/tree-sitter-typst) - A TreeSitter grammar for the Typst language, used by Helix
 
 ### Programming
 
