@@ -167,6 +167,7 @@ PRs welcomed!
 
 #### Templates
 
+- [typst-academic-cv](https://github.com/DawnEver/typst-academic-cv) - Typst Template for Academic CV
 - [alta-typst](https://github.com/GeorgeHoneywood/alta-typst) - A simple Typst CV template, inspired by AltaCV by LianTze Lim
 - [attractive-typst-resume](https://github.com/Harkunwar/attractive-typst-resume) - A modern looking, attractive CV/Resume template by Harkunwar Kochar
 - [awesomeCV-Typst](https://github.com/mintyfrankie/awesomeCV-Typst) - An opinionated, relived CV template inspired by the LaTeX `Awesome-CV` project, but with multilingual support and more
@@ -179,7 +180,7 @@ PRs welcomed!
 - [typst-cv-resume](https://github.com/jxpeng98/Typst-CV-Resume) - A CV template with Sans font inspired by LaTeX `Deedy-Resume`
 - [typst-cv-template1](https://github.com/vaibhavjhawar/typst-cv-template1) - A CV template inspired by Alessandro Plasmati's Graduate CV LaTex template
 - [typst-cv-template](https://github.com/skyzh/typst-cv-template) - Chi CV Template (For Typst)
-- [typst-cv-teplate](https://github.com/JCGoran/typst-cv-template) - A CV template inspired by LaTeX's `Awesome CV`
+- [typst-cv-template](https://github.com/JCGoran/typst-cv-template) - A CV template inspired by LaTeX's `Awesome CV`
 - [typst-mixed-resume](https://github.com/titaneric/typst-mixed-resume) - A casual and elegant resume template inspired by multiple templates.
 - [typst-neat-cv](https://github.com/UntimelyCreation97/typst-neat-cv) - A Typst template for modern, minimal and elegant CVs, inspired by mintyfrankie's `Brilliant CV`
 - [typst-resume-sans](https://github.com/mizlan/typst-resume-sans) - A sleek and unadorned sans-serif resume template.
