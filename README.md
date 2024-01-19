@@ -215,7 +215,7 @@ PRs welcomed!
 - [typst-diagbox](https://github.com/PgBiel/typst-diagbox) - A library for diagonal line dividers in Typst tables
 - [typst-tablex](https://github.com/PgBiel/typst-tablex) - More powerful and customizable tables in Typst!
 - [typst-tablem](https://github.com/OrangeX4/typst-tablem) - Write markdown-like tables easily.
-
+- [typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) - A typst package to simply add admonitions.
 ### Graphics
 
 - [CeTZ](https://github.com/johannes-wolf/typst-canvas) - CeTZ (CeTZ, ein Typst Zeichenpacket) is a library for drawing with [Typst](https://typst.app) with an API inspired by TikZ and [Processing](https://processing.org/). It comes with modules for drawing plots, graphs and charts.
