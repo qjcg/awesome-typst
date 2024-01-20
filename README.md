@@ -144,7 +144,7 @@ PRs welcomed!
 - [typst-templates](https://github.com/haxibami/typst-template) - My typst templates
 - [typst-uwthesis](https://github.com/yangwenbo99/typst-uwthesis) - A typst template for writing thesis, featuring a working abbreviation lists.
 - [typstry](https://github.com/qjcg/typstry) - A Tapestry of Typst Templates & Examples
-- [tyspt-mla9-template](https://github.com/wychwitch/tyspt-mla9-template) - An MLA 9th edition template
+- [typst-mla9-template](https://github.com/wychwitch/typst-mla9-template) - An MLA 9th edition template
 - [writable-gm-screen-inserts](https://github.com/LLBlumire/writable-gm-screen-inserts) - Writable Game Master Screen Inserts
 - [french-association-status](https://github.com/coco33920/typst-association-status) - A Template to write status for french associations.
 - [aiaa-typst-template](https://gitlab.com/waterlubber/aiaa-typst-template) - A template for AIAA (American Institute of Aeronautics and Astronautics) papers.
