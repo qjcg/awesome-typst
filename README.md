@@ -127,6 +127,7 @@ PRs welcomed!
 ### General
 
 - [Data Thinking Report Template](https://github.com/onefact/datathinking.org-report-template) - a template for artificial intelligence whitepapers with collaborative bibliographies using Zotero
+- [INSA Typst Template](https://github.com/SkytAsul/INSA-Typst-Template) - A template for INSA (Institut National des Sciences Appliquées), a french public engineering school.
 - [LaPreprint](https://github.com/rowanc1/LaPreprint) - Beautiful preprints for Typst
 - [Mantys](https://github.com/jneug/typst-mantys) - A template for writing manuals for Typst packages.
 - [Project-Report-Typst](https://github.com/aurghya-0/Project-Report-Typst) - A simple template for college or university level project report.
