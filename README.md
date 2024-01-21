@@ -149,6 +149,7 @@ PRs welcomed!
 - [french-association-status](https://github.com/coco33920/typst-association-status) - A Template to write status for french associations.
 - [aiaa-typst-template](https://gitlab.com/waterlubber/aiaa-typst-template) - A template for AIAA (American Institute of Aeronautics and Astronautics) papers.
 - [mcm-icm-typst-template](https://github.com/DawnEver/mcm-icm-typst-template) - A template for Mathematical Contest in Modeling (MCM) and the Interdisciplinary Contest in Modeling(ICM).
+- [INSA Typst Template](https://github.com/SkytAsul/INSA-Typst-Template) - A template for INSA (Institut National des Sciences Appliquées), a french public engineering school.
 
 ### Assignments
 
