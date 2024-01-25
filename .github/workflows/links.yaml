@@ -15,7 +15,7 @@ jobs:
       - name: Download earthly
         run: "sudo /bin/sh -c 'wget https://github.com/earthly/earthly/releases/download/'${version}'/earthly-linux-amd64 -O /usr/local/bin/earthly && chmod +x /usr/local/bin/earthly'"
         env:
-          version: v0.7.23
+          version: v0.8.1
 
       - name: Check for broken links
         run: earthly --ci +lint-lychee
