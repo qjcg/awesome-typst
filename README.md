@@ -226,7 +226,7 @@ PRs welcomed!
 
 ### Letters
 
-- [typst-letter](https://github.com/Sematre/typst-letter) - DIN 5008 letter template for Typst
+- [typst-letter-pro](https://github.com/Sematre/typst-letter-pro) - DIN 5008 letter template for Typst
 - [typst-letter](https://github.com/dvdvgt/typst-letter) - A typst letter template inspired by the DIN 5008 norm
 - [typst-letter-template](https://github.com/pascal-huber/typst-letter-template) - A customizable typst letter template with different presets (DIN 5008, Swiss C5)
 
