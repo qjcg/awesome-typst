@@ -1,3 +1,5 @@
+<p align=right>Click for Table of Contents ↗️</p>
+
 # Awesome Typst
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
