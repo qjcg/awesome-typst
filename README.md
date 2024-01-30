@@ -1,4 +1,4 @@
-<p align=right>Click for Table of Contents ↗️</p>
+<p align=right><sup>Click for Table of Contents ↗️</sup></p>
 
 # Awesome Typst
 
