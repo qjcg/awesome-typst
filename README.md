@@ -1,3 +1,8 @@
+<p align=center>
+  <a href="README.md" hreflang="en" lang="en">English</a>
+  | <a href="README_ZH.md" hreflang="zh" lang="zh">简体中文</a>
+</p>
+
 # Awesome Typst
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
