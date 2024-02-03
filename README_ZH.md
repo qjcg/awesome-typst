@@ -9,7 +9,7 @@
 
 > Awesome Typst 列表中文版（持续维护至最新），最初为已不再维护的 [typst-cn/awesome-typst-cn](https://github.com/typst-cn/awesome-typst-cn) ，后引申出的新仓库 [typst-doc-cn/awesome-typst-cn](https://github.com/typst-doc-cn/awesome-typst-cn)，现在被合并到当前仓库。
 >
-> 该仓库由 ChatGPT 根据 [Awesome Typst](https://github.com/qjcg/awesome-typst) 翻译而来，并且加入了中文专属的部分，例如中国大学论文模板。
+> 该仓库部分内容由 ChatGPT 根据 [英文版](README.md) 翻译而来，并加入了中文专属部分〈如中国大学论文模板〉。
 
 为 [Typst](https://github.com/typst/typst) 中文用户精心策划的有用链接集合。
 
