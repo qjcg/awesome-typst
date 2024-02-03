@@ -7,7 +7,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Awesome Typst 列表中文版 (持续维护至最新)，由于原 [awesome-typst-cn](https://github.com/typst-cn/awesome-typst-cn) 仓库已经不再有人维护，所以创建了这个新仓库。
+> Awesome Typst 列表中文版（持续维护至最新），最初为已不再维护的 [typst-cn/awesome-typst-cn](https://github.com/typst-cn/awesome-typst-cn) ，后引申出的新仓库 [typst-doc-cn/awesome-typst-cn](https://github.com/typst-doc-cn/awesome-typst-cn)，现在被合并到当前仓库。
 >
 > 该仓库由 ChatGPT 根据 [Awesome Typst](https://github.com/qjcg/awesome-typst) 翻译而来，并且加入了中文专属的部分，例如中国大学论文模板。
 
