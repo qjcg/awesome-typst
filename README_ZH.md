@@ -28,7 +28,6 @@ Typst 是可用于出版的可编程标记语言，拥有变量、函数与包�
 - **环境搭建简单**：不需要像 LaTeX 一样折腾几个 G 的开发环境，原生支持中日韩等非拉丁语言，无论是官方 Web App 在线编辑，还是使用 VS Code 安装插件本地开发，都是 **即开即用**。
 - **现代编程语言**：Typst 是可用于出版的可编程标记语言，拥有 **变量、函数、包管理与错误检查** 等现代编程语言的特性，同时也提供了 **闭包** 等特性，便于进行 **函数式编程**。以及包括了 `[标记模式]`、`{脚本模式}` 与 `$数学模式$` 等多种模式的作用域，并且它们可以不限深度地、交互地嵌套。并且通过 **[包管理](https://typst-doc-cn.github.io/docs/packages/)**，你不再需要像 TexLive 一样在本地安装一大堆并不必要的宏包，而是 **按需自动从云端下载**。
 
-
 ## 目录
 
 - [Awesome Typst 中文版](#awesome-typst-中文版)
@@ -139,7 +138,6 @@ Typst 是可用于出版的可编程标记语言，拥有变量、函数与包�
 
 - [typst-http-api](https://github.com/slashformotion/typst-http-api) - 包含 API 的简单 Docker，用于编译 Typst 标记
 
-
 ## 模板和库
 
 ### 官方
@@ -160,7 +158,6 @@ Typst 是可用于出版的可编程标记语言，拥有变量、函数与包�
 - [HIT-Thesis-Typst](https://github.com/chosertech/HIT-Thesis-Typst): 适用于哈尔滨工业大学学位论文的 Typst 模板
 - [nju-thesis-typst](https://github.com/nju-lug/nju-thesis-typst): 南京大学学位论文 Typst 模板，使用 Typst 包管理、闭包等现代编程语言特性开发，一个更方便编辑和拓展的模板
 - [HEU-Report-Typst](https://github.com/a-kkiri/HEU-Report-Typst): 哈尔滨工程大学课程作业/结课汇报的通用简易 Typst 模板
-
 
 ### 通用
 
@@ -186,7 +183,6 @@ Typst 是可用于出版的可编程标记语言，拥有变量、函数与包�
 - [aiaa-typst-template](https://gitlab.com/waterlubber/aiaa-typst-template) - 用于AIAA（美国航空航天学会）论文的模板。
 - [SimpleNote](https://github.com/a-kkiri/SimpleNote) - 用于编写简易课程笔记的 Typst 模板
 - [mcm-icm-typst-template](https://github.com/DawnEver/mcm-icm-typst-template) - 美国大学生数学建模比赛（美赛, MCM/ICM） Typst 模版.
-
 
 ### 作业
 
@@ -265,7 +261,6 @@ Typst 是可用于出版的可编程标记语言，拥有变量、函数与包�
 
 - [leipzig-gloss](https://gitea.everydayimshuflin.com/greg/typst-lepizig-glossing) - 提供根据 Leipzig 规则创建辞典规则的基本库
 - [typst-ipa](https://github.com/imatpot/typst-ipa) - 用于 Typst 的 ASCII / IPA 转换
-
 
 ### 数学
 

@@ -2,7 +2,8 @@
 # Playground: https://dlaa.me/markdownlint/
 # Rules: https://github.com/DavidAnson/markdownlint/tree/main#rules--aliases
 
-default: true
+MD033: false  # no-inline-html
+MD034: false  # no-bare-urls
 
 # MD013 - Line length
 MD013:
