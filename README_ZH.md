@@ -300,6 +300,7 @@ Typst 是可用于出版的可编程标记语言，拥有变量、函数与包�
 
 - [circuitypst](https://github.com/fenjalien/circuitypst) - 用于绘制电子电路原理图的库
 - [typst-bytefield](https://github.com/jomaway/typst-bytefield) - 用于绘制（网络）协议头的库
+- [tids](https://github.com/oldrev/tids) - TI 风格的电子元件规格书模板
 
 ### 绘图
 

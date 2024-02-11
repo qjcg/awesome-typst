@@ -280,7 +280,7 @@ PRs welcomed!
 
 - [circuitypst](https://github.com/fenjalien/circuitypst) - A library for drawing electronic circuit schematics
 - [typst-bytefield](https://github.com/jomaway/typst-bytefield) - A library for drawing (network) protocol headers
-- [tids](https://github.com/oldrev/tids) - A TI-style template for electronic component
+- [tids](https://github.com/oldrev/tids) - A TI-style datasheet template for electronic component
 
 ### Plotting
 
