@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Clone the repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Download earthly
         run: "sudo /bin/sh -c 'wget https://github.com/earthly/earthly/releases/download/'${version}'/earthly-linux-amd64 -O /usr/local/bin/earthly && chmod +x /usr/local/bin/earthly'"
