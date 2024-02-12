@@ -311,6 +311,7 @@ Typst 是可用于出版的可编程标记语言，拥有变量、函数与包�
 ### 海报
 
 - [typst-poster](https://github.com/pncnmnp/typst-poster) - 一种学术海报模板
+- [science-posters](https://github.com/jonaspleyer/science-posters) - TODO
 
 ### 脚本
 
