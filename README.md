@@ -291,6 +291,7 @@ PRs welcomed!
 ### Posters
 
 - [typst-poster](https://github.com/pncnmnp/typst-poster) - An academic poster template
+- [science-posters](https:://github.com/jonaspleyer/science-posters) - Create academic posters in block style
 
 ### Scripting
 
