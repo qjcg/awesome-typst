@@ -156,6 +156,7 @@ PRs welcomed!
 - [typst-uwthesis](https://github.com/yangwenbo99/typst-uwthesis) - A typst template for writing thesis, featuring a working abbreviation lists.
 - [typstry](https://github.com/qjcg/typstry) - A Tapestry of Typst Templates & Examples
 - [writable-gm-screen-inserts](https://github.com/LLBlumire/writable-gm-screen-inserts) - Writable Game Master Screen Inserts
+- [bubble-template](https://github.com/hzkonor/bubble-template) - A simple and colorful template for reports
 
 ### Assignments
 
