@@ -184,6 +184,7 @@ Typst 是可用于出版的可编程标记语言，拥有变量、函数与包�
 - [aiaa-typst-template](https://gitlab.com/waterlubber/aiaa-typst-template) - 用于AIAA（美国航空航天学会）论文的模板。
 - [SimpleNote](https://github.com/a-kkiri/SimpleNote) - 用于编写简易课程笔记的 Typst 模板
 - [mcm-icm-typst-template](https://github.com/DawnEver/mcm-icm-typst-template) - 美国大学生数学建模比赛（美赛, MCM/ICM） Typst 模版.
+- [CUMCM-typst-template](https://github.com/a-kkiri/CUMCM-typst-template) - 高教社杯全国大学生数学建模比赛（CUMCM）Typst 模版
 
 ### 作业
 
