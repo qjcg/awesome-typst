@@ -292,7 +292,7 @@ Typst 是可用于出版的可编程标记语言，拥有变量、函数与包�
 
 ### 期刊
 
-- [ieee-trans-typst](https://github.com/p4perf4ce/typst-ieee-trans-template) - 模仿 LaTeX IEEE 交易模板（`ieee-trans.cls`）的模板
+- [ieee-trans-typst](https://github.com/p4perf4ce/typst-ieee-trans-template) - 模仿 LaTeX IEEE 汇刊 (Transactions) 模板（`ieee-trans.cls`）的模板
 
 ### 基金/提案
 
