@@ -158,6 +158,7 @@ PRs welcomed!
 - [typstry](https://github.com/qjcg/typstry) - A Tapestry of Typst Templates & Examples
 - [writable-gm-screen-inserts](https://github.com/LLBlumire/writable-gm-screen-inserts) - Writable Game Master Screen Inserts
 - [bubble-template](https://github.com/hzkonor/bubble-template) - A simple and colorful template for reports
+- [HSOS-PTP-Typst-Template](https://github.com/mst2k/HSOS-PTP-Typst-Template) - A German template for writing papers, overfitted for the Osnabrück University of Applied Sciences
 
 ### Assignments
 
