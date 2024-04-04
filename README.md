@@ -90,6 +90,7 @@ PRs welcomed!
 ### CLI Tools
 
 - [typstfmt](https://github.com/astrale-sharp/typstfmt/) - Basic formatter for the Typst language with a future!
+- [typstyle](https://github.com/Enter-tainer/typstyle) - Opinionated typst code formatter focusing on aesthetic, convergence and correctness.
 - [typst-live](https://github.com/ItsEthra/typst-live) - Hot reloading of pdf in web browser
 - [typst-pandoc](https://github.com/lvignoli/typst-pandoc) - Typst custom reader and writer for Pandoc
 - [utpm](https://github.com/Thumuss/utpm) - Package manager for local and remote packages
