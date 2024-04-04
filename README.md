@@ -24,6 +24,7 @@ PRs welcomed!
     - [CLI Tools](#cli-tools)
     - [Editors](#editors)
     - [Editor Integrations](#editor-integrations)
+    - [Online Tools](#online-tools)
     - [Programming](#programming)
     - [Typst As A Service](#typst-as-a-service)
   - [Templates & Libraries](#templates--libraries)
@@ -114,6 +115,10 @@ PRs welcomed!
 - [typst.nvim](https://github.com/SeniorMars/typst.nvim) - WIP. Goals: Treesitter highlighting, snippets, and a smooth integration with neovim
 - [typst.vim](https://github.com/kaarmu/typst.vim) - Vim plugin for Typst
 - [uben0/tree-sitter-typst](https://github.com/uben0/tree-sitter-typst) - A TreeSitter grammar for the Typst language, used by Helix
+
+### Online Tools
+
+- [Detypify](https://github.com/QuarticCat/detypify) - Typst symbol classifier
 
 ### Programming
 
