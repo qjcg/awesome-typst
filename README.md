@@ -183,6 +183,7 @@ PRs welcomed!
 - [awesomeCV-Typst](https://github.com/mintyfrankie/awesomeCV-Typst) - An opinionated, relived CV template inspired by the LaTeX `Awesome-CV` project, but with multilingual support and more
 - [billryan-typst](https://github.com/gvariable/billryan-typst) - A simple and minimalist resume template, inspired by Resume by Billryan.
 - [cv.typ](https://github.com/jskherman/cv.typ) - A no-frills curriculum vitae (CV) template using Typst and YAML to version control CV data.
+- [caidan](https://github.com/cu1ch3n/caidan) - A clean and minimal food menu template.
 - [modern-typst-template](https://github.com/peterpf/modern-typst-resume) - A modern resume/CV template.
 - [modern-cv](https://github.com/peterpf/modern-typst-resume) - A modern resume and coverletter template based on `Awesome CV`
 - [moderncv.typst](https://github.com/giovanniberti/moderncv.typst) - A CV template inspired by LaTeX's `moderncv`
