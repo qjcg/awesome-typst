@@ -227,6 +227,7 @@ Typst 是可用于出版的可编程标记语言，拥有变量、函数与包�
 - [vercanard](https://github.com/elegaanz/vercanard) - 适用于 Typst 的多彩简历模板
 - [Chinese-Resume-in-Typst](https://github.com/OrangeX4/Chinese-Resume-in-Typst): 使用 Typst 编写的中文简历, 语法简洁, 样式美观, 开箱即用, 可选是否显示照片
 - [neet-cv](https://github.com/kznr02/neet-cv): 作者自用后开源的一份使用typst自制的中文简历模板，具有简单的使用方法，其中有部分参考`wondercv`，开箱即用，简洁美观。
+- [serif-chinese-cv](https://github.com/MondayCha/chinese-cv): 双色中文简历，使用衬线字体，基于 [chicv](https://github.com/skyzh/chicv) 改造。
 
 ### 日历 / 课程表
 
