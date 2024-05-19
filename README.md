@@ -117,6 +117,7 @@ PRs welcomed!
 - [typst.nvim](https://github.com/SeniorMars/typst.nvim) - WIP. Goals: Treesitter highlighting, snippets, and a smooth integration with neovim
 - [typst.vim](https://github.com/kaarmu/typst.vim) - Vim plugin for Typst
 - [uben0/tree-sitter-typst](https://github.com/uben0/tree-sitter-typst) - A TreeSitter grammar for the Typst language, used by Helix
+- [inktyp](https://github.com/herlev/inktyp) - An Inkscape plugin to insert and edit Typst equations
 
 ### Online Tools
 
