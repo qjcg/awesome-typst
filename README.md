@@ -100,6 +100,7 @@ PRs welcomed!
 
 - [typstudio](https://github.com/Cubxity/typstudio) - An in development desktop editor built using Tauri.
 - [Katvan](https://github.com/IgKh/katvan) - A bare-bones editor for Typst files, with a bias for Right-to-Left editing.
+- [Typstwriter](https://github.com/Bzero/typstwriter) - An integrated desktop editor for typst projects.
 
 ### Editor Integrations
 
