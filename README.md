@@ -183,6 +183,7 @@ PRs welcomed!
 
 - [bare-bones-cv](https://github.com/caffeinatedgaze/bare-bones-cv) – A single-page minimalistic CV comprising essentials only.
 - [cv.typ](https://github.com/jskherman/cv.typ) - A no-frills curriculum vitae (CV) template for Typst that uses a YAML file for data input in order to version control CV data easily.
+- [chicv](https://github.com/skyzh/chicv) - A minimal and fully-customizable CV template.
 
 #### Templates
 
