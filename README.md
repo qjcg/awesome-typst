@@ -128,6 +128,7 @@ PRs welcomed!
 ### Programming
 
 - [leetcode.typ](https://github.com/lucifer1004/leetcode.typ) - Solving Leetcode problems in Typst
+- [Typix](https://github.com/loqusion/typix) - Deterministic Typix compilation with Nix
 - [typst-py](https://github.com/messense/typst-py) - Python binding to typst
 - [typst-rb](https://github.com/actsasflinn/typst-rb) - Ruby binding to typst
 
