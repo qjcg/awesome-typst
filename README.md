@@ -131,6 +131,7 @@ PRs welcomed!
 - [Typix](https://github.com/loqusion/typix) - Deterministic Typst compilation with Nix
 - [typst-py](https://github.com/messense/typst-py) - Python binding to typst
 - [typst-rb](https://github.com/actsasflinn/typst-rb) - Ruby binding to typst
+- [Typstry.jl](https://github.com/jakobjpeters/Typstry.jl) - The Julia to Typst interface
 
 ### Typst As A Service
 
