@@ -120,6 +120,8 @@ PRs welcomed!
 - [typst.vim](https://github.com/kaarmu/typst.vim) - Vim plugin for Typst
 - [uben0/tree-sitter-typst](https://github.com/uben0/tree-sitter-typst) - A TreeSitter grammar for the Typst language, used by Helix
 - [inktyp](https://github.com/herlev/inktyp) - An Inkscape plugin to insert and edit Typst equations
+- [Tinymist VS Code Extension](https://marketplace.visualstudio.com/items?itemName=myriad-dreamin.tinymist) - A vscode extension for Tinymist integration
+- [Tinymist](https://github.com/Myriad-Dreamin/tinymist) - A language server for typst with integrations for vscode, zed, neovim, and helix
 
 ### Online Tools
 
