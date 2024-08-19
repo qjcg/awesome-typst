@@ -32,6 +32,8 @@ PRs welcomed!
     - [General](#general)
     - [Assignments](#assignments)
     - [CV](#cv)
+      - [Examples](#examples)
+      - [Templates](#templates)
     - [Calendar / Timetable](#calendar--timetable)
     - [Footnotes & Endnotes](#footnotes--endnotes)
     - [Formatting](#formatting)
@@ -41,6 +43,9 @@ PRs welcomed!
     - [Mathematics](#mathematics)
     - [Music](#music)
     - [Physics](#physics)
+      - [Conferences](#conferences)
+      - [Journals](#journals)
+      - [Grants/Proposals](#grantsproposals)
     - [Engineering](#engineering)
     - [Plotting](#plotting)
     - [Posters](#posters)
@@ -282,18 +287,18 @@ PRs welcomed!
 
 - [physics](https://github.com/Leedehai/typst-physics) - A library for usual physics notations, e.g. vectors and vector fields, matrices, differentials, derivatives, Dirac brackets, tensors, isotopes, and digital signal sequences.
 
-## Conferences
+#### Conferences
 
 - [aiaa-typst](https://github.com/isaacew/aiaa-typst) - A template for creating conference papers in the style of the American Institute of Aeronautics and Astronautics.
 - [ieee-conference-typst-template](https://github.com/DawnEver/ieee-conference-typst-template) A template to write IEEE Conference in Typst.
 - [ieee-typst-template](https://github.com/bsp0109/ieee-typst-template) - A template to write IEEE Papers in Typst
 - [ifacconf-typst](https://github.com/avonmoll/ifacconf-typst) - A template for creating conference papers in the style of the International Federation of Automatic Control
 
-## Journals
+#### Journals
 
 - [ieee-trans-typst](https://github.com/p4perf4ce/typst-ieee-trans-template) - A template that mimic LaTeX IEEE Transaction template (`ieee-trans.cls`)
 
-## Grants/Proposals
+#### Grants/Proposals
 
 - [typst-nsf-templates](https://github.com/ntjess/typst-nsf-templates) - National Science Foundation (NSF) general template and outlines for popular proposal types.
 
