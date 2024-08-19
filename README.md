@@ -331,8 +331,3 @@ PRs welcomed!
 - [clean-polylux-typst](https://github.com/marcothms/clean-polylux-typst) - A clean and dynamic polylux presentation slide template
 - [pinit](https://github.com/OrangeX4/typst-pinit) - Pin things as you like, especially useful for creating slides in typst.
 - [touying](https://github.com/touying-typ/touying) - A powerful package for creating presentation slides in Typst
-
-<!-- Local Variables: -->
-<!-- markdown-toc-header-toc-title: "## Contents" -->
-<!-- markdown-toc-indentation-space: 2 -->
-<!-- End: -->
