@@ -180,6 +180,7 @@ PRs welcomed!
 
 ### Assignments
 
+- [OpenBoard](https://github.com/diquah/OpenBoard) - Easily build clean assessments in the style of the College Board.
 - [assignment-template](https://github.com/AntoniosBarotsis/typst-assignment-template) - A simple assignment template
 - [typst-assignment-template](https://github.com/astrale-sharp/typst-assignement-template.git) - Yet another simple assignment template
 - [typst-assignment-template](https://github.com/gRox167/typst-assignment-template.git) - Yet another simple assignment template with a cover and several useful math symbols.
