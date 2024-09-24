@@ -84,7 +84,7 @@ PRs welcomed!
 
 - [typst-bot](https://github.com/mattfbacon/typst-bot) - A discord bot to render Typst code
 - [typst-bot-telegram](https://t.me/ru_rend_bot) - A telegram bot to render Typst code
-- [typst-math-bot-tg](https://github.com/daskol/typst-telegram-bot) - A telegram bot to render math expression in Typst
+- [typst-telegram-bot](https://github.com/daskol/typst-telegram-bot) - A [telegram bot](https://t.me/TypstBot) with focus in rendering math expression in Typst.
 
 ### CI/CD
 
@@ -122,6 +122,7 @@ PRs welcomed!
 - [org-typst-preview](https://github.com/remimimimimi/org-typst-preview.el) - Typst preview in org-mode
 - [typst.nvim](https://github.com/SeniorMars/typst.nvim) - WIP. Goals: Treesitter highlighting, snippets, and a smooth integration with neovim
 - [typst.vim](https://github.com/kaarmu/typst.vim) - Vim plugin for Typst
+- [typstd](https://github.com/daskol/typstd) - Yet another Typst language server.
 - [uben0/tree-sitter-typst](https://github.com/uben0/tree-sitter-typst) - A TreeSitter grammar for the Typst language, used by Helix
 - [inktyp](https://github.com/herlev/inktyp) - An Inkscape plugin to insert and edit Typst equations
 - [Tinymist VS Code Extension](https://marketplace.visualstudio.com/items?itemName=myriad-dreamin.tinymist) - A vscode extension for Tinymist integration
@@ -138,10 +139,12 @@ PRs welcomed!
 - [typst-py](https://github.com/messense/typst-py) - Python binding to typst
 - [typst-rb](https://github.com/actsasflinn/typst-rb) - Ruby binding to typst
 - [Typstry.jl](https://github.com/jakobjpeters/Typstry.jl) - The Julia to Typst interface
+- [mpl-typst](https://github.com/daskol/mpl-typst) - A Typst backend for Matplotlib.
 
 ### Typst As A Service
 
 - [typst-http-api](https://github.com/slashformotion/typst-http-api) - An simple docker containing an API to compile typst markup
+- [typst-telegram-bot](https://github.com/daskol/typst-telegram-bot) - A plain and simple HTTP API for rendering math with Typst.
 
 ## Templates & Libraries
 
@@ -170,6 +173,7 @@ PRs welcomed!
 - [typst-mla9-template](https://github.com/wychwitch/typst-mla9-template) - An MLA 9th edition template
 - [typst-orange-template](https://github.com/flavio20002/typst-orange-template) - A Typst book template inspired by The Legrand Orange Book
 - [typst-palettes](https://github.com/kaarmu/typst-palettes) - A library of color palettes for Typst
+- [typst-templates](https://github.com/daskol/typst-templates) - A templates collection for major venues in machine learning and AI.
 - [typst-templates](https://github.com/eigenein/typst-templates) - Templates for Typst
 - [typst-templates](https://github.com/haxibami/typst-template) - My typst templates
 - [typst-uwthesis](https://github.com/yangwenbo99/typst-uwthesis) - A typst template for writing thesis, featuring a working abbreviation lists.
