@@ -9,7 +9,7 @@
 
 Curated collection of useful links for [Typst](https://github.com/typst/typst) users.
 
-PRs welcomed!
+PRs are welcomed!
 
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
 ## Contents
@@ -69,7 +69,7 @@ PRs welcomed!
 
 ## Unofficial Project Links
 
-- [Typst-telegram-russian-chat](https://t.me/typst_ru) - chat about Typst in Telegram in russian
+- [Typst-telegram-russian-chat](https://t.me/typst_ru) - chat about using Typst in Telegram in russian
 - [#typst:matrix.org](https://matrix.to/#/#typst:matrix.org) - matrix room for Typst
 - [Typst Examples Book](https://sitandr.github.io/typst-examples-book/book/) - An online book with Typst snippets, including extended tutorial and useful hacks
 
@@ -78,7 +78,7 @@ PRs welcomed!
 ### Browser Extensions
 
 - (FireFox) [bib-kit](https://github.com/MordragT/bib_kit) - Retrieve website information to create citations in the hayagriva format
-- (FireFox) [yank](https://addons.mozilla.org/en-US/firefox/addon/yank/) - Yank URL and title of current tab, format to a chosen markup language, and copy to clipboard (supports typst link format)
+- (FireFox) [yank](https://addons.mozilla.org/en-US/firefox/addon/yank/) - Yank URL and title of current tab, format to a choosen markup language, and copy to clipboard (supports typst link format)
 
 ### Chatbots
 
@@ -94,7 +94,7 @@ PRs welcomed!
 
 ### CLI Tools
 
-- [typstfmt](https://github.com/astrale-sharp/typstfmt/) - Basic formatter for the Typst language with a future!
+- [typstfmt](https://github.com/astrale-sharp/typstfmt/) - Basic formatter for the Typst language with a bright future!
 - [typstyle](https://github.com/Enter-tainer/typstyle) - Opinionated typst code formatter focusing on aesthetic, convergence and correctness.
 - [typst-live](https://github.com/ItsEthra/typst-live) - Hot reloading of pdf in web browser
 - [typst-pandoc](https://github.com/lvignoli/typst-pandoc) - Typst custom reader and writer for Pandoc
@@ -114,7 +114,7 @@ PRs welcomed!
 - [Typst Sync](https://github.com/OrangeX4/vscode-typst-sync) - A vscode extension for Typst local packages management and synchronization.
 - [frozolotl/tree-sitter-typst](https://github.com/frozolotl/tree-sitter-typst) - A tree-sitter grammar with a focus on correctness.
 - [obsidian-typst](https://github.com/fenjalien/obsidian-typst) - Renders typst code blocks in Obsidian into images using Typst through the power of WASM!
-- [typst-conceal.vim](https://github.com/MrPicklePinosaur/typst-conceal.vim) - Vim/Nvim plugin for replacing long typst symbol names with unicode characters
+- [typst-conceal.vim](https://github.com/MrPicklePinosaur/typst-conceal.vim) - Vim/Nvim plugin for replacing long typst symbol names with unicode style characters
 - [typst-math](https://marketplace.visualstudio.com/items?itemName=surv.typst-math) - A VS Code extension to simplify math writing in Typst
 - [typst-lsp](https://github.com/nvarner/typst-lsp) - A brand-new language server for Typst, plus a VS Code extension
 - [typst-sympy-calculator](https://github.com/OrangeX4/vscode-typst-sympy-calculator) - VS Code extension for Typst math calculating, includes Arithmetic, Calculus, Matrix, Custom Variances and Functions by yourself
@@ -276,7 +276,7 @@ PRs welcomed!
 - [commute](https://gitlab.com/giacomogallina/commute) - A library for creating commutative diagrams
 - [typst-algorithms](https://github.com/platformer/typst-algorithms) - A library for writing algorithms
 - [typst-himcm-template](https://github.com/EvanLuo42/typst-himcm-template) - An HiMCM template for Typst
-- [typst-math-template](https://github.com/matthiasGmayer/typst-math-template) - A simple math template that allows for numbered, referenceable theorems and compilation of subfiles that use references.
+- [typst-math-template](https://github.com/matthiasGmayer/typst-math-template) - A simple maths template that allows for numbered, referenceable theorems and compilation of subfiles that use references.
 - [typst-pf3](https://github.com/maxwell-thum/typst-pf3) - A small package for creating "structured proofs." Essentially a port of Leslie Lamport's [`pf2.sty`](https://lamport.azurewebsites.net/latex/pf2.sty)
 - [typst-theorems](https://github.com/sahasatvik/typst-theorems) - A library for creating numbered theorem environments
 - [typst-undergradmath](https://github.com/johanvx/typst-undergradmath) - A Typst port of [undergradmath](https://gitlab.com/jim.hefferon/undergradmath)
@@ -288,7 +288,7 @@ PRs welcomed!
 
 ### Physics
 
-- [physics](https://github.com/Leedehai/typst-physics) - A library for usual physics notations, e.g. vectors and vector fields, matrices, differentials, derivatives, Dirac brackets, tensors, isotopes, and digital signal sequences.
+- [physics](https://github.com/Leedehai/typst-physics) - A library for usual physics notations, e.g. vectors and vector fields, matrixes, differentials, derivatives, Dirac brackets, tensors, isotopes, and digital signal sequences.
 
 #### Conferences
 
@@ -334,3 +334,5 @@ PRs welcomed!
 - [clean-polylux-typst](https://github.com/marcothms/clean-polylux-typst) - A clean and dynamic polylux presentation slide template
 - [pinit](https://github.com/OrangeX4/typst-pinit) - Pin things as you like, especially useful for creating slides in typst.
 - [touying](https://github.com/touying-typ/touying) - A powerful package for creating presentation slides in Typst
+
+We ❤️ you!
