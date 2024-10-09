@@ -5,7 +5,7 @@
 
 # Awesome Typst
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 
 Curated collection of useful links for [Typst](https://github.com/typst/typst) users.
 
@@ -61,8 +61,8 @@ PRs welcomed!
 - [Blog](https://typst.app/blog/)
 - Social - [Discord] [Instagram] [LinkedIn] [Mastodon] [X]
 
-[discord]: https://discord.gg/2uDybryKPe
-[instagram]: https://instagram.com/typstapp/
+[discord]: https://discord.com/invite/2uDybryKPe
+[instagram]: https://www.instagram.com/typstapp/
 [linkedin]: https://www.linkedin.com/company/typst/
 [mastodon]: https://mastodon.social/@typst
 [X]: https://twitter.com/typstapp/
@@ -70,7 +70,7 @@ PRs welcomed!
 ## Unofficial Project Links
 
 - [Typst-telegram-russian-chat](https://t.me/typst_ru) - chat about Typst in Telegram in russian
-- [#typst:matrix.org](https://matrix.to/#/#typst:matrix.org) - matrix room for Typst
+- [#typst:matrix.org](https://matrix.to/#/%23typst:matrix.org) - matrix room for Typst
 - [Typst Examples Book](https://sitandr.github.io/typst-examples-book/book/) - An online book with Typst snippets, including extended tutorial and useful hacks
 
 ## Integrations & Tools
@@ -156,13 +156,13 @@ PRs welcomed!
 
 - [Data Thinking Report Template](https://github.com/onefact/datathinking.org-report-template) - a template for artificial intelligence whitepapers with collaborative bibliographies using Zotero
 - [INSA Typst Template](https://github.com/SkytAsul/INSA-Typst-Template) - A template for INSA (Institut National des Sciences Appliquées), a french public engineering school.
-- [LaPreprint](https://github.com/rowanc1/LaPreprint) - Beautiful preprints for Typst
+- [LaPreprint](https://github.com/LaPreprint/typst) - Beautiful preprints for Typst
 - [Mantys](https://github.com/jneug/typst-mantys) - A template for writing manuals for Typst packages.
 - [Project-Report-Typst](https://github.com/aurghya-0/Project-Report-Typst) - A simple template for college or university level project report.
-- [SimplePaper](https://github.com/1bitbool/SimplePaper) - A Chinese template for writing simple paper
+- [SimplePaper](https://github.com/jinhao-huang/SimplePaper) - A Chinese template for writing simple paper
 - [Typst-Paper-Template](https://github.com/jxpeng98/Typst-Paper-Template) - Typst template for Working Paper
 - [aiaa-typst-template](https://gitlab.com/waterlubber/aiaa-typst-template) - A template for AIAA (American Institute of Aeronautics and Astronautics) papers.
-- [french-association-status](https://github.com/coco33920/typst-association-status) - A Template to write status for french associations.
+- [french-association-status](https://github.com/coco33920/typst-association-statuts) - A Template to write status for french associations.
 - [gloss-awe](https://github.com/RolfBremer/gloss-awe) - Automatically Generated Glossary Page (renamed from typst-glossary)
 - [in-dexter](https://github.com/RolfBremer/in-dexter) - Automatically Generated Index Page (renamed from typst-index)
 - [mcm-icm-typst-template](https://github.com/DawnEver/mcm-icm-typst-template) - A template for Mathematical Contest in Modeling (MCM) and the Interdisciplinary Contest in Modeling(ICM).
@@ -172,10 +172,10 @@ PRs welcomed!
 - [typst-invoice](https://github.com/erictapen/typst-invoice) - Generate invoices from TOML files
 - [typst-mla9-template](https://github.com/wychwitch/typst-mla9-template) - An MLA 9th edition template
 - [typst-orange-template](https://github.com/flavio20002/typst-orange-template) - A Typst book template inspired by The Legrand Orange Book
-- [typst-palettes](https://github.com/kaarmu/typst-palettes) - A library of color palettes for Typst
+- [typst-palettes](https://github.com/kaarmu/splash) - A library of color palettes for Typst
 - [typst-templates](https://github.com/daskol/typst-templates) - A templates collection for major venues in machine learning and AI.
 - [typst-templates](https://github.com/eigenein/typst-templates) - Templates for Typst
-- [typst-templates](https://github.com/haxibami/typst-template) - My typst templates
+- [typst-templates](https://github.com/haxibami/haxipst) - My typst templates
 - [typst-uwthesis](https://github.com/yangwenbo99/typst-uwthesis) - A typst template for writing thesis, featuring a working abbreviation lists.
 - [typstry](https://github.com/qjcg/typstry) - A Tapestry of Typst Templates & Examples
 - [writable-gm-screen-inserts](https://github.com/LLBlumire/writable-gm-screen-inserts) - Writable Game Master Screen Inserts
@@ -186,8 +186,8 @@ PRs welcomed!
 
 - [OpenBoard](https://github.com/diquah/OpenBoard) - Easily build clean assessments in the style of the College Board.
 - [assignment-template](https://github.com/AntoniosBarotsis/typst-assignment-template) - A simple assignment template
-- [typst-assignment-template](https://github.com/astrale-sharp/typst-assignement-template.git) - Yet another simple assignment template
-- [typst-assignment-template](https://github.com/gRox167/typst-assignment-template.git) - Yet another simple assignment template with a cover and several useful math symbols.
+- [typst-assignment-template](https://github.com/astrale-sharp/typst-assignement-template) - Yet another simple assignment template
+- [typst-assignment-template](https://github.com/gRox167/typst-assignment-template) - Yet another simple assignment template with a cover and several useful math symbols.
 - [typst-homework-template](https://github.com/OriginCode/typst-homework-template) - A simple homework template inspired by the LaTeX homework template by Adam Blank
 - [typst-teacher-template](https://github.com/jomaway/typst-teacher-templates) - A collection of typst templates. Mainly used to create worksheets and exams for my classes.
 
@@ -196,7 +196,7 @@ PRs welcomed!
 #### Examples
 
 - [bare-bones-cv](https://github.com/caffeinatedgaze/bare-bones-cv) – A single-page minimalistic CV comprising essentials only.
-- [cv.typ](https://github.com/jskherman/cv.typ) - A no-frills curriculum vitae (CV) template for Typst that uses a YAML file for data input in order to version control CV data easily.
+- [cv.typ](https://github.com/jskherman/imprecv) - A no-frills curriculum vitae (CV) template for Typst that uses a YAML file for data input in order to version control CV data easily.
 - [chicv](https://github.com/skyzh/chicv) - A minimal and fully-customizable CV template.
 
 #### Templates
@@ -206,7 +206,7 @@ PRs welcomed!
 - [attractive-typst-resume](https://github.com/Harkunwar/attractive-typst-resume) - A modern looking, attractive CV/Resume template by Harkunwar Kochar
 - [brilliant-CV](https://github.com/mintyfrankie/brilliant-CV) - Another CV template for your job application, yet powered by Typst and more
 - [billryan-typst](https://github.com/gvariable/billryan-typst) - A simple and minimalist resume template, inspired by Resume by Billryan.
-- [cv.typ](https://github.com/jskherman/cv.typ) - A no-frills curriculum vitae (CV) template using Typst and YAML to version control CV data.
+- [cv.typ](https://github.com/jskherman/imprecv) - A no-frills curriculum vitae (CV) template using Typst and YAML to version control CV data.
 - [caidan](https://github.com/cu1ch3n/caidan) - A clean and minimal food menu template.
 - [friggeri-cv](https://github.com/olligobber/friggeri-cv) - A slightly modified version of the Friggeri CV, originally created by Adrien Friggeri in LaTeX, ported to Typst.
 - [modern-typst-template](https://github.com/peterpf/modern-typst-resume) - A modern resume/CV template.
@@ -219,9 +219,9 @@ PRs welcomed!
 - [typst-cv-resume](https://github.com/jxpeng98/Typst-CV-Resume) - A CV template with Sans font inspired by LaTeX `Deedy-Resume`
 - [typst-cv-template1](https://github.com/vaibhavjhawar/typst-cv-template1) - A CV template inspired by Alessandro Plasmati's Graduate CV LaTex template
 - [typst-cv-template](https://github.com/JCGoran/typst-cv-template) - A CV template inspired by LaTeX's `Awesome CV`
-- [typst-cv-template](https://github.com/skyzh/typst-cv-template) - Chi CV Template (For Typst)
+- [typst-cv-template](https://github.com/skyzh/chicv) - Chi CV Template (For Typst)
 - [typst-mixed-resume](https://github.com/titaneric/typst-mixed-resume) - A casual and elegant resume template inspired by multiple templates.
-- [typst-neat-cv](https://github.com/UntimelyCreation97/typst-neat-cv) - A Typst template for modern, minimal and elegant CVs, inspired by mintyfrankie's `Brilliant CV`
+- [typst-neat-cv](https://github.com/UntimelyCreation/typst-neat-cv) - A Typst template for modern, minimal and elegant CVs, inspired by mintyfrankie's `Brilliant CV`
 - [typst-resume-sans](https://github.com/mizlan/typst-resume-sans) - A sleek and unadorned sans-serif resume template.
 - [typst-resume-template](https://github.com/bamboovir/typst-resume-template) - Aesthetic style inspired by the Awesome-CV project
 - [typst-resume-template](https://github.com/hexWars/resume) - A pretty resume template designed using typst.
@@ -235,7 +235,7 @@ PRs welcomed!
 
 ### Footnotes & Endnotes
 
-- [notes.typ](https://github.com/tbug/notes.typ) - A library for notes with deduplication and customizability.
+- [notes.typ](https://github.com/tudborg/notes.typ) - A library for notes with deduplication and customizability.
 - [typst-notes](https://github.com/saadulkh/typst-notes) - A library for adding footnotes and endnotes in Typst
 
 ### Formatting
@@ -246,7 +246,7 @@ PRs welcomed!
 - [simple-poem-typst](https://github.com/asibahi/simple-poem-typst) - An application of the `measure` function to set Arabic poetry.
 - [syntastica-typst](https://github.com/RubixDev/syntastica-typst/) - Tree-sitter syntax highlighting for code blocks.
 - [term](https://github.com/qo/term) - A Typst package for creating figures that emulate terminal screenshots.
-- [typst-ansi_render](https://github.com/8LWXpg/typst-ansi_render) - A library to render text with ANSI escape sequences
+- [typst-ansi_render](https://github.com/8LWXpg/typst-ansi-render) - A library to render text with ANSI escape sequences
 - [typst-boxes](https://github.com/lkoehl/typst-boxes) - A library to draw colorful boxes.
 - [typst-codelst](https://github.com/jneug/typst-codelst) - A Typst package to render source code.
 - [typst-diagbox](https://github.com/PgBiel/typst-diagbox) - A library for diagonal line dividers in Typst tables
@@ -256,7 +256,7 @@ PRs welcomed!
 
 ### Graphics
 
-- [CeTZ](https://github.com/johannes-wolf/typst-canvas) - CeTZ (CeTZ, ein Typst Zeichenpacket) is a library for drawing with [Typst](https://typst.app) with an API inspired by TikZ and [Processing](https://processing.org/). It comes with modules for drawing plots, graphs and charts.
+- [CeTZ](https://github.com/cetz-package/cetz) - CeTZ (CeTZ, ein Typst Zeichenpacket) is a library for drawing with [Typst](https://typst.app) with an API inspired by TikZ and [Processing](https://processing.org/). It comes with modules for drawing plots, graphs and charts.
 - [typst-raytracer](https://github.com/SeniorMars/typst-raytracer) - raytracer in typst
 
 ### Letters
@@ -268,8 +268,8 @@ PRs welcomed!
 ### Linguistics
 
 - [leipzig-gloss](https://gitea.everydayimshuflin.com/greg/typst-lepizig-glossing) - A library that provides primitives for creating glossing rules according to Leipzig.
-- [typst-ipa](https://github.com/imatpot/typst-ipa) - 🔄 ASCII / IPA conversion for Typst
-- [typst-dictionary-template](https://kianting.info/wiki/w/Project:typst-dictionary-template) - 📕  a template for lexical dictionary/glossary in Typst
+- [typst-ipa](https://github.com/imatpot/typst-ascii-ipa) - 🔄 ASCII / IPA conversion for Typst
+- [typst-dictionary-template](https://kianting.info/wiki/w/Tan_Kian-ting%E7%9A%84%E7%B6%AD%E5%9F%BA:Typst-dictionary-template) - 📕  a template for lexical dictionary/glossary in Typst
 - [typst-syntree](https://github.com/lynn/typst-syntree) - Syntax trees for typst
 
 ### Mathematics
@@ -308,20 +308,20 @@ PRs welcomed!
 
 ### Engineering
 
-- [circuitypst](https://github.com/fenjalien/circuitypst) - A library for drawing electronic circuit schematics
+- [circuitypst](https://github.com/fenjalien/cirCeTZ) - A library for drawing electronic circuit schematics
 - [typst-bytefield](https://github.com/jomaway/typst-bytefield) - A library for drawing (network) protocol headers
 - [tids](https://github.com/oldrev/tids) - A TI-style datasheet template for electronic component
 
 ### Plotting
 
-- [typst-cd](https://gitlab.com/giacomogallina/typst-cd) - Proof of Concept for tikz-like commutative diagrams
+- [typst-cd](https://gitlab.com/giacomogallina/commute) - Proof of Concept for tikz-like commutative diagrams
 - [typst-plot](https://github.com/johannes-wolf/typst-plot) - A library for plotting line charts (deprecated in favor of CeTZ)
 - [typst-plotting](https://github.com/Pegacraft/typst-plotting) - A library for drawing a variety of charts and plots like line charts, histograms, and pie charts
 
 ### Posters
 
 - [typst-poster](https://github.com/pncnmnp/typst-poster) - An academic poster template
-- [science-posters](https://github.com/jonaspleyer/science-posters) - Create academic posters in block style
+- [science-posters](https://github.com/jonaspleyer/peace-of-posters) - Create academic posters in block style
 
 ### Scripting
 
