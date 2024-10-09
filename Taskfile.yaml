@@ -17,6 +17,7 @@ tasks:
 
   lint:editorconfig:
     desc: Check that files follow .editorconfig rules.
+    aliases: [ec]
     cmds:
       - '{{.EC}}'
     vars:
@@ -25,6 +26,7 @@ tasks:
 
   lint:broken-links:
     desc: Use xurls to check markdown files for broken links.
+    aliases: [links]
     cmds:
       - "{{.XURLS}} *.md | sort -u | grep -Ev '{{.RE_IGNORE}}' | {{.XURLS}} -fix >/dev/null 2> >(tee {{.BROKEN_LINKS_REPORT}} >&2)"
     vars:
