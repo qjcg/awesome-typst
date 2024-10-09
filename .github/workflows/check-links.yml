@@ -26,4 +26,5 @@ jobs:
       - if: failed()
         name: Create a GitHub issue based on a broken links report
         uses: anonie-muss/go-task-run-action@latest
-        with: lint:broken-links:create-gh-issue
+        with:
+          tasks: lint:broken-links:create-gh-issue
