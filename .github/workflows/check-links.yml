@@ -25,7 +25,7 @@ jobs:
           tasks: lint:broken-links
 
       - name: Create a GitHub issue based on a broken links report
-        if: step.check_links.outcome == 'failure'
+        if: steps.check_links.outcome == 'failure'
         uses: anonie-muss/go-task-run-action@latest
         with:
           tasks: lint:broken-links:create-gh-issue
