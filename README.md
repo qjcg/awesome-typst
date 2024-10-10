@@ -109,23 +109,23 @@ PRs welcomed!
 ### Editor Integrations
 
 - [SeniorMars/tree-sitter-typst](https://github.com/SeniorMars/tree-sitter-typst) - A TreeSitter parser for the Typst File Format
+- [Tinymist VS Code Extension](https://marketplace.visualstudio.com/items?itemName=myriad-dreamin.tinymist) - A vscode extension for Tinymist integration
+- [Tinymist](https://github.com/Myriad-Dreamin/tinymist) - A language server for typst with integrations for vscode, zed, neovim, and helix
 - [Typst LSP VS Code Extension](https://marketplace.visualstudio.com/items?itemName=nvarner.typst-lsp)
 - [Typst Sync](https://github.com/OrangeX4/vscode-typst-sync) - A vscode extension for Typst local packages management and synchronization.
 - [frozolotl/tree-sitter-typst](https://github.com/frozolotl/tree-sitter-typst) - A tree-sitter grammar with a focus on correctness.
+- [inktyp](https://github.com/herlev/inktyp) - An Inkscape plugin to insert and edit Typst equations
 - [obsidian-typst](https://github.com/fenjalien/obsidian-typst) - Renders typst code blocks in Obsidian into images using Typst through the power of WASM!
+- [org-typst-preview](https://github.com/remimimimimi/org-typst-preview.el) - Typst preview in org-mode
 - [typst-conceal.vim](https://github.com/MrPicklePinosaur/typst-conceal.vim) - Vim/Nvim plugin for replacing long typst symbol names with unicode characters
-- [typst-math](https://marketplace.visualstudio.com/items?itemName=surv.typst-math) - A VS Code extension to simplify math writing in Typst
 - [typst-lsp](https://github.com/nvarner/typst-lsp) - A brand-new language server for Typst, plus a VS Code extension
+- [typst-math](https://marketplace.visualstudio.com/items?itemName=surv.typst-math) - A VS Code extension to simplify math writing in Typst
 - [typst-sympy-calculator](https://github.com/OrangeX4/vscode-typst-sympy-calculator) - VS Code extension for Typst math calculating, includes Arithmetic, Calculus, Matrix, Custom Variances and Functions by yourself
 - [typst-ts-mode](https://git.sr.ht/~meow_king/typst-ts-mode) - Typst tree sitter major mode for Emacs
-- [org-typst-preview](https://github.com/remimimimimi/org-typst-preview.el) - Typst preview in org-mode
 - [typst.nvim](https://github.com/SeniorMars/typst.nvim) - WIP. Goals: Treesitter highlighting, snippets, and a smooth integration with neovim
 - [typst.vim](https://github.com/kaarmu/typst.vim) - Vim plugin for Typst
 - [typstd](https://github.com/daskol/typstd) - Yet another Typst language server.
 - [uben0/tree-sitter-typst](https://github.com/uben0/tree-sitter-typst) - A TreeSitter grammar for the Typst language, used by Helix
-- [inktyp](https://github.com/herlev/inktyp) - An Inkscape plugin to insert and edit Typst equations
-- [Tinymist VS Code Extension](https://marketplace.visualstudio.com/items?itemName=myriad-dreamin.tinymist) - A vscode extension for Tinymist integration
-- [Tinymist](https://github.com/Myriad-Dreamin/tinymist) - A language server for typst with integrations for vscode, zed, neovim, and helix
 
 ### Online Tools
 
@@ -154,6 +154,7 @@ PRs welcomed!
 ### General
 
 - [Data Thinking Report Template](https://github.com/onefact/datathinking.org-report-template) - a template for artificial intelligence whitepapers with collaborative bibliographies using Zotero
+- [HSOS-PTP-Typst-Template](https://github.com/mst2k/HSOS-PTP-Typst-Template) - A German template for writing papers, overfitted for the Osnabrück University of Applied Scien
 - [INSA Typst Template](https://github.com/SkytAsul/INSA-Typst-Template) - A template for INSA (Institut National des Sciences Appliquées), a french public engineering school.
 - [LaPreprint](https://github.com/LaPreprint/typst) - Beautiful preprints for Typst
 - [Mantys](https://github.com/jneug/typst-mantys) - A template for writing manuals for Typst packages.
@@ -161,6 +162,7 @@ PRs welcomed!
 - [SimplePaper](https://github.com/jinhao-huang/SimplePaper) - A Chinese template for writing simple paper
 - [Typst-Paper-Template](https://github.com/jxpeng98/Typst-Paper-Template) - Typst template for Working Paper
 - [aiaa-typst-template](https://gitlab.com/waterlubber/aiaa-typst-template) - A template for AIAA (American Institute of Aeronautics and Astronautics) papers.
+- [bubble-template](https://github.com/hzkonor/bubble-template) - A simple and colorful template for reports
 - [french-association-status](https://github.com/coco33920/typst-association-statuts) - A Template to write status for french associations.
 - [gloss-awe](https://github.com/RolfBremer/gloss-awe) - Automatically Generated Glossary Page (renamed from typst-glossary)
 - [in-dexter](https://github.com/RolfBremer/in-dexter) - Automatically Generated Index Page (renamed from typst-index)
@@ -177,9 +179,7 @@ PRs welcomed!
 - [typst-templates](https://github.com/haxibami/haxipst) - My typst templates
 - [typst-uwthesis](https://github.com/yangwenbo99/typst-uwthesis) - A typst template for writing thesis, featuring a working abbreviation lists.
 - [typstry](https://github.com/qjcg/typstry) - A Tapestry of Typst Templates & Examples
-- [writable-gm-screen-inserts](https://github.com/LLBlumire/writable-gm-screen-inserts) - Writable Game Master Screen Inserts
-- [bubble-template](https://github.com/hzkonor/bubble-template) - A simple and colorful template for reports
-- [HSOS-PTP-Typst-Template](https://github.com/mst2k/HSOS-PTP-Typst-Template) - A German template for writing papers, overfitted for the Osnabrück University of Applied Sciences
+- [writable-gm-screen-inserts](https://github.com/LLBlumire/writable-gm-screen-inserts) - Writable Game Master Screen Insertsces
 
 ### Assignments
 
@@ -203,13 +203,13 @@ PRs welcomed!
 - [NNJR](https://github.com/tzx/NNJR) - A resume template inspired by `Jake's Resume` LaTeX template. Uses Typst and YAML.
 - [alta-typst](https://github.com/GeorgeHoneywood/alta-typst) - A simple Typst CV template, inspired by AltaCV by LianTze Lim
 - [attractive-typst-resume](https://github.com/Harkunwar/attractive-typst-resume) - A modern looking, attractive CV/Resume template by Harkunwar Kochar
-- [brilliant-CV](https://github.com/mintyfrankie/brilliant-CV) - Another CV template for your job application, yet powered by Typst and more
 - [billryan-typst](https://github.com/gvariable/billryan-typst) - A simple and minimalist resume template, inspired by Resume by Billryan.
-- [cv.typ](https://github.com/jskherman/imprecv) - A no-frills curriculum vitae (CV) template using Typst and YAML to version control CV data.
+- [brilliant-CV](https://github.com/mintyfrankie/brilliant-CV) - Another CV template for your job application, yet powered by Typst and more
 - [caidan](https://github.com/cu1ch3n/caidan) - A clean and minimal food menu template.
+- [cv.typ](https://github.com/jskherman/imprecv) - A no-frills curriculum vitae (CV) template using Typst and YAML to version control CV data.
 - [friggeri-cv](https://github.com/olligobber/friggeri-cv) - A slightly modified version of the Friggeri CV, originally created by Adrien Friggeri in LaTeX, ported to Typst.
-- [modern-typst-template](https://github.com/peterpf/modern-typst-resume) - A modern resume/CV template.
 - [modern-cv](https://github.com/peterpf/modern-typst-resume) - A modern resume and coverletter template based on `Awesome CV`
+- [modern-typst-template](https://github.com/peterpf/modern-typst-resume) - A modern resume/CV template.
 - [moderncv.typst](https://github.com/giovanniberti/moderncv.typst) - A CV template inspired by LaTeX's `moderncv`
 - [resume.typ](https://github.com/wusyong/resume.typ) - Simple and ergonomic template to generate resume and CV
 - [simplecv](https://github.com/LaurenzV/simplecv) - SimpleCV is a simple and elegant CV template written in Typst
