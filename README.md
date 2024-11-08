@@ -99,6 +99,7 @@ PRs welcomed!
 - [typst-live](https://github.com/ItsEthra/typst-live) - Hot reloading of pdf in web browser
 - [typst-pandoc](https://github.com/lvignoli/typst-pandoc) - Typst custom reader and writer for Pandoc
 - [utpm](https://github.com/Thumuss/utpm) - Package manager for local and remote packages
+- [textlint-plugin-typst](https://github.com/textlint/textlint-plugin-typst) - [textlint](https://textlint.github.io/) plugin to lint Typst
 
 ### Editors
 
