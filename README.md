@@ -191,6 +191,8 @@ PRs welcomed!
 - [typst-homework-template](https://github.com/OriginCode/typst-homework-template) - A simple homework template inspired by the LaTeX homework template by Adam Blank
 - [typst-teacher-template](https://github.com/jomaway/typst-teacher-templates) - A collection of typst templates. Mainly used to create worksheets and exams for my classes.
 
+- [tinyset](https://github.com/sylvanfranklin/tinyset) - A lightweight and opinionated problem set package designed with pure math proofs in mind.
+
 ### CV
 
 #### Examples
