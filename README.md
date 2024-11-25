@@ -111,7 +111,7 @@ PRs welcomed!
 
 - [SeniorMars/tree-sitter-typst](https://github.com/SeniorMars/tree-sitter-typst) - A TreeSitter parser for the Typst File Format
 - [Tinymist VS Code Extension](https://marketplace.visualstudio.com/items?itemName=myriad-dreamin.tinymist) - A vscode extension for Tinymist integration
-- [Tinymist](https://github.com/Myriad-Dreamin/tinymist) - A language server for typst with integrations for vscode, zed, neovim, and helix
+- [Tinymist](https://github.com/Myriad-Dreamin/tinymist) - A language server for typst with integrations for Emacs, Helix, NeoVim, Sublime Text, VsCode/VsCodium, and Zed
 - [Typst LSP VS Code Extension](https://marketplace.visualstudio.com/items?itemName=nvarner.typst-lsp)
 - [Typst Sync](https://github.com/OrangeX4/vscode-typst-sync) - A vscode extension for Typst local packages management and synchronization.
 - [frozolotl/tree-sitter-typst](https://github.com/frozolotl/tree-sitter-typst) - A tree-sitter grammar with a focus on correctness.
