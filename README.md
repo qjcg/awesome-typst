@@ -234,6 +234,7 @@ PRs welcomed!
 ### Calendar / Timetable
 
 - [typst-timetable](https://github.com/ludwig-austermann/typst-timetable) - A template for timetables
+- [october](https://github.com/extua/october) - A simple printable month calendar
 
 ### Footnotes & Endnotes
 
