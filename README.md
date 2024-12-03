@@ -282,7 +282,7 @@ PRs welcomed!
 - [typst-algorithms](https://github.com/platformer/typst-algorithms) - A library for writing algorithms
 - [typst-himcm-template](https://github.com/EvanLuo42/typst-himcm-template) - An HiMCM template for Typst
 - [typst-math-template](https://github.com/matthiasGmayer/typst-math-template) - A simple math template that allows for numbered, referenceable theorems and compilation of subfiles that use references.
-- [typst-pf3](https://github.com/maxwell-thum/typst-pf3) - A small package for creating "structured proofs." Essentially a port of Leslie Lamport's [`pf2.sty`](https://lamport.azurewebsites.net/latex/pf2.sty)
+- [typst-pf3](https://github.com/maxwell-thum/typst-pf3) - A small package for creating "structured proofs." Essentially a port of Leslie Lamport's [`pf2.sty`](https://web.archive.org/web/20240419130400/https://lamport.azurewebsites.net/latex/pf2.sty)
 - [typst-theorems](https://github.com/sahasatvik/typst-theorems) - A library for creating numbered theorem environments
 - [typst-undergradmath](https://github.com/johanvx/typst-undergradmath) - A Typst port of [undergradmath](https://gitlab.com/jim.hefferon/undergradmath)
 
