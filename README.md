@@ -130,6 +130,7 @@ PRs welcomed!
 ### Online Tools
 
 - [Detypify](https://github.com/QuarticCat/detypify) - Typst symbol classifier
+- [excel-to-typst](https://github.com/hongjr03/excel-to-typst) - A tool that convert Excel tables to Typst table, can work in uploading .xlsx file or pasting.
 
 ### Programming
 
