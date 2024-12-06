@@ -109,6 +109,10 @@ Typst 是可用于出版的可编程标记语言，拥有变量、函数与包�
 - [typst-live](https://github.com/ItsEthra/typst-live) - 在 Web 浏览器中实时重新加载 PDF
 - [typst-pandoc](https://github.com/lvignoli/typst-pandoc) - Pandoc 的 Typst 自定义读写器
 
+### 在线工具
+
+- [excel-to-typst](https://github.com/hongjr03/excel-to-typst) - 从 Excel 表格转换为 Typst 表格的工具，支持上传选择工作表或直接粘贴工作表区域，允许解析单元格对齐属性
+
 ### 编辑器
 
 - [typstudio](https://github.com/Cubxity/typstudio) - 正在开发中的使用 Tauri 构建的桌面编辑器
@@ -193,8 +197,10 @@ Typst 是可用于出版的可编程标记语言，拥有变量、函数与包�
 - [assignment-template](https://github.com/AntoniosBarotsis/typst-assignment-template) - 简单的作业模板
 - [typst-assignment-template](https://github.com/astrale-sharp/typst-assignement-template.git) - 又一个简单的作业模板
 - [typst-assignment-template](https://github.com/gRox167/typst-assignment-template.git) - 具有封面和多个有用数学符号的另一个简单作业模板
+- [Typst-Assignment-Template](https://github.com/hongjr03/Typst-Assignment-Template) - 基于 gRox167 的模板修改的美观的中文作业模板
 - [typst-homework-template](https://github.com/OriginCode/typst-homework-template) - 受到 Adam Blank LaTeX 作业模板启发的简单作业模板
 - [typst-teacher-template](https://github.com/jomaway/typst-teacher-templates) - 用于创建我的课程工作表和考试的 Typst 模板的集合
+- [OUC-Typst-Assignment-Templates](https://github.com/hongjr03/OUC-Typst-Assignment-Templates) - 使用 Typst 实现的中国海洋大学计算机专业部分实验报告模板
 
 ### CV
 
