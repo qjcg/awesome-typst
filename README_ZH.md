@@ -77,13 +77,7 @@ Typst 是可用于出版的可编程标记语言，拥有变量、函数与包�
 - [Typst 文档](https://typst.app/docs)
 - [GitHub](https://github.com/typst/typst)
 - [博客](https://typst.app/blog/)
-- 社交 - [Discord] [Instagram] [LinkedIn] [Mastodon] [X]
-
-[discord]: https://discord.gg/2uDybryKPe
-[instagram]: https://instagram.com/typstapp/
-[linkedin]: https://www.linkedin.com/company/typst/
-[mastodon]: https://mastodon.social/@typst
-[X]: https://twitter.com/typstapp/
+- 社交 - [Discord][Discord] [Instagram][Instagram] [LinkedIn][LinkedIn] [Mastodon][Mastodon] [X][X]
 
 ## 集成和工具
 
@@ -164,6 +158,7 @@ Typst 是可用于出版的可编程标记语言，拥有变量、函数与包�
 - [HEU-Report-Typst](https://github.com/a-kkiri/HEU-Report-Typst): 哈尔滨工程大学课程作业/结课汇报的通用简易 Typst 模板
 - [sustech-ug-thesis-typst](https://github.com/dazhi0619/sustech-ug-thesis-typst): 南方科技大学本科毕业论文 Typst 模版
 - [ustcthss-typst](https://github.com/smallscientist1/ustcthss-typst): 中国科学技术大学本科毕业论文 Typst 模版
+- [cug-thesis-typst](https://github.com/Rsweater/cug-thesis-typst): 中国地质大学（武汉）学位论文 Typst 模板
 
 ### 通用
 
@@ -224,7 +219,7 @@ Typst 是可用于出版的可编程标记语言，拥有变量、函数与包�
 - [typst-cv-template1](https://github.com/vaibhavjhawar/typst-cv-template1) - 受 Alessandro Plasmati 的 Graduate CV LaTeX 模板启发的 CV 模板
 - [typst-cv-template](https://github.com/skyzh/typst-cv-template) - 适用于 Typst 的中文 CV 模板
 - [typst-mixed-resume](https://github.com/titaneric/typst-mixed-resume) - 受多个模板启发的随意而优雅的简历模板
-- [typst-neat-cv](https://github.com/UntimelyCreation97/typst-neat-cv) - 一种现代、简约和优雅的Typst简历模板，灵感来自于 mintyfrankie 的`Brilliant CV`。
+- [typst-neat-cv](https://github.com/UntimelyCreation97/typst-neat-cv) - 一种现代、简约和优雅的Typst简历模板，灵感来自于 mintyfrankie 的 `Brilliant CV`。
 - [typst-resume-sans](https://github.com/mizlan/typst-resume-sans) - 时尚而朴素的无衬线字体简历模板
 - [typst-resume-template](https://github.com/bamboovir/typst-resume-template) - 受 Awesome-CV 项目启发的美观样式
 - [typst-resume-template](https://github.com/hexWars/resume) - 使用 Typst 设计的漂亮简历模板
@@ -232,9 +227,9 @@ Typst 是可用于出版的可编程标记语言，拥有变量、函数与包�
 - [typst-yaml-cv](https://github.com/daxartio/cv) - 使用 Typst 和 YAML 设计的简历模板
 - [vercanard](https://github.com/elegaanz/vercanard) - 适用于 Typst 的多彩简历模板
 - [Chinese-Resume-in-Typst](https://github.com/OrangeX4/Chinese-Resume-in-Typst) - 使用 Typst 编写的中文简历, 语法简洁, 样式美观, 开箱即用, 可选是否显示照片
-- [neet-cv](https://github.com/kznr02/neet-cv) - 作者自用后开源的一份使用typst自制的中文简历模板，具有简单的使用方法，其中有部分参考`wondercv`，开箱即用，简洁美观。
+- [neet-cv](https://github.com/kznr02/neet-cv) - 作者自用后开源的一份使用typst自制的中文简历模板，具有简单的使用方法，其中有部分参考 `wondercv`，开箱即用，简洁美观。
 - [serif-chinese-cv](https://github.com/MondayCha/chinese-cv) - 双色中文简历，使用衬线字体，基于 [chicv](https://github.com/skyzh/chicv) 改造。
-- [Chinese-Resume-in-Typst-PhD](https://github.com/TimoLin/Chinese-Resume-in-Typst-PhD) - 基于`Chinese-Resume-in-Typst`简历开发，适用于硕/博士求职，更加灵活地管理和展示你的项目经历 。
+- [Chinese-Resume-in-Typst-PhD](https://github.com/TimoLin/Chinese-Resume-in-Typst-PhD) - 基于 `Chinese-Resume-in-Typst`简历开发，适用于硕/博士求职，更加灵活地管理和展示你的项目经历 。
 
 ### 日历 / 课程表
 
@@ -336,3 +331,9 @@ Typst 是可用于出版的可编程标记语言，拥有变量、函数与包�
 - [polylux](https://github.com/andreasKroepelin/polylux) - 在 Typst 中创建演示幻灯片
 - [pinit](https://github.com/OrangeX4/typst-pinit) - 用于更好地在 Typst 中编写 Slides 的相对定位工具包
 - [touying](https://github.com/touying-typ/touying) - 一个更强大的演示幻灯片包，包含许多内置模板和 [中文文档](https://touying-typ.github.io/zh/docs/intro/)
+
+[discord]: https://discord.gg/2uDybryKPe
+[instagram]: https://instagram.com/typstapp/
+[linkedin]: https://www.linkedin.com/company/typst/
+[mastodon]: https://mastodon.social/@typst
+[X]: https://twitter.com/typstapp/
