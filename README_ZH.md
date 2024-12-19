@@ -39,6 +39,7 @@ Typst 是可用于出版的可编程标记语言，拥有变量、函数与包�
     - [聊天机器人](#聊天机器人)
     - [CI/CD](#cicd)
     - [命令行工具](#命令行工具)
+    - [在线工具](#在线工具)
     - [编辑器](#编辑器)
     - [编辑器集成](#编辑器集成)
     - [编程](#编程)
@@ -154,6 +155,7 @@ Typst 是可用于出版的可编程标记语言，拥有变量、函数与包�
 - [BUAA-typst](https://github.com/cherichy/BUAA-typst): 北京航空航天大学学位论文模板
 - [bupt-typst](https://github.com/QQKdeGit/bupt-typst): 北京邮电大学本科学士学位论文模板
 - [HUST-typst-template](https://github.com/werifu/HUST-typst-template): 用于华科毕业设计（本科）的 typst 模板。
+- [WHU-typst-template](https://github.com/Hithereland/whu-typst-template) 用于武汉大学毕业设计 (本科) 的 typst 模板
 - [SHU-Bachelor-Thesis-Typst](https://github.com/shuosc/SHU-Bachelor-Thesis-Typst): 上海大学本科毕业论文 typst 模板 (开发ing)
 - [sysu-thesis-typst](https://github.com/howardlau1999/sysu-thesis-typst): 中山大学学位论文 Typst 模板
 - [ZJGSU-typst-template](https://github.com/jujimeizuo/ZJGSU-typst-template): 浙江工商大学毕业设计（本科）的 typst 模板。
