@@ -117,6 +117,7 @@ PRs welcomed!
 - [inktyp](https://github.com/herlev/inktyp) - An Inkscape plugin to insert and edit Typst equations
 - [obsidian-typst](https://github.com/fenjalien/obsidian-typst) - Renders typst code blocks in Obsidian into images using Typst through the power of WASM!
 - [org-typst-preview](https://github.com/remimimimimi/org-typst-preview.el) - Typst preview in org-mode
+- [typstar](https://github.com/arne314/typstar) - Neovim plugin providing autosnippets, excalidraw integration and \[standalone\] Anki flashcard export
 - [typst-conceal.vim](https://github.com/MrPicklePinosaur/typst-conceal.vim) - Vim/Nvim plugin for replacing long typst symbol names with unicode characters
 - [typst-math](https://marketplace.visualstudio.com/items?itemName=surv.typst-math) - A VS Code extension to simplify math writing in Typst
 - [typst-sympy-calculator](https://github.com/OrangeX4/vscode-typst-sympy-calculator) - VS Code extension for Typst math calculating, includes Arithmetic, Calculus, Matrix, Custom Variances and Functions by yourself
