@@ -260,6 +260,7 @@ PRs welcomed!
 ### Graphics
 
 - [CeTZ](https://github.com/cetz-package/cetz) - CeTZ (CeTZ, ein Typst Zeichenpacket) is a library for drawing with [Typst](https://typst.app) with an API inspired by TikZ and [Processing](https://processing.org/). It comes with modules for drawing plots, graphs and charts.
+- [CeTZ Diagram Gallery](https://github.com/janosh/diagrams) - covering dozens of concepts in math, physics, chemistry and machine learning. Includes source code for many diagrams in both Typst and LaTeX, so good learning resource for people coming from TikZ.
 - [typst-raytracer](https://github.com/SeniorMars/typst-raytracer) - raytracer in typst
 
 ### Letters
