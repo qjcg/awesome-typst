@@ -59,13 +59,13 @@ PRs welcomed!
 - [Typst Documentation](https://typst.app/docs)
 - [GitHub](https://github.com/typst/typst)
 - [Blog](https://typst.app/blog/)
-- Social - [Discord] [Instagram] [LinkedIn] [Mastodon] [X]
+- Social - [Discord] [Instagram] [LinkedIn] [Mastodon] [Bluesky]
 
 [discord]: https://discord.com/invite/2uDybryKPe
 [instagram]: https://www.instagram.com/typstapp/
 [linkedin]: https://www.linkedin.com/company/typst/
 [mastodon]: https://mastodon.social/@typst
-[X]: https://twitter.com/typstapp/
+[Bluesky]: https://bsky.app/profile/typst.app
 
 ## Unofficial Project Links
 
