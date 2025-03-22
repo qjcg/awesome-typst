@@ -172,6 +172,7 @@ PRs welcomed!
 - [mcm-icm-typst-template](https://github.com/DawnEver/mcm-icm-typst-template) - A template for Mathematical Contest in Modeling (MCM) and the Interdisciplinary Contest in Modeling(ICM).
 - [simple-typst-thesis](https://github.com/zagoli/simple-typst-thesis) - A template useful for writing simple thesis in Typst
 - [thesis-template-typst](https://github.com/ls1intum/thesis-template-typst) - Technical University of Munich thesis Template with cover, titlepage, tables, figures, appendix, etc.
+- [tufte-typst](https://github.com/fredguth/tufte-typst) - A Tufte-inspired template for Typst
 - [typst-bioinfo-thesis](https://github.com/lkndl/typst-bioinfo-thesis) - Flexible section headers and page numbers; pretty outlines and a `wrapfig`
 - [typst-invoice](https://github.com/erictapen/typst-invoice) - Generate invoices from TOML files
 - [typst-mla9-template](https://github.com/wychwitch/typst-mla9-template) - An MLA 9th edition template
