@@ -166,6 +166,7 @@ Typst 是可用于出版的可编程标记语言，拥有变量、函数与包�
 - [HEU-Report-Typst](https://github.com/a-kkiri/HEU-Report-Typst): 哈尔滨工程大学课程作业/结课汇报的通用简易 Typst 模板
 - [sustech-ug-thesis-typst](https://github.com/dazhi0619/sustech-ug-thesis-typst): 南方科技大学本科毕业论文 Typst 模版
 - [ustcthss-typst](https://github.com/smallscientist1/ustcthss-typst): 中国科学技术大学本科毕业论文 Typst 模版
+- [nwnu-thesis-typst](https://github.com/PrinOrange/nwnu-thesis-typst): 西北师范大学研究生学位论文 Typst 模版
 
 ### 通用
 
