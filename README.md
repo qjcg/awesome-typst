@@ -127,7 +127,7 @@ PRs welcomed!
 - [typst.vim](https://github.com/kaarmu/typst.vim) - Vim plugin for Typst
 - [typstd](https://github.com/daskol/typstd) - Yet another Typst language server.
 - [uben0/tree-sitter-typst](https://github.com/uben0/tree-sitter-typst) - A TreeSitter grammar for the Typst language, used by Helix
-- [zeta](https://github.com/lentilus/zeta) - A language server for Zettelkasten-style note-taking, featuring reference tracking, navigation, and a graph view.
+- [zeta](https://github.com/lentilus/zeta) - A language server for Zettelkasten-style note-taking, featuring fast navigation, and a graph view.
 
 ### Online Tools
 
