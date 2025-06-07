@@ -107,6 +107,7 @@ PRs welcomed!
 - [Katvan](https://github.com/IgKh/katvan) - A bare-bones editor for Typst files, with a bias for Right-to-Left editing.
 - [Typstwriter](https://github.com/Bzero/typstwriter) - An integrated desktop editor for typst projects.
 - [BeauTyXT](https://github.com/soupslurpr/BeauTyXT) - A private, secure, minimalistic Text, Markdown, and Typst editor for Android
+- [AcademicID](https://github.com/Academic-ID/sapienAI) - A self-hosted academic-focused AI chatbot and research workspace with a Typst, Markdown, and Text editor.
 
 ### Editor Integrations
 
