@@ -167,6 +167,7 @@ Typst 是可用于出版的可编程标记语言，拥有变量、函数与包�
 - [sustech-ug-thesis-typst](https://github.com/dazhi0619/sustech-ug-thesis-typst): 南方科技大学本科毕业论文 Typst 模版
 - [ustcthss-typst](https://github.com/smallscientist1/ustcthss-typst): 中国科学技术大学本科毕业论文 Typst 模版
 - [nwnu-thesis-typst](https://github.com/PrinOrange/nwnu-thesis-typst): 西北师范大学研究生学位论文 Typst 模版
+- [typst_xdutemplate](https://github.com/Hubert9982/typst_xdutemplate)：西安电子科技大学本科毕业设计 Typst 非官方模板 
 
 ### 通用
 
@@ -306,6 +307,8 @@ Typst 是可用于出版的可编程标记语言，拥有变量、函数与包�
 ### 期刊
 
 - [ieee-trans-typst](https://github.com/p4perf4ce/typst-ieee-trans-template) - 模仿 LaTeX IEEE 汇刊 (Transactions) 模板（`ieee-trans.cls`）的模板
+- [xdu-journal-alike-typst](https://github.com/BenderBlog/xdu-journal-alike-typst) - 仿西电学报论文模板编写的 Typst 模板，可用于大作业编写 
+- [journal-of-software-alike-typst](https://github.com/BenderBlog/journal-of-software-alike-typst) - 仿软件学报论文模板编写的 Typst 模板，可用于大作业编写 
 
 ### 基金/提案
 
