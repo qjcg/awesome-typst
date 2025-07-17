@@ -97,7 +97,7 @@ PRs welcomed!
 - [typstyle](https://github.com/Enter-tainer/typstyle) - Opinionated typst code formatter focusing on aesthetic, convergence and correctness.
 - [typst-live](https://github.com/ItsEthra/typst-live) - Hot reloading of pdf in web browser
 - [typst-pandoc](https://github.com/lvignoli/typst-pandoc) - Typst custom reader and writer for Pandoc
-- [utpm](https://github.com/Thumuss/utpm) - Package manager for local and remote packages
+- [utpm](https://github.com/typst-community/utpm) - _Package manager_ for **[local](https://github.com/typst/packages#local-packages)** and **[remote](https://github.com/typst/packages)** Typst packages.
 - [Tyler](https://github.com/mkpoli/tyler) - Package compiler for the ease of packaging and publishing Typst libraries and templates.
 - [textlint-plugin-typst](https://github.com/textlint/textlint-plugin-typst) - [textlint](https://textlint.github.io/) plugin to lint Typst
 
