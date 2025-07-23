@@ -329,7 +329,7 @@ PRs welcomed!
 ### Posters
 
 - [typst-poster](https://github.com/pncnmnp/typst-poster) - An academic poster template
-- [science-posters](https://github.com/jonaspleyer/peace-of-posters) - Create academic posters in block style
+- [peace-of-posters](https://github.com/jonaspleyer/peace-of-posters) - A package for creating academic posters in block style
 
 ### Scripting
 
