@@ -72,6 +72,7 @@ PRs welcomed!
 - [Typst-telegram-russian-chat](https://t.me/typst_ru) - chat about Typst in Telegram in russian
 - [#typst:matrix.org](https://matrix.to/#/%23typst:matrix.org) - matrix room for Typst
 - [Typst Examples Book](https://sitandr.github.io/typst-examples-book/book/) - An online book with Typst snippets, including extended tutorial and useful hacks
+- [Nonsense](https://github.com/SylvanFranklin/nonsense) - Funny and visually stunning generator of random fake math papers. 
 
 ## Integrations & Tools
 
