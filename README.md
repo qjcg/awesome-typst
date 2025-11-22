@@ -15,7 +15,7 @@ Contributions are welcome!
 ## Contents
 
 - [Official Project Links](#official-project-links)
-- [Unofficial Project Links](#unofficial-project-links)
+- [Typst Community Links](#typst-community-links)
 - [Integrations & Tools](#integrations--tools)
   - [Browser Extensions](#browser-extensions)
   - [Chatbots](#chatbots)
