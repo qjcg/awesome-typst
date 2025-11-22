@@ -75,6 +75,7 @@ Contributions are welcome!
 - [#typst:matrix.org](https://matrix.to/#/%23typst:matrix.org) - matrix room for Typst
 - [Typst Examples Book](https://sitandr.github.io/typst-examples-book/book/) - An online book with Typst snippets, including extended tutorial and useful hacks
 - [Typst Japanese Community](https://typst-jp.github.io/docs) - Typst Japanese community docs and resources.
+- [best-of-typst](https://github.com/YDX-2147483647/best-of-typst) - A ranked list of awesome projects related to Typst.
 
 ## Integrations & Tools
 
