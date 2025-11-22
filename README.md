@@ -137,14 +137,14 @@ Contributions are welcome!
 
 ### Programming
 
-- [leetcode.typ](https://github.com/lucifer1004/leetcode.typ) - Solving Leetcode problems in Typst
 - [Typix](https://github.com/loqusion/typix) - Deterministic Typst compilation with Nix
+- [Typstry.jl](https://github.com/jakobjpeters/Typstry.jl) - The Julia to Typst interface
+- [leetcode.typ](https://github.com/lucifer1004/leetcode.typ) - Solving Leetcode problems in Typst
+- [mpl-typst](https://github.com/daskol/mpl-typst) - A Typst backend for Matplotlib.
 - [pypst](https://github.com/tilman151/pypst) - Declarative Typst in Python with Pandas data frame support.
 - [typst-py](https://github.com/messense/typst-py) - Python binding to typst
 - [typst-rb](https://github.com/actsasflinn/typst-rb) - Ruby binding to typst
 - [typst.ts](https://github.com/Myriad-Dreamin/typst.ts) - JavaScript binding to typst
-- [Typstry.jl](https://github.com/jakobjpeters/Typstry.jl) - The Julia to Typst interface
-- [mpl-typst](https://github.com/daskol/mpl-typst) - A Typst backend for Matplotlib.
 
 ### Typst As A Service
 
