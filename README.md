@@ -139,6 +139,7 @@ Contributions are welcome!
 
 - [leetcode.typ](https://github.com/lucifer1004/leetcode.typ) - Solving Leetcode problems in Typst
 - [Typix](https://github.com/loqusion/typix) - Deterministic Typst compilation with Nix
+- [pypst](https://github.com/tilman151/pypst) - Declarative Typst in Python with Pandas data frame support.
 - [typst-py](https://github.com/messense/typst-py) - Python binding to typst
 - [typst-rb](https://github.com/actsasflinn/typst-rb) - Ruby binding to typst
 - [typst.ts](https://github.com/Myriad-Dreamin/typst.ts) - JavaScript binding to typst
