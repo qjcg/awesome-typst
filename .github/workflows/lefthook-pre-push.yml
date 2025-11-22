@@ -1,0 +1,31 @@
+name: Lefthook pre-push checks (slower)
+
+on:
+  workflow_dispatch: {}
+  schedule:
+    - cron: "00 18 * * *"
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone the repo
+        uses: actions/checkout@v6
+
+      - name: Install Go
+        uses: actions/setup-go@v6
+        with:
+          go-version-file: go.mod
+
+      - name: Check for broken links
+        id: pre_push
+        run: go tool lefthook run pre-push --all-files
+
+      # TODO: Implement GH issue creation when pre_push fails.
+      # Desired steps:
+      #  - Create a report file in the pre_push step
+      #  - Using the GH cli command, create a new GH issue using the contents of the report file as the body
+      #
+      # - name: Create a GitHub issue based on a broken links report
+      #   if: steps.pre_push.outcome == 'failure'
+      #   run: gh issue
