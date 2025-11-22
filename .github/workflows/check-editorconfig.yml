@@ -1,31 +1,27 @@
-name: Check EditorConfig
+name: Linters (fast)
 
 on:
   workflow_dispatch: {}
   push:
-    branches:
-      - main
+    branches: [main]
   pull_request:
-    branches:
-      - main
-    types:
-      - opened
-      - reopened
+    branches: [main]
+    types: [opened, synchronize, reopened]
+
+permissions:
+  contents: read
 
 jobs:
   lint:
     runs-on: ubuntu-latest
     steps:
       - name: Clone the repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
-      # Install Go, because the step below uses our Taskfile.yml that calls `go run`.
       - name: Install Go
-        uses: actions/setup-go@v5
+        uses: actions/setup-go@v6
         with:
-          go-version: '1.23.x'
+          go-version: '1.25.x'
 
       - name: Check that files follow .editorconfig rules
-        uses: anonie-muss/go-task-run-action@latest
-        with:
-          tasks: lint:editorconfig
+        run: go tool lefthook run pre-commit
