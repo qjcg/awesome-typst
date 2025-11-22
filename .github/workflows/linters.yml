@@ -2,8 +2,6 @@ name: Run Linters
 
 on:
   workflow_dispatch: {}
-  push:
-    branches: [main]
   pull_request:
     branches: [main]
     types: [opened, synchronize, reopened]
@@ -23,9 +21,11 @@ jobs:
           go-version-file: go.mod
 
       - name: Run lefthook pre-commit checks (fast)
+        id: pre_commit
         run: go tool lefthook run pre-commit --all-files
 
       - name: Run lefthook pre-push checks (slower)
+        id: pre_push
         run: go tool lefthook run pre-push --all-files
 
       # TODO: Implement GH issue creation when pre_push fails.
