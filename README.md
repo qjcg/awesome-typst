@@ -224,7 +224,6 @@ Contributions are welcome!
 - [modern-typst-template](https://github.com/peterpf/modern-typst-resume) - A modern resume/CV template.
 - [moderncv.typst](https://github.com/giovanniberti/moderncv.typst) - A CV template inspired by LaTeX's `moderncv`
 - [resume.typ](https://github.com/wusyong/resume.typ) - Simple and ergonomic template to generate resume and CV
-- [simplecv](https://github.com/LaurenzV/simplecv) - SimpleCV is a simple and elegant CV template written in Typst
 - [typst-academic-cv](https://github.com/DawnEver/typst-academic-cv) - Typst Template for Academic CV
 - [typst-blue-header-cv](https://github.com/cammellos/typst-blue-header-cv) - Customizable Typst two-columns CV template with a top header.
 - [typst-cv-miku](https://github.com/ice-kylin/typst-cv-miku) - A simple, elegant, academic style CV template for typst. Support for English and Chinese (and more)
