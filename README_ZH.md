@@ -221,7 +221,6 @@ Typst 是可用于出版的可编程标记语言，拥有变量、函数与包�
 - [cv.typ](https://github.com/jskherman/cv.typ) - 使用 Typst 和 YAML 版本控制 CV 数据的无花样简历模板
 - [moderncv.typst](https://github.com/giovanniberti/moderncv.typst) - 受 LaTeX 的 `moderncv` 启发的 CV 模板
 - [resume.typ](https://github.com/wusyong/resume.typ) - 生成简历和 CV 的简单、人体工程学模板
-- [simplecv](https://github.com/LaurenzV/simplecv) - 用 Typst 编写的简单而优雅的 CV 模板
 - [typst-cv-miku](https://github.com/ice-kylin/typst-cv-miku) - 为 Typst 制作的简单、优雅、学术风格的 CV 模板。支持英语和中文等多语言
 - [typst-cv-resume](https://github.com/jxpeng98/Typst-CV-Resume) - 使用 Sans 字体受到 LaTeX `Deedy-Resume` 启发的 CV 模板
 - [typst-cv-template1](https://github.com/vaibhavjhawar/typst-cv-template1) - 受 Alessandro Plasmati 的 Graduate CV LaTeX 模板启发的 CV 模板
