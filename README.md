@@ -73,7 +73,7 @@ Contributions are welcome!
 
 - [#typst:matrix.org](https://matrix.to/#/%23typst:matrix.org) - Matrix room for Typst.
 - [Typst Examples Book](https://sitandr.github.io/typst-examples-book/book/) - An online book with Typst snippets, including extended tutorial and useful hacks.
-- [Typst Japanese Community](https://typst-jp.github.io/docs) - Typst Japanese community docs and resources.
+- [Typst Japanese Community](https://typst-jp.github.io/docs/) - Typst Japanese community docs and resources.
 - [Typst-telegram-russian-chat](https://t.me/typst_ru) - Chat about Typst in Telegram in russian
 - [best-of-typst](https://github.com/YDX-2147483647/best-of-typst) - A ranked list of awesome projects related to Typst.
 
@@ -98,12 +98,12 @@ Contributions are welcome!
 
 ### CLI Tools
 
-- [typstyle](https://github.com/Enter-tainer/typstyle) - Opinionated typst code formatter focusing on aesthetic, convergence and correctness.
+- [typstyle](https://github.com/typstyle-rs/typstyle) - Opinionated typst code formatter focusing on aesthetic, convergence and correctness.
 - [typst-live](https://github.com/ItsEthra/typst-live) - Hot reloading of pdf in web browser
 - [typst-pandoc](https://github.com/lvignoli/typst-pandoc) - Typst custom reader and writer for Pandoc
 - [utpm](https://github.com/typst-community/utpm) - _Package manager_ for **[local](https://github.com/typst/packages#local-packages)** and **[remote](https://github.com/typst/packages)** Typst packages.
 - [Tyler](https://github.com/mkpoli/tyler) - Package compiler for the ease of packaging and publishing Typst libraries and templates.
-- [textlint-plugin-typst](https://github.com/textlint/textlint-plugin-typst) - [textlint](https://textlint.github.io/) plugin to lint Typst
+- [textlint-plugin-typst](https://github.com/textlint/textlint-plugin-typst) - [textlint](https://textlint.org/) plugin to lint Typst
 
 ### Editors
 
@@ -171,7 +171,7 @@ Contributions are welcome!
 - [Typst-Paper-Template](https://github.com/jxpeng98/Typst-Paper-Template) - Typst template for Working Paper
 - [aiaa-typst-template](https://gitlab.com/waterlubber/aiaa-typst-template) - A template for AIAA (American Institute of Aeronautics and Astronautics) papers.
 - [bubble-template](https://github.com/hzkonor/bubble-template) - A simple and colorful template for reports
-- [french-association-status](https://github.com/coco33920/typst-association-statuts) - A Template to write status for french associations.
+- [french-association-status](https://github.com/vanilla-extracts/typst-association-statuts) - A Template to write status for french associations.
 - [gloss-awe](https://github.com/RolfBremer/gloss-awe) - Automatically Generated Glossary Page (renamed from typst-glossary)
 - [in-dexter](https://github.com/RolfBremer/in-dexter) - Automatically Generated Index Page (renamed from typst-index)
 - [mcm-icm-typst-template](https://github.com/DawnEver/mcm-icm-typst-template) - A template for Mathematical Contest in Modeling (MCM) and the Interdisciplinary Contest in Modeling(ICM).
@@ -216,7 +216,7 @@ Contributions are welcome!
 - [alta-typst](https://github.com/GeorgeHoneywood/alta-typst) - A simple Typst CV template, inspired by AltaCV by LianTze Lim
 - [attractive-typst-resume](https://github.com/Harkunwar/attractive-typst-resume) - A modern looking, attractive CV/Resume template by Harkunwar Kochar
 - [billryan-typst](https://github.com/gvariable/billryan-typst) - A simple and minimalist resume template, inspired by Resume by Billryan.
-- [brilliant-CV](https://github.com/mintyfrankie/brilliant-CV) - Another CV template for your job application, yet powered by Typst and more
+- [brilliant-CV](https://github.com/yunanwg/brilliant-CV) - Another CV template for your job application, yet powered by Typst and more
 - [caidan](https://github.com/cu1ch3n/caidan) - A clean and minimal food menu template.
 - [cv.typ](https://github.com/jskherman/imprecv) - A no-frills curriculum vitae (CV) template using Typst and YAML to version control CV data.
 - [friggeri-cv](https://github.com/olligobber/friggeri-cv) - A slightly modified version of the Friggeri CV, originally created by Adrien Friggeri in LaTeX, ported to Typst.
@@ -252,7 +252,7 @@ Contributions are welcome!
 ### Formatting
 
 - [metro](https://github.com/fenjalien/metro) - A typst package to add typsetting to units!
-- [ruby-typ](https://github.com/rinmyo/ruby-typ) - A library to add ruby text
+- [ruby-typ](https://github.com/uwni/ruby-typ) - A library to add ruby text
 - [showybox](https://github.com/Pablo-Gonzalez-Calderon/showybox-package) - A Typst package for creating colorful and customizable boxes.
 - [simple-poem-typst](https://github.com/asibahi/simple-poem-typst) - An application of the `measure` function to set Arabic poetry.
 - [syntastica-typst](https://github.com/RubixDev/syntastica-typst/) - Tree-sitter syntax highlighting for code blocks.
@@ -293,7 +293,7 @@ Contributions are welcome!
 
 - [typst-cd](https://gitlab.com/giacomogallina/commute) - Proof of Concept for tikz-like commutative diagrams
 - [typst-plot](https://github.com/johannes-wolf/typst-plot) - A library for plotting line charts (deprecated in favor of CeTZ)
-- [typst-plotting](https://github.com/Pegacraft/typst-plotting) - A library for drawing a variety of charts and plots like line charts, histograms, and pie charts
+- [typst-plotting](https://github.com/Chayraaa/typst-plotting) - A library for drawing a variety of charts and plots like line charts, histograms, and pie charts
 
 ### Posters
 
@@ -350,7 +350,7 @@ Contributions are welcome!
 ### Slides
 
 - [diapo](https://github.com/lvignoli/diapo) - A minimal and simplistic presentation template.
-- [polylux](https://github.com/andreasKroepelin/polylux) - Create presentation slides in Typst
+- [polylux](https://github.com/polylux-typ/polylux) - Create presentation slides in Typst
 - [clean-polylux-typst](https://github.com/marcothms/clean-polylux-typst) - A clean and dynamic polylux presentation slide template
 - [pinit](https://github.com/OrangeX4/typst-pinit) - Pin things as you like, especially useful for creating slides in typst.
 - [touying](https://github.com/touying-typ/touying) - A powerful package for creating presentation slides in Typst
