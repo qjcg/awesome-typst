@@ -283,6 +283,11 @@ Contributions are welcome!
 - [typst-syntree](https://github.com/lynn/typst-syntree) - Syntax trees for typst
 
 ### Mathematics
+#### Chemistry
+
+- [alchemist](https://github.com/Typsium/alchemist) - Render skeletal formulas in a human-readable format using cetz.
+- [typsium](https://github.com/Typsium/typsium) - Typeset chemical formulas and reactions.
+
 
 - [commute](https://gitlab.com/giacomogallina/commute) - A library for creating commutative diagrams
 - [typst-algorithms](https://github.com/platformer/typst-algorithms) - A library for writing algorithms
