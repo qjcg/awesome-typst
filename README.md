@@ -9,7 +9,7 @@
 
 Curated collection of useful links for [Typst](https://github.com/typst/typst) users.
 
-PRs welcomed!
+Contributions are welcome!
 
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
 ## Contents
