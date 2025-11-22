@@ -1,0 +1,20 @@
+# See https://lefthook.dev/configuration/
+
+pre-commit:
+  jobs:
+    - name: linters
+      group:
+        parallel: true
+        jobs:
+          - name: editorconfig-checker
+            run: go tool editorconfig-checker {staged_files}
+
+pre-push:
+  jobs:
+    - name: check-links
+      glob: "*.md"
+      run: |
+        go tool xurls {files} \
+        | sort -u \
+        | grep -Ev '(instagram|linkedin|twitter|marketplace.visualstudio).com' \
+        | go tool xurls -fix
