@@ -39,15 +39,17 @@ Contributions are welcome!
   - [Graphics](#graphics)
   - [Letters](#letters)
   - [Linguistics](#linguistics)
-  - [Mathematics](#mathematics)
   - [Music](#music)
-  - [Physics](#physics)
-    - [Conferences](#conferences)
-    - [Journals](#journals)
-    - [Grants/Proposals](#grantsproposals)
-  - [Engineering](#engineering)
   - [Plotting](#plotting)
   - [Posters](#posters)
+  - [Science, Technology, Engineering & Math (STEM)](#science-technology-engineering--math-stem)
+    - [Chemistry](#chemistry)
+    - [Engineering](#engineering)
+    - [Mathematics](#mathematics)
+    - [Physics](#physics)
+      - [Conferences](#conferences)
+      - [Journals](#journals)
+      - [Grants/Proposals](#grantsproposals)
   - [Scripting](#scripting)
   - [Slides](#slides)
 
@@ -282,50 +284,11 @@ Contributions are welcome!
 - [typst-dictionary-template](https://kianting.info/wiki/w/Tan_Kian-ting%E7%9A%84%E7%B6%AD%E5%9F%BA:Typst-dictionary-template) - 📕  a template for lexical dictionary/glossary in Typst
 - [typst-syntree](https://github.com/lynn/typst-syntree) - Syntax trees for typst
 
-### Mathematics
-#### Chemistry
-
-- [alchemist](https://github.com/Typsium/alchemist) - Render skeletal formulas in a human-readable format using cetz.
-- [typsium](https://github.com/Typsium/typsium) - Typeset chemical formulas and reactions.
-
-
-- [commute](https://gitlab.com/giacomogallina/commute) - A library for creating commutative diagrams
-- [typst-algorithms](https://github.com/platformer/typst-algorithms) - A library for writing algorithms
-- [typst-himcm-template](https://github.com/EvanLuo42/typst-himcm-template) - An HiMCM template for Typst
-- [typst-math-template](https://github.com/matthiasGmayer/typst-math-template) - A simple math template that allows for numbered, referenceable theorems and compilation of subfiles that use references.
-- [typst-pf3](https://github.com/maxwell-thum/typst-pf3) - A small package for creating "structured proofs." Essentially a port of Leslie Lamport's [`pf2.sty`](https://web.archive.org/web/20240419130400/https://lamport.azurewebsites.net/latex/pf2.sty)
-- [typst-theorems](https://github.com/sahasatvik/typst-theorems) - A library for creating numbered theorem environments
-- [typst-undergradmath](https://github.com/johanvx/typst-undergradmath) - A Typst port of [undergradmath](https://gitlab.com/jim.hefferon/undergradmath)
 
 ### Music
 
 - [conchord](https://github.com/sitandr/conchord) - Typst package to easily write lyrics with chords and generate colorful fretboard diagrams
 - [typst-chords](https://github.com/ljgago/typst-chords) - A library to write song lyrics with chord diagrams in Typst
-
-### Physics
-
-- [physica](https://github.com/Leedehai/typst-physics) - A library for usual physics notations, e.g. vectors and vector fields, matrices, differentials, derivatives, Dirac brackets, tensors, isotopes, and digital signal sequences.
-
-#### Conferences
-
-- [aiaa-typst](https://github.com/isaacew/aiaa-typst) - A template for creating conference papers in the style of the American Institute of Aeronautics and Astronautics.
-- [ieee-conference-typst-template](https://github.com/DawnEver/ieee-conference-typst-template) A template to write IEEE Conference in Typst.
-- [ieee-typst-template](https://github.com/bsp0109/ieee-typst-template) - A template to write IEEE Papers in Typst
-- [ifacconf-typst](https://github.com/avonmoll/ifacconf-typst) - A template for creating conference papers in the style of the International Federation of Automatic Control
-
-#### Journals
-
-- [ieee-trans-typst](https://github.com/p4perf4ce/typst-ieee-trans-template) - A template that mimic LaTeX IEEE Transaction template (`ieee-trans.cls`)
-
-#### Grants/Proposals
-
-- [typst-nsf-templates](https://github.com/ntjess/typst-nsf-templates) - National Science Foundation (NSF) general template and outlines for popular proposal types.
-
-### Engineering
-
-- [circuitypst](https://github.com/fenjalien/cirCeTZ) - A library for drawing electronic circuit schematics
-- [typst-bytefield](https://github.com/jomaway/typst-bytefield) - A library for drawing (network) protocol headers
-- [tids](https://github.com/oldrev/tids) - A TI-style datasheet template for electronic component
 
 ### Plotting
 
@@ -337,6 +300,48 @@ Contributions are welcome!
 
 - [typst-poster](https://github.com/pncnmnp/typst-poster) - An academic poster template
 - [peace-of-posters](https://github.com/jonaspleyer/peace-of-posters) - A package for creating academic posters in block style
+
+### Science, Technology, Engineering & Math (STEM)
+
+#### Chemistry
+
+- [alchemist](https://github.com/Typsium/alchemist) - Render skeletal formulas in a human-readable format using cetz.
+- [typsium](https://github.com/Typsium/typsium) - Typeset chemical formulas and reactions.
+
+#### Engineering
+
+- [circuitypst](https://github.com/fenjalien/cirCeTZ) - A library for drawing electronic circuit schematics
+- [typst-bytefield](https://github.com/jomaway/typst-bytefield) - A library for drawing (network) protocol headers
+- [tids](https://github.com/oldrev/tids) - A TI-style datasheet template for electronic component
+
+#### Mathematics
+
+- [commute](https://gitlab.com/giacomogallina/commute) - A library for creating commutative diagrams
+- [typst-algorithms](https://github.com/platformer/typst-algorithms) - A library for writing algorithms
+- [typst-himcm-template](https://github.com/EvanLuo42/typst-himcm-template) - An HiMCM template for Typst
+- [typst-math-template](https://github.com/matthiasGmayer/typst-math-template) - A simple math template that allows for numbered, referenceable theorems and compilation of subfiles that use references.
+- [typst-pf3](https://github.com/maxwell-thum/typst-pf3) - A small package for creating "structured proofs." Essentially a port of Leslie Lamport's [`pf2.sty`](https://web.archive.org/web/20240419130400/https://lamport.azurewebsites.net/latex/pf2.sty)
+- [typst-theorems](https://github.com/sahasatvik/typst-theorems) - A library for creating numbered theorem environments
+- [typst-undergradmath](https://github.com/johanvx/typst-undergradmath) - A Typst port of [undergradmath](https://gitlab.com/jim.hefferon/undergradmath)
+
+#### Physics
+
+- [physica](https://github.com/Leedehai/typst-physics) - A library for usual physics notations, e.g. vectors and vector fields, matrices, differentials, derivatives, Dirac brackets, tensors, isotopes, and digital signal sequences.
+
+##### Conferences
+
+- [aiaa-typst](https://github.com/isaacew/aiaa-typst) - A template for creating conference papers in the style of the American Institute of Aeronautics and Astronautics.
+- [ieee-conference-typst-template](https://github.com/DawnEver/ieee-conference-typst-template) A template to write IEEE Conference in Typst.
+- [ieee-typst-template](https://github.com/bsp0109/ieee-typst-template) - A template to write IEEE Papers in Typst
+- [ifacconf-typst](https://github.com/avonmoll/ifacconf-typst) - A template for creating conference papers in the style of the International Federation of Automatic Control
+
+##### Journals
+
+- [ieee-trans-typst](https://github.com/p4perf4ce/typst-ieee-trans-template) - A template that mimic LaTeX IEEE Transaction template (`ieee-trans.cls`)
+
+##### Grants/Proposals
+
+- [typst-nsf-templates](https://github.com/ntjess/typst-nsf-templates) - National Science Foundation (NSF) general template and outlines for popular proposal types.
 
 ### Scripting
 
