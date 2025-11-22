@@ -69,12 +69,12 @@ Contributions are welcome!
 [mastodon]: https://mastodon.social/@typst
 [X]: https://twitter.com/typstapp/
 
-## Unofficial Project Links
+## Typst Community Links
 
-- [Typst-telegram-russian-chat](https://t.me/typst_ru) - chat about Typst in Telegram in russian
-- [#typst:matrix.org](https://matrix.to/#/%23typst:matrix.org) - matrix room for Typst
-- [Typst Examples Book](https://sitandr.github.io/typst-examples-book/book/) - An online book with Typst snippets, including extended tutorial and useful hacks
+- [#typst:matrix.org](https://matrix.to/#/%23typst:matrix.org) - Matrix room for Typst.
+- [Typst Examples Book](https://sitandr.github.io/typst-examples-book/book/) - An online book with Typst snippets, including extended tutorial and useful hacks.
 - [Typst Japanese Community](https://typst-jp.github.io/docs) - Typst Japanese community docs and resources.
+- [Typst-telegram-russian-chat](https://t.me/typst_ru) - Chat about Typst in Telegram in russian
 - [best-of-typst](https://github.com/YDX-2147483647/best-of-typst) - A ranked list of awesome projects related to Typst.
 
 ## Integrations & Tools
