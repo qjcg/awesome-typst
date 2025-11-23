@@ -6,6 +6,7 @@ tasks:
   default: [{task: lint}]
 
   lint:
+    desc: Run all linters.
     deps:
       - lint:editorconfig
       - lint:links
