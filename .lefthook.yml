@@ -16,5 +16,5 @@ pre-push:
       run: |
         go tool xurls {files} \
         | sort -u \
-        | grep -Ev '(instagram|linkedin|twitter|marketplace.visualstudio).com' \
+        | gawk '!/(instagram|linkedin|twitter|marketplace.visualstudio).com/' \
         | go tool xurls -fix
