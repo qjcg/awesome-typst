@@ -1,0 +1,23 @@
+# https://taskfile.dev
+
+version: '3'
+
+tasks:
+  default: [{task: lint}]
+
+  lint:
+    deps:
+      - lint:editorconfig
+      - lint:links
+
+  lint:editorconfig:
+    desc: Check that files conform to editorconfig rules.
+    cmd: go tool editorconfig-checker
+
+  lint:links:
+    desc: Check for broken links. Update any permanent-redirects.
+    cmd: |
+        go tool xurls *.md \
+        | sort -u \
+        | gawk '!/(instagram|linkedin|twitter|marketplace.visualstudio).com/' \
+        | go tool xurls -fix
