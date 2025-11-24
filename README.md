@@ -282,7 +282,7 @@ Contributions are welcome!
 - [typst-ipa](https://github.com/imatpot/typst-ascii-ipa) - 🔄 ASCII / IPA conversion for Typst
 - [tyipa](https://github.com/typst/packages/tree/main/packages/preview/tyipa/0.1.0) - Write phonetic transcriptions using the IPA, in a _typsty_ style.
 - [typst-dictionary-template](https://kianting.info/wiki/w/Tan_Kian-ting%E7%9A%84%E7%B6%AD%E5%9F%BA:Typst-dictionary-template) - 📕  a template for lexical dictionary/glossary in Typst
-- [arborly](https://github.com/pearcebasmanm/arborly) - A library for producing beautiful syntax tree graphs.
+- [arborly](https://github.com/pearcebasmanm/arborly) - A library for producing beautiful syntax tree graphs
 - [typst-syntree](https://github.com/lynn/typst-syntree) - Syntax trees for typst
 - [linphon](https://github.com/thatfloflo/typst-linphon) - Set phonological feature matrices, linear rewrite rules, and more
 
