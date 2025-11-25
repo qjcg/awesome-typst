@@ -278,7 +278,7 @@ Contributions are welcome!
 
 ### Linguistics
 
-- [eggs](https://github.com/retroflexivity/eggs) - Linguistics examples and glosses with minimalist syntax
+- [eggs](https://github.com/retroflexivity/typst-eggs) - Linguistics examples and glosses with minimalist syntax
 - [leipzig-gloss](https://gitea.everydayimshuflin.com/greg/typst-lepizig-glossing) - A library that provides primitives for creating glossing rules according to Leipzig.
 - [typst-ipa](https://github.com/imatpot/typst-ascii-ipa) - 🔄 ASCII / IPA conversion for Typst
 - [tyipa](https://github.com/typst/packages/tree/main/packages/preview/tyipa/0.1.0) - Write phonetic transcriptions using the IPA, in a _typsty_ style.
