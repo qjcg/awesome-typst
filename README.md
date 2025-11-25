@@ -195,6 +195,7 @@ Contributions are welcome!
 
 - [OpenBoard](https://github.com/diquah/OpenBoard) - Easily build clean assessments in the style of the College Board.
 - [assignment-template](https://github.com/AntoniosBarotsis/typst-assignment-template) - A simple assignment template
+- [sheetstorm](https://github.com/rabuu/sheetstorm) - A template for assignment sheets
 - [typst-assignment-template](https://github.com/astrale-sharp/typst-assignement-template) - Yet another simple assignment template
 - [typst-assignment-template](https://github.com/gRox167/typst-assignment-template) - Yet another simple assignment template with a cover and several useful math symbols.
 - [typst-homework-template](https://github.com/OriginCode/typst-homework-template) - A simple homework template inspired by the LaTeX homework template by Adam Blank
