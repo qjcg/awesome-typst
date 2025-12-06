@@ -76,6 +76,7 @@ Contributions are welcome!
 - [Typst Japanese Community](https://typst-jp.github.io/docs/) - Typst Japanese community docs and resources.
 - [Typst-telegram-russian-chat](https://t.me/typst_ru) - Chat about Typst in Telegram in russian
 - [best-of-typst](https://github.com/YDX-2147483647/best-of-typst) - A ranked list of awesome projects related to Typst.
+- [Typst Reddit Commuity](https://www.reddit.com/r/typst/) - An English speaking subreddit about Typst
 
 ## Integrations & Tools
 
