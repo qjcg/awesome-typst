@@ -180,6 +180,7 @@ Contributions are welcome!
 - [tufte-typst](https://github.com/fredguth/tufte-typst) - A Tufte-inspired template for Typst
 - [tufte-memo](https://github.com/nogula/tufte-memo) - A memo document template inspired by the design of Edward Tufte's books.
 - [typst-bioinfo-thesis](https://github.com/lkndl/typst-bioinfo-thesis) - Flexible section headers and page numbers; pretty outlines and a `wrapfig`
+- [klirr](https://github.com/sajjon/klirr) - Zero-maintenance and smart FOSS generating beautiful invoices for services and expenses.
 - [typst-invoice](https://github.com/erictapen/typst-invoice) - Generate invoices from TOML files
 - [typst-mla9-template](https://github.com/wychwitch/typst-mla9-template) - An MLA 9th edition template
 - [typst-orange-template](https://github.com/flavio20002/typst-orange-template) - A Typst book template inspired by The Legrand Orange Book
