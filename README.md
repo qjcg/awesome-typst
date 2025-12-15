@@ -113,6 +113,7 @@ Contributions are welcome!
 - [Typstwriter](https://github.com/Bzero/typstwriter) - An integrated desktop editor for typst projects.
 - [BeauTyXT](https://github.com/soupslurpr/BeauTyXT) - A private, secure, minimalistic Text, Markdown, and Typst editor for Android
 - [AcademicID](https://github.com/Academic-ID/sapienAI) - A self-hosted academic-focused AI chatbot and research workspace with a Typst, Markdown, and Text editor.
+- [TypstEdit](https://github.com/SuperMegaFort/TypstEdit) - A native MacOS Typst editor
 
 ### Editor Integrations
 
