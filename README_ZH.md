@@ -109,6 +109,7 @@ Typst 是可用于出版的可编程标记语言，拥有变量、函数与包�
 - [typst-preview](https://github.com/Enter-tainer/typst-preview) - 在浏览器中实时预览 Typst
 - [typst-live](https://github.com/ItsEthra/typst-live) - 在 Web 浏览器中实时重新加载 PDF
 - [typst-pandoc](https://github.com/lvignoli/typst-pandoc) - Pandoc 的 Typst 自定义读写器
+- [Tylax](https://github.com/scipenai/tylax) - 一个基于 AST 解析的双向 LaTeX-Typst 转换器，支持 TikZ 图形
 
 ### 在线工具
 
