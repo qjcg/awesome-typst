@@ -99,6 +99,7 @@ Contributions are welcome!
 
 ### CLI Tools
 
+- [em-dee-pdf](https://github.com/brendandebeasi/em-dee-pdf) - Markdown to PDF converter with 18 built-in themes, LaTeX math, syntax highlighting, and table of contents.
 - [typstyle](https://github.com/typstyle-rs/typstyle) - Opinionated typst code formatter focusing on aesthetic, convergence and correctness.
 - [typst-live](https://github.com/ItsEthra/typst-live) - Hot reloading of pdf in web browser
 - [typst-pandoc](https://github.com/lvignoli/typst-pandoc) - Typst custom reader and writer for Pandoc
