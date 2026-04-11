@@ -3,7 +3,9 @@
 version: '3'
 
 tasks:
-  default: [{task: lint}]
+  default:
+    deps:
+      - lint
 
   lint:
     desc: Run all linters.
