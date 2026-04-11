@@ -24,6 +24,7 @@ Contributions are welcome!
   - [Editors](#editors)
   - [Editor Integrations](#editor-integrations)
   - [Online Tools](#online-tools)
+  - [Office](#office)
   - [Programming](#programming)
   - [Typst As A Service](#typst-as-a-service)
 - [Templates & Libraries](#templates--libraries)
@@ -145,6 +146,10 @@ Contributions are welcome!
 - [Detypify](https://github.com/QuarticCat/detypify) - Typst symbol classifier
 - [online-typst-editor](https://github.com/Mapaor/online-typst-editor) - A serverless (client-side) typst editor powered by WebAssembly ([typst.ts](https://github.com/Myriad-Dreamin/typst.ts))
 - [excel-to-typst](https://github.com/hongjr03/excel-to-typst) - A tool that convert Excel tables to Typst table, can work in uploading .xlsx file or pasting.
+
+### Office
+
+- [pptypst](https://github.com/Splines/pptypst) - Bring the power of Typst to PowerPoint
 
 ### Programming
 
