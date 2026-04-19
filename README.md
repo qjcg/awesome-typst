@@ -62,13 +62,13 @@ Contributions are welcome!
 - [Typst Documentation](https://typst.app/docs)
 - [GitHub](https://github.com/typst/typst)
 - [Blog](https://typst.app/blog/)
-- Social - [Discord] [Instagram] [LinkedIn] [Mastodon] [Bluesky]
+- Social - [Discord] [Instagram] [LinkedIn] [Mastodon] [bluesky]
 
 [discord]: https://discord.com/invite/2uDybryKPe
 [instagram]: https://www.instagram.com/typstapp/
 [linkedin]: https://www.linkedin.com/company/typst/
 [mastodon]: https://mastodon.social/@typst
-[Bluesky]: https://bsky.app/profile/typst.app
+[bluesky]: https://bsky.app/profile/typst.app
 
 ## Typst Community Links
 
@@ -89,7 +89,7 @@ Contributions are welcome!
 
 ### Chatbots
 
-- [typst-bot](https://github.com/mattfbacon/typst-bot) - A discord bot to render Typst code
+- [typst-bot](https://github.com/mattfbacon/typst-bot) - A Discord bot to render Typst code
 - [typst-bot-telegram](https://t.me/ru_rend_bot) - A telegram bot to render Typst code
 - [typst-telegram-bot](https://github.com/daskol/typst-telegram-bot) - A [telegram bot](https://t.me/TypstBot) with focus in rendering math expression in Typst.
 
@@ -97,7 +97,7 @@ Contributions are welcome!
 
 - [gitlab-ci-typst](https://gitlab.com/IvanSanchez/gitlab-ci-typst) - Build Typst documents using GitLab CI pipelines
 - [setup-typst](https://github.com/typst-community/setup-typst) - 📑 Install Typst for use in GitHub Actions
-- [typst-action](https://github.com/lvignoli/typst-action) - Build Typst documents using GitHub actions
+- [typst-action](https://github.com/lvignoli/typst-action) - Build Typst documents using GitHub Actions
 
 ### CLI Tools
 
@@ -116,26 +116,26 @@ Contributions are welcome!
 - [Typstwriter](https://github.com/Bzero/typstwriter) - An integrated desktop editor for typst projects.
 - [BeauTyXT](https://github.com/soupslurpr/BeauTyXT) - A private, secure, minimalistic Text, Markdown, and Typst editor for Android
 - [AcademicID](https://github.com/Academic-ID/sapienAI) - A self-hosted academic-focused AI chatbot and research workspace with a Typst, Markdown, and Text editor.
-- [TypstEdit](https://github.com/SuperMegaFort/TypstEdit) - A native MacOS Typst editor
+- [TypstEdit](https://github.com/SuperMegaFort/TypstEdit) - A native macOS Typst editor
 - [Typesetter](https://typesetter.trowell.net/) - A minimalist, local-first Typst editor for Linux
 - [typos](https://github.com/dailydaniel/typos) - A Typst-native note-taking system powered by Rust and Tauri with typed metadata, cross-references, backlinks, and knowledge graph visualization.
 
 ### Editor Integrations
 
 - [SeniorMars/tree-sitter-typst](https://github.com/SeniorMars/tree-sitter-typst) - A TreeSitter parser for the Typst File Format
-- [Tinymist VS Code Extension](https://marketplace.visualstudio.com/items?itemName=myriad-dreamin.tinymist) - A vscode extension for Tinymist integration
-- [Tinymist](https://github.com/Myriad-Dreamin/tinymist) - A language server for typst with integrations for Emacs, Helix, NeoVim, Sublime Text, VsCode/VsCodium, and Zed
-- [Typst Sync](https://github.com/OrangeX4/vscode-typst-sync) - A vscode extension for Typst local packages management and synchronization.
+- [Tinymist VS Code Extension](https://marketplace.visualstudio.com/items?itemName=myriad-dreamin.tinymist) - A VSCode extension for Tinymist integration
+- [Tinymist](https://github.com/Myriad-Dreamin/tinymist) - A language server for Typst with integrations for Emacs, Helix, Neovim, Sublime Text, VSCode/VsCodium, and Zed
+- [Typst Sync](https://github.com/OrangeX4/vscode-typst-sync) - A VSCode extension for Typst local packages management and synchronization.
 - [frozolotl/tree-sitter-typst](https://github.com/frozolotl/tree-sitter-typst) - A tree-sitter grammar with a focus on correctness.
 - [inktyp](https://github.com/herlev/inktyp) - An Inkscape plugin to insert and edit Typst equations
-- [obsidian-typst](https://github.com/fenjalien/obsidian-typst) - Renders typst code blocks in Obsidian into images using Typst through the power of WASM!
+- [obsidian-typst](https://github.com/fenjalien/obsidian-typst) - Renders Typst code blocks in Obsidian into images using Typst through the power of WebAssembly!
 - [org-typst-preview](https://github.com/remimimimimi/org-typst-preview.el) - Typst preview in org-mode
 - [typstar](https://github.com/arne314/typstar) - Neovim plugin providing autosnippets, excalidraw integration and \[standalone\] Anki flashcard export
 - [typst-conceal.vim](https://github.com/MrPicklePinosaur/typst-conceal.vim) - Vim/Nvim plugin for replacing long typst symbol names with unicode characters
 - [typst-math](https://marketplace.visualstudio.com/items?itemName=surv.typst-math) - A VS Code extension to simplify math writing in Typst
 - [typst-sympy-calculator](https://github.com/OrangeX4/vscode-typst-sympy-calculator) - VS Code extension for Typst math calculating, includes Arithmetic, Calculus, Matrix, Custom Variances and Functions by yourself
 - [typst-ts-mode](https://git.sr.ht/~meow_king/typst-ts-mode) - Typst tree sitter major mode for Emacs
-- [typst.nvim](https://github.com/SeniorMars/typst.nvim) - WIP. Goals: Treesitter highlighting, snippets, and a smooth integration with neovim
+- [typst.nvim](https://github.com/SeniorMars/typst.nvim) - WIP. Goals: Treesitter highlighting, snippets, and a smooth integration with Neovim
 - [typst.vim](https://github.com/kaarmu/typst.vim) - Vim plugin for Typst
 - [typstd](https://github.com/daskol/typstd) - Yet another Typst language server.
 - [uben0/tree-sitter-typst](https://github.com/uben0/tree-sitter-typst) - A TreeSitter grammar for the Typst language, used by Helix
@@ -164,7 +164,7 @@ Contributions are welcome!
 
 ### Typst As A Service
 
-- [typst-http-api](https://github.com/slashformotion/typst-http-api) - An simple docker containing an API to compile typst markup
+- [typst-http-api](https://github.com/slashformotion/typst-http-api) - A simple Docker container with an API to compile Typst markup.
 - [typst-telegram-bot](https://github.com/daskol/typst-telegram-bot) - A plain and simple HTTP API for rendering math with Typst.
 
 ## Templates & Libraries
@@ -345,7 +345,7 @@ Contributions are welcome!
 
 #### Physics
 
-- [physica](https://github.com/Leedehai/typst-physics) - A library for usual physics notations, e.g. vectors and vector fields, matrices, differentials, derivatives, Dirac brackets, tensors, isotopes, and digital signal sequences.
+- [physica](https://github.com/Leedehai/typst-physics) - A library for usual physics notations, e.g. vectors and vector fields, matrices, differentials, derivatives, Dirac brackets, tensors, isotopes, and digital signal sequences..
 
 ##### Conferences
 
