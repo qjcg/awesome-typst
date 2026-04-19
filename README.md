@@ -334,6 +334,7 @@ Contributions are welcome!
 
 #### Physics
 
+<!--lint ignore awesome-spell-check-->
 - [physica](https://github.com/Leedehai/typst-physics) - A library for usual physics notations, e.g. vectors and vector fields, matrices, differentials, derivatives, Dirac brackets, tensors, isotopes, and digital signal sequences.
 
 ##### Conferences
