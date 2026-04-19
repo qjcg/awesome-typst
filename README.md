@@ -7,7 +7,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 
-Curated collection of useful links for [Typst](https://github.com/typst/typst) users.
+Curated collection of useful links for [Typst](https://typst.app) users.
 
 Contributions are welcome!
 
@@ -91,7 +91,7 @@ Contributions are welcome!
 
 - [typst-bot](https://github.com/mattfbacon/typst-bot) - A Discord bot to render Typst code
 - [typst-bot-telegram](https://t.me/ru_rend_bot) - A telegram bot to render Typst code
-- [typst-telegram-bot](https://github.com/daskol/typst-telegram-bot) - A [telegram bot](https://t.me/TypstBot) with focus in rendering math expression in Typst.
+- [typst-telegram-bot](https://t.me/TypstBot) - A telegram bot to render Typst code in chats.
 
 ### CI/CD
 
@@ -165,7 +165,7 @@ Contributions are welcome!
 ### Typst As A Service
 
 - [typst-http-api](https://github.com/slashformotion/typst-http-api) - A simple Docker container with an API to compile Typst markup.
-- [typst-telegram-bot](https://github.com/daskol/typst-telegram-bot) - A plain and simple HTTP API for rendering math with Typst.
+- [typst-telegram-bot](https://t.me/TypstBot) - A plain and simple HTTP API for rendering math with Typst.
 
 ## Templates & Libraries
 
@@ -234,10 +234,10 @@ Contributions are welcome!
 - [billryan-typst](https://github.com/gvariable/billryan-typst) - A simple and minimalist resume template, inspired by Resume by Billryan.
 - [brilliant-CV](https://github.com/yunanwg/brilliant-CV) - Another CV template for your job application, yet powered by Typst and more
 - [caidan](https://github.com/cu1ch3n/caidan) - A clean and minimal food menu template.
-- [cv.typ](https://github.com/jskherman/imprecv) - A no-frills curriculum vitae (CV) template using Typst and YAML to version control CV data.
+
 - [friggeri-cv](https://github.com/olligobber/friggeri-cv) - A slightly modified version of the Friggeri CV, originally created by Adrien Friggeri in LaTeX, ported to Typst.
 - [modern-cv](https://github.com/peterpf/modern-typst-resume) - A modern resume and coverletter template based on `Awesome CV`
-- [modern-typst-template](https://github.com/peterpf/modern-typst-resume) - A modern resume/CV template.
+
 - [moderncv.typst](https://github.com/giovanniberti/moderncv.typst) - A CV template inspired by LaTeX's `moderncv`
 - [resume.typ](https://github.com/wusyong/resume.typ) - Simple and ergonomic template to generate resume and CV
 - [typst-academic-cv](https://github.com/DawnEver/typst-academic-cv) - Typst Template for Academic CV
@@ -246,7 +246,7 @@ Contributions are welcome!
 - [typst-cv-resume](https://github.com/jxpeng98/Typst-CV-Resume) - A CV template with Sans font inspired by LaTeX `Deedy-Resume`
 - [typst-cv-template1](https://github.com/vaibhavjhawar/typst-cv-template1) - A CV template inspired by Alessandro Plasmati's Graduate CV LaTex template
 - [typst-cv-template](https://github.com/JCGoran/typst-cv-template) - A CV template inspired by LaTeX's `Awesome CV`
-- [typst-cv-template](https://github.com/skyzh/chicv) - Chi CV Template (For Typst)
+
 - [typst-mixed-resume](https://github.com/titaneric/typst-mixed-resume) - A casual and elegant resume template inspired by multiple templates.
 - [typst-neat-cv](https://github.com/UntimelyCreation/typst-neat-cv) - A Typst template for modern, minimal and elegant CVs, inspired by mintyfrankie's `Brilliant CV`
 - [typst-resume-sans](https://github.com/mizlan/typst-resume-sans) - A sleek and unadorned sans-serif resume template.
@@ -311,7 +311,7 @@ Contributions are welcome!
 
 ### Plotting
 
-- [typst-cd](https://gitlab.com/giacomogallina/commute) - Proof of Concept for tikz-like commutative diagrams
+- [typst-cd](https://gitlab.com/giacomogallina/commute) - Proof of Concept for tikz-like commutative diagrams.
 - [typst-plot](https://github.com/johannes-wolf/typst-plot) - A library for plotting line charts (deprecated in favor of CeTZ)
 - [typst-plotting](https://github.com/Chayraaa/typst-plotting) - A library for drawing a variety of charts and plots like line charts, histograms, and pie charts
 
@@ -335,7 +335,7 @@ Contributions are welcome!
 
 #### Mathematics
 
-- [commute](https://gitlab.com/giacomogallina/commute) - A library for creating commutative diagrams
+- [commute](https://gitlab.com/giacomogallina/commute) - A library for creating commutative diagrams.
 - [typst-algorithms](https://github.com/platformer/typst-algorithms) - A library for writing algorithms
 - [typst-himcm-template](https://github.com/EvanLuo42/typst-himcm-template) - An HiMCM template for Typst
 - [typst-math-template](https://github.com/matthiasGmayer/typst-math-template) - A simple math template that allows for numbered, referenceable theorems and compilation of subfiles that use references.
@@ -345,7 +345,7 @@ Contributions are welcome!
 
 #### Physics
 
-- [physica](https://github.com/Leedehai/typst-physics) - A library for usual physics notations, e.g. vectors and vector fields, matrices, differentials, derivatives, Dirac brackets, tensors, isotopes, and digital signal sequences..
+- [physica](https://github.com/Leedehai/typst-physics) - A library for usual physics notations, e.g. vectors and vector fields, matrices, differentials, derivatives, Dirac brackets, tensors, isotopes, and digital signal sequences.
 
 ##### Conferences
 
