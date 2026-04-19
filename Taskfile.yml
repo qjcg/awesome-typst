@@ -12,6 +12,11 @@ tasks:
     deps:
       - lint:editorconfig
       - lint:links
+      - lint:awesome-lint
+
+  lint:awesome-lint:
+    desc: Run the linter for awesome lists.
+    cmd: npx awesome-lint README.md
 
   lint:editorconfig:
     desc: Check that files conform to editorconfig rules.
