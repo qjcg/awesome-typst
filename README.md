@@ -74,7 +74,7 @@ Contributions are welcome!
 
 - [#typst:matrix.org](https://matrix.to/#/%23typst:matrix.org) - Matrix room for Typst.
 - [Typst Examples Book](https://sitandr.github.io/typst-examples-book/book/) - An online book with Typst snippets, including extended tutorial and useful hacks.
-- [Typst Japanese Community](https://typst-jp.github.io/docs/) - Typst Japanese community docs and resources.
+- [Typst Japanese Community](https://typst-jp.github.io/docs/) - Community docs and resources.
 - [Typst-telegram-russian-chat](https://t.me/typst_ru) - Chat about Typst in Telegram in russian
 - [best-of-typst](https://github.com/YDX-2147483647/best-of-typst) - A ranked list of awesome projects related to Typst.
 - [Typst Reddit Commuity](https://www.reddit.com/r/typst/) - An English speaking subreddit about Typst
@@ -85,7 +85,7 @@ Contributions are welcome!
 ### Browser Extensions
 
 - (FireFox) [bib-kit](https://github.com/MordragT/bib_kit) - Retrieve website information to create citations in the hayagriva format
-- (FireFox) [yank](https://addons.mozilla.org/en-US/firefox/addon/yank/) - Yank URL and title of current tab, format to a chosen markup language, and copy to clipboard (supports typst link format)
+- (FireFox) [yank](https://addons.mozilla.org/en-US/firefox/addon/yank/) - Copy URL and title of current tab, format to a chosen markup language, and copy to clipboard (supports Typst link format).
 
 ### Chatbots
 
@@ -284,7 +284,7 @@ Contributions are welcome!
 
 ### Graphics
 
-- [CeTZ](https://github.com/cetz-package/cetz) - CeTZ (CeTZ, ein Typst Zeichenpacket) is a library for drawing with [Typst](https://typst.app) with an API inspired by TikZ and [Processing](https://processing.org/). It comes with modules for drawing plots, graphs and charts.
+- [CeTZ](https://github.com/cetz-package/cetz) - A library for drawing with Typst, with an API inspired by TikZ and Processing. It comes with modules for drawing plots, graphs, and charts.
 - [typst-raytracer](https://github.com/SeniorMars/typst-raytracer) - raytracer in typst
 
 ### Letters
