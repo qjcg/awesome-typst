@@ -306,8 +306,10 @@ Contributions are welcome!
 
 ### Plotting
 
-- [typst-plot](https://github.com/johannes-wolf/typst-plot) - A library for plotting line charts (deprecated in favor of CeTZ).
-- [typst-plotting](https://github.com/Chayraaa/typst-plotting) - A library for drawing a variety of charts and plots like line charts, histograms, and pie charts.
+- [typst-cd](https://gitlab.com/giacomogallina/commute) - Proof of Concept for tikz-like commutative diagrams
+- [typst-plot](https://github.com/johannes-wolf/typst-plot) - A library for plotting line charts (deprecated in favor of CeTZ)
+- [typst-plotting](https://github.com/Chayraaa/typst-plotting) - A library for drawing a variety of charts and plots like line charts, histograms, and pie charts
+- [lilaq](https://github.com/lilaq-project/lilaq) - Advanced data visualization with Typst, easy to use, customizable, sane defaults
 
 ### Posters
 
