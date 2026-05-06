@@ -147,9 +147,10 @@ Contributions are welcome!
 
 ### Programming
 
-- [Typix](https://github.com/loqusion/typix) - Deterministic Typst compilation with Nix.
-- [Typstry.jl](https://github.com/jakobjpeters/Typstry.jl) - The Julia to Typst interface.
-- [leetcode.typ](https://github.com/lucifer1004/leetcode.typ) - Solving Leetcode problems in Typst.
+- [Oicana](https://oicana.com) - Cross-platform PDF templating toolset with libraries for Python, Java, PHP, C#, Rust, and TS/JS in the Browser and Node.js.
+- [Typix](https://github.com/loqusion/typix) - Deterministic Typst compilation with Nix
+- [Typstry.jl](https://github.com/jakobjpeters/Typstry.jl) - The Julia to Typst interface
+- [leetcode.typ](https://github.com/lucifer1004/leetcode.typ) - Solving Leetcode problems in Typst
 - [mpl-typst](https://github.com/daskol/mpl-typst) - A Typst backend for Matplotlib.
 - [pypst](https://github.com/tilman151/pypst) - Declarative Typst in Python with Pandas data frame support.
 - [typst-py](https://github.com/messense/typst-py) - Python binding to Typst.
