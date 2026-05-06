@@ -153,6 +153,7 @@ Contributions are welcome!
 
 ### Programming
 
+- [Oicana](https://oicana.com) - Cross-platform PDF templating toolset with libraries for Python, Java, PHP, C#, Rust, and TS/JS in the Browser and Node.js.
 - [Typix](https://github.com/loqusion/typix) - Deterministic Typst compilation with Nix
 - [Typstry.jl](https://github.com/jakobjpeters/Typstry.jl) - The Julia to Typst interface
 - [leetcode.typ](https://github.com/lucifer1004/leetcode.typ) - Solving Leetcode problems in Typst
