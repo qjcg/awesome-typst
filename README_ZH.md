@@ -142,6 +142,7 @@ Typst 是可用于出版的可编程标记语言，拥有变量、函数与包�
 
 ### Typst 作为服务
 
+- [JobSprout](https://jobsprout.ai) - 基于 Typst 的 AI 简历和求职信构建器，支持多种模板和 ATS 友好的 PDF 导出。
 - [typst-http-api](https://github.com/slashformotion/typst-http-api) - 包含 API 的简单 Docker，用于编译 Typst 标记
 
 ## 模板和库

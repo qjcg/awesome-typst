@@ -164,6 +164,7 @@ Contributions are welcome!
 
 ### Typst As A Service
 
+- [JobSprout](https://jobsprout.ai) - AI CV and cover letter builder powered by Typst. Generates ATS-friendly PDFs from multiple Typst templates with AI writing assistance.
 - [typst-http-api](https://github.com/slashformotion/typst-http-api) - An simple docker containing an API to compile typst markup
 - [typst-telegram-bot](https://github.com/daskol/typst-telegram-bot) - A plain and simple HTTP API for rendering math with Typst.
 
