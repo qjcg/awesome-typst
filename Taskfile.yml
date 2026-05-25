@@ -16,11 +16,11 @@ tasks:
 
   lint:awesome-lint:
     desc: Run the linter for awesome lists.
-    cmd: npx awesome-lint README.md
+    cmd: npx awesome-lint README.md README_ZH.md
 
   lint:editorconfig:
     desc: Check that files conform to editorconfig rules.
-    cmd: go tool editorconfig-checker
+    cmd: go tool editorconfig-checker .
 
   lint:links:
     desc: Check for broken links. Update any permanent-redirects.
