@@ -341,4 +341,4 @@ Typst 是可用于出版的可编程标记语言，拥有变量、函数与包�
 - [diapo](https://github.com/lvignoli/diapo) - 一种极简和简约的演示模板。
 - [polylux](https://github.com/andreasKroepelin/polylux) - 在 Typst 中创建演示幻灯片
 - [pinit](https://github.com/OrangeX4/typst-pinit) - 用于更好地在 Typst 中编写 Slides 的相对定位工具包
-- [touying](https://github.com/touying-typ/touying) - 一个更强大的演示幻灯片包，包含许多内置模板和 [中文文档](https://touying-typ.github.io/zh/docs/intro/)
+- [touying](https://github.com/touying-typ/touying) - 一个更强大的演示幻灯片包，包含许多内置模板和 [中文文档](https://touying-typ.github.io/zh/docs/intro)
