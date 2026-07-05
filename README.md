@@ -119,6 +119,7 @@ Contributions are welcome!
 - [TypstEdit](https://github.com/SuperMegaFort/TypstEdit) - A native MacOS Typst editor
 - [Typesetter](https://typesetter.trowell.net/) - A minimalist, local-first Typst editor for Linux
 - [typos](https://github.com/dailydaniel/typos) - A Typst-native note-taking system powered by Rust and Tauri with typed metadata, cross-references, backlinks, and knowledge graph visualization.
+- [Typsteditor](https://github.com/aburousan/typsteditor) - A cross-platform offline, local editor for Typst — live PDF preview, physics/math tooling, live Python/Julia/Wolfram and a desktop app which is opensource.
 
 ### Editor Integrations
 
