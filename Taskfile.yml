@@ -27,5 +27,5 @@ tasks:
     cmd: |
         go tool xurls *.md \
         | sort -u \
-        | gawk '!/(instagram|linkedin|twitter|marketplace.visualstudio).com/' \
+        | gawk '!/(instagram|linkedin|twitter|marketplace.visualstudio).com|bsky.app/' \
         | go tool xurls -fix
