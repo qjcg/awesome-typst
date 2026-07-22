@@ -169,6 +169,7 @@ Typst 是可用于出版的可编程标记语言，拥有变量、函数与包�
 - [ustcthss-typst](https://github.com/smallscientist1/ustcthss-typst): 中国科学技术大学本科毕业论文 Typst 模版
 - [nwnu-thesis-typst](https://github.com/PrinOrange/nwnu-thesis-typst): 西北师范大学研究生学位论文 Typst 模版
 - [typst_xdutemplate](https://github.com/Hubert9982/typst_xdutemplate)：西安电子科技大学本科毕业设计 Typst 非官方模板
+- [SCU-typst-template](https://github.com/The-Brotherhood-of-SCU/SCU-typst-template): 用于川大毕业设计（本科）的 typst 模板
 
 ### 通用
 
