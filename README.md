@@ -174,9 +174,10 @@ Contributions are welcome!
 - [INSA Typst Template](https://github.com/SkytAsul/INSA-Typst-Template) - A template for INSA (Institut National des Sciences Appliquées), a French public engineering school..
 - [LaPreprint](https://github.com/LaPreprint/typst) - Beautiful preprints for Typst.
 - [Mantys](https://github.com/jneug/typst-mantys) - A template for writing manuals for Typst packages.
-- [Project-Report-Typst](https://github.com/aurghya-0/Project-Report-Typst) - A simple template for college or university level project report..
-- [SimplePaper](https://github.com/jinhao-huang/SimplePaper) - A Chinese template for writing simple papers.
-- [Typst-Paper-Template](https://github.com/jxpeng98/Typst-Paper-Template) - Typst template for working papers.
+- [Project-Report-Typst](https://github.com/aurghya-0/Project-Report-Typst) - A simple template for college or university level project report.
+- [Modern-Class-Notes](https://github.com/aurghya-0/Modern-Class-Notes) - A modern, publication-grade Typst template and component package designed for university professors, instructors, and teaching assistants.
+- [SimplePaper](https://github.com/jinhao-huang/SimplePaper) - A Chinese template for writing simple paper
+- [Typst-Paper-Template](https://github.com/jxpeng98/Typst-Paper-Template) - Typst template for Working Paper
 - [aiaa-typst-template](https://gitlab.com/waterlubber/aiaa-typst-template) - A template for AIAA (American Institute of Aeronautics and Astronautics) papers.
 - [bubble-template](https://github.com/hzkonor/bubble-template) - A simple and colorful template for reports.
 - [french-association-status](https://github.com/vanilla-extracts/typst-association-statuts) - A Template to write status for french associations.
