@@ -246,10 +246,11 @@ Contributions are welcome!
 - [typst-resume-sans](https://github.com/mizlan/typst-resume-sans) - A sleek and unadorned sans-serif resume template.
 - [typst-resume-template](https://github.com/bamboovir/typst-resume-template) - Aesthetic style inspired by the Awesome-CV project.
 - [typst-resume-template](https://github.com/hexWars/resume) - A pretty resume template designed using typst.
-- [typst-twentysecondcv](https://github.com/tomowang/typst-twentysecondcv) - A CV template inspired by LaTeX's `Twenty Seconds Resume/CV`.
-- [typst-yaml-cv](https://github.com/daxartio/cv) - A simple CV template designed using Typst and YAML..
-- [vercanard](https://github.com/elegaanz/vercanard) - A colorful resume template for Typst.
-- [typst-resume-template](https://github.com/madhank93/typst-resume-template) - Modern, minimalist resume design with Typst.
+- [typst-templates](https://github.com/davidculemann/typst-templates) - A collection of 42 CV and resume designs, each a single self-contained file with no imports.
+- [typst-twentysecondcv](https://github.com/tomowang/typst-twentysecondcv) - A CV template inspired by LaTeX's `Twenty Seconds Resume/CV`
+- [typst-yaml-cv](https://github.com/daxartio/cv) - A simple cv template designed using typst and yaml.
+- [vercanard](https://github.com/elegaanz/vercanard) - A colorful resume template for Typst
+- [typst-resume-template](https://github.com/madhank93/typst-resume-template) - Modern, minimalist resume design with Typst
 
 ### Calendar / Timetable
 
