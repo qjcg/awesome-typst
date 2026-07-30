@@ -135,7 +135,7 @@ Contributions are welcome!
 ### Online Tools
 
 - [Detypify](https://github.com/QuarticCat/detypify) - Typst symbol classifier.
-- [online-typst-editor](https://github.com/Mapaor/online-typst-editor) - A serverless (client-side) Typst editor powered by WebAssembly.
+- [typst-online-editor](https://github.com/Mapaor/typst-online-editor) - A serverless (client-side) Typst editor powered by WebAssembly.
 - [excel-to-typst](https://github.com/hongjr03/excel-to-typst) - A tool that converts Excel tables to Typst tables, supports uploading .xlsx files or pasting..
 
 ### Office
