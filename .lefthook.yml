@@ -6,15 +6,15 @@ pre-commit:
       group:
         parallel: true
         jobs:
-          - name: editorconfig-checker
-            run: go tool editorconfig-checker {staged_files}
+          - name: editorconfig
+            run: go tool task lint:editorconfig -- {staged_files}
+
+          # FIXME: Hangs when run.
+          # - name: awesome-lint
+          #   run: go tool task lint:awesome-lint -- {staged_files}
 
 pre-push:
   jobs:
     - name: check-links
       glob: "*.md"
-      run: |
-        go tool xurls {files} \
-        | sort -u \
-        | gawk '!/(instagram|linkedin|twitter|marketplace.visualstudio).com/' \
-        | go tool xurls -fix
+      run: go tool task lint:links -- {files}
