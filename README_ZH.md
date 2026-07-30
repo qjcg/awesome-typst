@@ -188,7 +188,7 @@ Typst 是可用于出版的可编程标记语言，拥有变量、函数与包�
 - [typst-templates](https://github.com/haxibami/typst-template) - 我的 Typst 模板
 - [typst-uwthesis](https://github.com/yangwenbo99/typst-uwthesis) - 用于撰写论文的 Typst 模板，具有工作缩写列表功能
 - [typstry](https://github.com/qjcg/typstry) - Typst 模板和示例的编织
-- [tyspt-mla9-template](https://github.com/wychwitch/tyspt-mla9-template) - MLA 第 9 版模板
+- [typst-mla9-template](https://github.com/wychwitch/typst-mla9-template) - MLA 第 9 版模板
 - [writable-gm-screen-inserts](https://github.com/LLBlumire/writable-gm-screen-inserts) - 可涂写的 GM 帷幕的内页
 - [french-association-status](https://github.com/coco33920/typst-association-status) - 用于法国协会编写状态的模板
 - [aiaa-typst-template](https://gitlab.com/waterlubber/aiaa-typst-template) - 用于AIAA（美国航空航天学会）论文的模板。
@@ -256,7 +256,7 @@ Typst 是可用于出版的可编程标记语言，拥有变量、函数与包�
 - [showybox](https://github.com/Pablo-Gonzalez-Calderon/showybox-package) - 创建多彩且可自定义的框的 Typst 包
 - [simple-poem-typst](https://github.com/asibahi/simple-poem-typst) - 使用 `measure` 函数设置阿拉伯诗歌的应用程序
 - [syntastica-typst](https://github.com/RubixDev/syntastica-typst/) - 用于代码块的 Tree-sitter 语法高亮
-- [typst-ansi_render](https://github.com/8LWXpg/typst-ansi_render) - 使用 ANSI 转义序列呈现文本的库
+- [typst-ansi-render](https://github.com/8LWXpg/typst-ansi-render) - 使用 ANSI 转义序列呈现文本的库
 - [typst-boxes](https://github.com/lkoehl/typst-boxes) - 用于绘制多彩框的库
 - [typst-codelst](https://github.com/jneug/typst-codelst) - 用于呈现源代码的 Typst 包
 - [typst-diagbox](https://github.com/PgBiel/typst-diagbox) - 用于 Typst 表格中的对角线分隔线的库
