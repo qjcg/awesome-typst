@@ -167,7 +167,6 @@ Typst 是可用于出版的可编程标记语言，拥有变量、函数与包�
 - [HEU-Report-Typst](https://github.com/a-kkiri/HEU-Report-Typst): 哈尔滨工程大学课程作业/结课汇报的通用简易 Typst 模板
 - [sustech-ug-thesis-typst](https://github.com/dazhi0619/sustech-ug-thesis-typst): 南方科技大学本科毕业论文 Typst 模版
 - [ustcthss-typst](https://github.com/smallscientist1/ustcthss-typst): 中国科学技术大学本科毕业论文 Typst 模版
-- [nwnu-thesis-typst](https://github.com/PrinOrange/nwnu-thesis-typst): 西北师范大学研究生学位论文 Typst 模版
 - [typst_xdutemplate](https://github.com/Hubert9982/typst_xdutemplate)：西安电子科技大学本科毕业设计 Typst 非官方模板
 
 ### 通用
@@ -184,7 +183,6 @@ Typst 是可用于出版的可编程标记语言，拥有变量、函数与包�
 - [typst-invoice](https://github.com/erictapen/typst-invoice) - 从 TOML 文件生成发票
 - [typst-orange-template](https://github.com/flavio20002/typst-orange-template) - 受 Legrand Orange Book 启发的 Typst 书籍模板
 - [typst-palettes](https://github.com/kaarmu/typst-palettes) - Typst 的颜色调色板库
-- [typst-templates](https://github.com/eigenein/typst-templates) - Typst 模板
 - [typst-templates](https://github.com/haxibami/typst-template) - 我的 Typst 模板
 - [typst-uwthesis](https://github.com/yangwenbo99/typst-uwthesis) - 用于撰写论文的 Typst 模板，具有工作缩写列表功能
 - [typstry](https://github.com/qjcg/typstry) - Typst 模板和示例的编织

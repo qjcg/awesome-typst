@@ -190,7 +190,6 @@ Contributions are welcome!
 - [typst-orange-template](https://github.com/flavio20002/typst-orange-template) - A Typst book template inspired by The Legrand Orange Book.
 - [typst-palettes](https://github.com/kaarmu/splash) - A library of color palettes for Typst.
 - [typst-templates](https://github.com/daskol/typst-templates) - A templates collection for major venues in machine learning and AI.
-- [typst-templates](https://github.com/eigenein/typst-templates) - Templates for Typst.
 - [typst-templates](https://github.com/haxibami/haxipst) - My Typst templates.
 - [typst-uwthesis](https://github.com/yangwenbo99/typst-uwthesis) - A Typst template for writing thesis, featuring working abbreviation lists..
 - [typstry](https://github.com/qjcg/typstry) - A tapestry of Typst templates and examples.
