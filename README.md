@@ -26,6 +26,7 @@ Contributions are welcome!
   - [Online Tools](#online-tools)
   - [Office](#office)
   - [Programming](#programming)
+  - [Skills](#skills)
   - [Typst As A Service](#typst-as-a-service)
 - [Templates & Libraries](#templates--libraries)
   - [Official](#official)
@@ -152,6 +153,12 @@ Contributions are welcome!
 - [typst-py](https://github.com/messense/typst-py) - Python binding to Typst.
 - [typst-rb](https://github.com/actsasflinn/typst-rb) - Ruby binding to Typst.
 - [typst.ts](https://github.com/Myriad-Dreamin/typst.ts) - JavaScript binding to Typst.
+
+### Skills
+
+- [typst-skill](https://github.com/statzhero/typst-skill) - Agent skill for Typst markup in LLM-powered editors (Claude Code, Codex, etc.)
+- [typst-cetz-skill](https://github.com/statzhero/typst-cetz-skill) - Agent skill for CeTZ diagram generation in LLM-powered editors (Claude Code, Codex, etc.)
+- [typst-touying-skill](https://github.com/statzhero/typst-touying-skill) - Agent skill for Touying slide presentations in LLM-powered editors (Claude Code, Codex, etc.)
 
 ### Typst As A Service
 
