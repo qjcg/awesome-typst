@@ -4,8 +4,7 @@ version: '3'
 
 tasks:
   default:
-    deps:
-      - lint
+    deps: [lint]
 
   lint:
     desc: Run all linters.
@@ -16,16 +15,23 @@ tasks:
 
   lint:awesome-lint:
     desc: Run the linter for awesome lists.
-    cmd: npx awesome-lint README.md README_ZH.md
+    cmd: npx awesome-lint {{.CLI_ARGS | default "README.md README_ZH.md"}}
 
   lint:editorconfig:
     desc: Check that files conform to editorconfig rules.
-    cmd: go tool editorconfig-checker .
+    cmd: go tool editorconfig-checker {{.CLI_ARGS | default "."}}
 
   lint:links:
     desc: Check for broken links. Update any permanent-redirects.
-    cmd: |
-        go tool xurls *.md \
-        | sort -u \
-        | gawk '!/(instagram|linkedin|twitter|marketplace.visualstudio).com|bsky.app/' \
+    cmd: >
+        go tool xurls {{.CLI_ARGS | default "*.md"}}
+        | sort -u
+        | gawk '!/(instagram|linkedin|twitter|marketplace.visualstudio).com|bsky.app/'
         | go tool xurls -fix
+
+  update:
+    desc: Update go tools and verify that they build cleanly.
+    cmds:
+      - go get -u tool
+      - go mod tidy
+      - go build -o /dev/null tool
