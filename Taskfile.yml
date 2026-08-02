@@ -2,6 +2,9 @@
 
 version: '3'
 
+vars:
+  URL_SKIP_RE: '!/(instagram|linkedin|twitter|marketplace.visualstudio|reddit).com|bsky.app/'
+
 tasks:
   default:
     deps: [lint]
@@ -26,8 +29,42 @@ tasks:
     cmd: >
         go tool xurls {{.CLI_ARGS | default "*.md"}}
         | sort -u
-        | gawk '!/(instagram|linkedin|twitter|marketplace.visualstudio|reddit).com|bsky.app/'
+        | gawk '{{.URL_SKIP_RE}}'
         | go tool xurls -fix
+
+  lint:pr:editorconfig:
+    desc: Run editorconfig-checker on files changed in a PR diff.
+    cmd: |
+      FILES=$(git diff --name-only "{{.CLI_ARGS}}"...HEAD | tr '\n' ' ')
+      if [ -n "$FILES" ]; then
+        go tool editorconfig-checker $FILES
+      else
+        echo "No files changed, skipping editorconfig check"
+      fi
+
+  lint:pr:awesome-lint:
+    desc: Run awesome-lint on README files changed in a PR diff.
+    cmd: |
+      FILES=$(git diff --name-only "{{.CLI_ARGS}}"...HEAD -- README.md README_ZH.md | tr '\n' ' ')
+      if [ -n "$FILES" ]; then
+        npx awesome-lint $FILES
+      else
+        echo "No README files changed, skipping awesome-lint"
+      fi
+
+  lint:pr:links:
+    desc: Check links added in a PR diff.
+    cmd: |
+      SHA={{.CLI_ARGS}}
+      URLS=$(git diff "$SHA"...HEAD -- '*.md' \
+        | grep '^+' | grep -oP 'https?://[^\s)>"'"'"']+' || true)
+      if [ -n "$URLS" ]; then
+        echo "$URLS" | sort -u \
+          | gawk '{{.URL_SKIP_RE}}' \
+          | go tool xurls -fix
+      else
+        echo "No new URLs in PR diff, skipping link check"
+      fi
 
   update:
     desc: Update go tools and verify that they build cleanly.
@@ -35,3 +72,4 @@ tasks:
       - go get -u tool
       - go mod tidy
       - go build -o /dev/null tool
+
