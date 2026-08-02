@@ -108,7 +108,7 @@ Contributions are welcome!
 - [Typstwriter](https://github.com/Bzero/typstwriter) - An integrated desktop editor for Typst projects.
 - [BeauTyXT](https://github.com/soupslurpr/BeauTyXT) - A private, secure, minimalistic Text, Markdown, and Typst editor for Android.
 - [AcademicID](https://github.com/Academic-ID/sapienAI) - A self-hosted academic-focused AI chatbot and research workspace with a Typst, Markdown, and Text editor.
-- [TypstEdit](https://github.com/SuperMegaFort/TypstEdit) - A native MacOS Typst editor.
+- [TypstEdit](https://github.com/SuperMegaFort/TypstEdit) - A native macOS Typst editor.
 - [Typesetter](https://typesetter.trowell.net/) - A minimalist, local-first Typst editor for Linux.
 - [typos](https://github.com/dailydaniel/typos) - A Typst-native note-taking system powered by Rust and Tauri with typed metadata, cross-references, backlinks, and knowledge graph visualization.
 - [qnote](https://github.com/Omibranch/qnote) - Minimal frameless notepad for Linux with Markdown support and PDF export via Typst, plus OCR and version history.
@@ -306,7 +306,6 @@ Contributions are welcome!
 
 ### Plotting
 
-- [typst-cd](https://gitlab.com/giacomogallina/commute) - Proof of Concept for tikz-like commutative diagrams
 - [typst-plot](https://github.com/johannes-wolf/typst-plot) - A library for plotting line charts (deprecated in favor of CeTZ).
 - [typst-plotting](https://github.com/Chayraaa/typst-plotting) - A library for drawing a variety of charts and plots like line charts, histograms, and pie charts.
 - [Gribouille](https://github.com/mcanouil/gribouille) - Create elegant graphics with the Grammar of Graphics for Typst.
