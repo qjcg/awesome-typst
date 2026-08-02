@@ -26,7 +26,7 @@ tasks:
     cmd: >
         go tool xurls {{.CLI_ARGS | default "*.md"}}
         | sort -u
-        | gawk '!/(instagram|linkedin|twitter|marketplace.visualstudio).com|bsky.app/'
+        | gawk '!/(instagram|linkedin|twitter|marketplace.visualstudio|reddit).com|bsky.app/'
         | go tool xurls -fix
 
   update:
