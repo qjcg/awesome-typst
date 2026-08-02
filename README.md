@@ -95,8 +95,8 @@ Contributions are welcome!
 - [em-dee-pdf](https://github.com/brendandebeasi/em-dee-pdf) - Markdown to PDF converter with 18 built-in themes, LaTeX math, syntax highlighting, and table of contents.
 - [imprint](https://github.com/gunasekar/imprint) - Markdown to branded, typeset PDFs via Typst, with reusable house styles, profiles, and deterministic output.
 - [typstyle](https://github.com/typstyle-rs/typstyle) - Opinionated typst code formatter focusing on aesthetic, convergence and correctness.
-- [typst-live](https://github.com/ItsEthra/typst-live) - Hot reloading of pdf in web browser
-- [typst-pandoc](https://github.com/lvignoli/typst-pandoc) - Typst custom reader and writer for Pandoc
+- [typst-live](https://github.com/ItsEthra/typst-live) - Hot reloading of pdf in web browser.
+- [typst-pandoc](https://github.com/lvignoli/typst-pandoc) - Typst custom reader and writer for Pandoc.
 - [Tylax](https://github.com/scipenai/tylax) - A bidirectional LaTeX-Typst converter based on AST parsing, with support for TikZ graphics.
 - [utpm](https://github.com/typst-community/utpm) - _Package manager_ for **[local](https://github.com/typst/packages#local-packages)** and **[remote](https://github.com/typst/packages)** Typst packages.
 - [Tyler](https://github.com/mkpoli/tyler) - Package compiler for the ease of packaging and publishing Typst libraries and templates.
@@ -108,8 +108,8 @@ Contributions are welcome!
 - [Typstwriter](https://github.com/Bzero/typstwriter) - An integrated desktop editor for Typst projects.
 - [BeauTyXT](https://github.com/soupslurpr/BeauTyXT) - A private, secure, minimalistic Text, Markdown, and Typst editor for Android.
 - [AcademicID](https://github.com/Academic-ID/sapienAI) - A self-hosted academic-focused AI chatbot and research workspace with a Typst, Markdown, and Text editor.
-- [TypstEdit](https://github.com/SuperMegaFort/TypstEdit) - A native MacOS Typst editor
-- [Typesetter](https://typesetter.trowell.net/) - A minimalist, local-first Typst editor for Linux
+- [TypstEdit](https://github.com/SuperMegaFort/TypstEdit) - A native MacOS Typst editor.
+- [Typesetter](https://typesetter.trowell.net/) - A minimalist, local-first Typst editor for Linux.
 - [typos](https://github.com/dailydaniel/typos) - A Typst-native note-taking system powered by Rust and Tauri with typed metadata, cross-references, backlinks, and knowledge graph visualization.
 - [qnote](https://github.com/Omibranch/qnote) - Minimal frameless notepad for Linux with Markdown support and PDF export via Typst, plus OCR and version history.
 
@@ -136,7 +136,7 @@ Contributions are welcome!
 
 ### Online Tools
 
-- [Detypify](https://github.com/QuarticCat/detypify) - Typst symbol classifier
+- [Detypify](https://github.com/QuarticCat/detypify) - Typst symbol classifier.
 - [online-typst-editor](https://github.com/Mapaor/online-typst-editor) - A serverless (client-side) typst editor powered by WebAssembly ([typst.ts](https://github.com/Myriad-Dreamin/typst.ts))
 - [excel-to-typst](https://github.com/hongjr03/excel-to-typst) - A tool that convert Excel tables to Typst table, can work in uploading .xlsx file or pasting.
 - [sublimated](https://sublimated.com/docs/typst/index.md) - A tool that syncs Typst files online with versioning and renders web version and PDF.
@@ -148,9 +148,9 @@ Contributions are welcome!
 ### Programming
 
 - [Oicana](https://oicana.com) - Cross-platform PDF templating toolset with libraries for Python, Java, PHP, C#, Rust, and TS/JS in the Browser and Node.js.
-- [Typix](https://github.com/loqusion/typix) - Deterministic Typst compilation with Nix
-- [Typstry.jl](https://github.com/jakobjpeters/Typstry.jl) - The Julia to Typst interface
-- [leetcode.typ](https://github.com/lucifer1004/leetcode.typ) - Solving Leetcode problems in Typst
+- [Typix](https://github.com/loqusion/typix) - Deterministic Typst compilation with Nix.
+- [Typstry.jl](https://github.com/jakobjpeters/Typstry.jl) - The Julia to Typst interface.
+- [leetcode.typ](https://github.com/lucifer1004/leetcode.typ) - Solving Leetcode problems in Typst.
 - [mpl-typst](https://github.com/daskol/mpl-typst) - A Typst backend for Matplotlib.
 - [pypst](https://github.com/tilman151/pypst) - Declarative Typst in Python with Pandas data frame support.
 - [typst-py](https://github.com/messense/typst-py) - Python binding to Typst.
@@ -176,8 +176,8 @@ Contributions are welcome!
 - [Mantys](https://github.com/jneug/typst-mantys) - A template for writing manuals for Typst packages.
 - [Project-Report-Typst](https://github.com/aurghya-0/Project-Report-Typst) - A simple template for college or university level project report.
 - [Modern-Class-Notes](https://github.com/aurghya-0/Modern-Class-Notes) - A modern, publication-grade Typst template and component package designed for university professors, instructors, and teaching assistants.
-- [SimplePaper](https://github.com/jinhao-huang/SimplePaper) - A Chinese template for writing simple paper
-- [Typst-Paper-Template](https://github.com/jxpeng98/Typst-Paper-Template) - Typst template for Working Paper
+- [SimplePaper](https://github.com/jinhao-huang/SimplePaper) - A Chinese template for writing simple paper.
+- [Typst-Paper-Template](https://github.com/jxpeng98/Typst-Paper-Template) - Typst template for Working Paper.
 - [aiaa-typst-template](https://gitlab.com/waterlubber/aiaa-typst-template) - A template for AIAA (American Institute of Aeronautics and Astronautics) papers.
 - [bubble-template](https://github.com/hzkonor/bubble-template) - A simple and colorful template for reports.
 - [french-association-status](https://github.com/vanilla-extracts/typst-association-statuts) - A Template to write status for french associations.
@@ -247,10 +247,10 @@ Contributions are welcome!
 - [typst-resume-template](https://github.com/bamboovir/typst-resume-template) - Aesthetic style inspired by the Awesome-CV project.
 - [typst-resume-template](https://github.com/hexWars/resume) - A pretty resume template designed using typst.
 - [typst-templates](https://github.com/davidculemann/typst-templates) - A collection of 42 CV and resume designs, each a single self-contained file with no imports.
-- [typst-twentysecondcv](https://github.com/tomowang/typst-twentysecondcv) - A CV template inspired by LaTeX's `Twenty Seconds Resume/CV`
+- [typst-twentysecondcv](https://github.com/tomowang/typst-twentysecondcv) - A CV template inspired by LaTeX's `Twenty Seconds Resume/CV`.
 - [typst-yaml-cv](https://github.com/daxartio/cv) - A simple cv template designed using typst and yaml.
-- [vercanard](https://github.com/elegaanz/vercanard) - A colorful resume template for Typst
-- [typst-resume-template](https://github.com/madhank93/typst-resume-template) - Modern, minimalist resume design with Typst
+- [vercanard](https://github.com/elegaanz/vercanard) - A colorful resume template for Typst.
+- [typst-resume-template](https://github.com/madhank93/typst-resume-template) - Modern, minimalist resume design with Typst.
 
 ### Calendar / Timetable
 
@@ -307,10 +307,10 @@ Contributions are welcome!
 ### Plotting
 
 - [typst-cd](https://gitlab.com/giacomogallina/commute) - Proof of Concept for tikz-like commutative diagrams
-- [typst-plot](https://github.com/johannes-wolf/typst-plot) - A library for plotting line charts (deprecated in favor of CeTZ)
-- [typst-plotting](https://github.com/Chayraaa/typst-plotting) - A library for drawing a variety of charts and plots like line charts, histograms, and pie charts
+- [typst-plot](https://github.com/johannes-wolf/typst-plot) - A library for plotting line charts (deprecated in favor of CeTZ).
+- [typst-plotting](https://github.com/Chayraaa/typst-plotting) - A library for drawing a variety of charts and plots like line charts, histograms, and pie charts.
 - [Gribouille](https://github.com/mcanouil/gribouille) - Create elegant graphics with the Grammar of Graphics for Typst.
-- [lilaq](https://github.com/lilaq-project/lilaq) - Advanced data visualization with Typst, easy to use, customizable, sane defaults
+- [lilaq](https://github.com/lilaq-project/lilaq) - Advanced data visualization with Typst, easy to use, customizable, sane defaults.
 
 ### Posters
 
