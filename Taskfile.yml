@@ -4,6 +4,7 @@ version: '3'
 
 vars:
   URL_SKIP_RE: '!/(instagram|linkedin|twitter|marketplace.visualstudio|reddit).com|bsky.app/'
+  V_AWESOME_LINT: v2.3.0
 
 tasks:
   default:
@@ -18,9 +19,7 @@ tasks:
 
   lint:awesome-lint:
     desc: Run the linter for awesome lists.
-    cmd: npx awesome-lint@{{.VERSION}} {{.CLI_ARGS | default "README.md README_ZH.md"}}
-    vars:
-      VERSION: v2.3.0
+    cmd: npx awesome-lint@{{.V_AWESOME_LINT}} {{.CLI_ARGS | default "README.md README_ZH.md"}}
 
   lint:editorconfig:
     desc: Check that files conform to editorconfig rules.
@@ -49,7 +48,7 @@ tasks:
     cmd: |
       FILES=$(git diff --name-only "{{.CLI_ARGS}}"...HEAD -- README.md README_ZH.md | tr '\n' ' ')
       if [ -n "$FILES" ]; then
-        npx awesome-lint $FILES
+        npx awesome-lint@{{V_AWESOME-LINT}} $FILES
       else
         echo "No README files changed, skipping awesome-lint"
       fi
