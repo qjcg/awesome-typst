@@ -18,7 +18,9 @@ tasks:
 
   lint:awesome-lint:
     desc: Run the linter for awesome lists.
-    cmd: npx awesome-lint {{.CLI_ARGS | default "README.md README_ZH.md"}}
+    cmd: npx awesome-lint@{{.VERSION}} {{.CLI_ARGS | default "README.md README_ZH.md"}}
+    vars:
+      VERSION: v2.3.0
 
   lint:editorconfig:
     desc: Check that files conform to editorconfig rules.
@@ -72,4 +74,3 @@ tasks:
       - go get -u tool
       - go mod tidy
       - go build -o /dev/null tool
-
