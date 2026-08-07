@@ -101,6 +101,7 @@ Contributions are welcome!
 - [utpm](https://github.com/typst-community/utpm) - _Package manager_ for **[local](https://github.com/typst/packages#local-packages)** and **[remote](https://github.com/typst/packages)** Typst packages.
 - [Tyler](https://github.com/mkpoli/tyler) - Package compiler for the ease of packaging and publishing Typst libraries and templates.
 - [textlint-plugin-typst](https://github.com/textlint/textlint-plugin-typst) - Textlint plugin to lint Typst..
+- [typst-post](https://github.com/BashfulHippo/typst-post) - Post-compilation utilities for booklet imposition, page rotation, reordering, and project packing.
 
 ### Editors
 
