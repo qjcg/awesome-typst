@@ -264,7 +264,7 @@ Contributions are welcome!
 ### Formatting
 
 - [metro](https://github.com/fenjalien/metro) - A Typst package to add typesetting to units!
-- [ruby-typ](https://github.com/uwni/ruby-typ) - A library to add ruby text.
+- [ruby-typ](https://github.com/uwni/ruby-typ) - A library to add Ruby text.
 - [showybox](https://github.com/Pablo-Gonzalez-Calderon/showybox-package) - A Typst package for creating colorful and customizable boxes.
 - [simple-poem-typst](https://github.com/asibahi/simple-poem-typst) - An application of the `measure` function to set Arabic poetry.
 - [syntastica-typst](https://github.com/RubixDev/syntastica-typst/) - Tree-sitter syntax highlighting for code blocks.
