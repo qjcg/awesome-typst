@@ -159,6 +159,7 @@ Contributions are welcome!
 
 ### Typst As A Service
 
+- [Rubrol](https://github.com/maxcomperatore/rubrol) - High-performance Typst document generation engine, Docker sidecar, and EN 16931 / Factur-X / ZUGFeRD 2.2 e-invoicing compiler.
 - [typst-http-api](https://github.com/slashformotion/typst-http-api) - A simple Docker container with an API to compile Typst markup.
 
 ## Templates & Libraries
