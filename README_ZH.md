@@ -184,6 +184,7 @@ Typst 是可用于出版的可编程标记语言，拥有变量、函数与包�
 - [typst-invoice](https://github.com/erictapen/typst-invoice) - 从 TOML 文件生成发票
 - [typst-orange-template](https://github.com/flavio20002/typst-orange-template) - 受 Legrand Orange Book 启发的 Typst 书籍模板
 - [typst-palettes](https://github.com/kaarmu/typst-palettes) - Typst 的颜色调色板库
+- [typst-report-kit](https://github.com/Inspired-by-Atmosphere/typst-report-kit) - 暖白极简的正式报告 / 书刊主题：11 个色值令牌、`report()` 模板，以及可直接照抄的组件（封面、卡片、结论条、徽章、清单、时间线、流程图）
 - [typst-templates](https://github.com/haxibami/typst-template) - 我的 Typst 模板
 - [typst-uwthesis](https://github.com/yangwenbo99/typst-uwthesis) - 用于撰写论文的 Typst 模板，具有工作缩写列表功能
 - [typstry](https://github.com/qjcg/typstry) - Typst 模板和示例的编织
