@@ -194,6 +194,7 @@ Contributions are welcome!
 - [typst-mla9-template](https://github.com/wychwitch/typst-mla9-template) - An MLA 9th edition template.
 - [typst-orange-template](https://github.com/flavio20002/typst-orange-template) - A Typst book template inspired by The Legrand Orange Book.
 - [typst-palettes](https://github.com/kaarmu/splash) - A library of color palettes for Typst.
+- [typst-report-kit](https://github.com/Inspired-by-Atmosphere/typst-report-kit) - A warm-minimal theme for formal reports and books: 11 color tokens, a `report()` template, and copy-paste components (cover, callouts, verdict strip, badges, checklist, timeline, flowchart).
 - [typst-templates](https://github.com/daskol/typst-templates) - A templates collection for major venues in machine learning and AI.
 - [typst-templates](https://github.com/haxibami/haxipst) - My Typst templates.
 - [typst-uwthesis](https://github.com/yangwenbo99/typst-uwthesis) - A Typst template for writing thesis, featuring working abbreviation lists..
