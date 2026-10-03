@@ -160,6 +160,7 @@ Contributions are welcome!
 ### Typst As A Service
 
 - [typst-http-api](https://github.com/slashformotion/typst-http-api) - A simple Docker container with an API to compile Typst markup.
+- [Rubrol](https://github.com/maxcomperatore/rubrol) - High-performance Typst-native HTTP sidecar for sub-millisecond PDF generation, hybrid PDF/A-3b, and electronic invoicing.
 
 ## Templates & Libraries
 
