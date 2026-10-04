@@ -118,6 +118,7 @@ Typst 是可用于出版的可编程标记语言，拥有变量、函数与包�
 ### 编辑器
 
 - [typstudio](https://github.com/Cubxity/typstudio) - 正在开发中的使用 Tauri 构建的桌面编辑器
+- [Oleafly](https://github.com/Oleafly/Oleafly) - 本地优先的 Typst 桌面编辑器，内置 Typst 和 Tinymist，可实时预览 PDF，并在源码与 PDF 之间点击跳转；也支持 LaTeX 和 Markdown 项目（macOS、Windows、Linux）
 
 ### 编辑器集成
 

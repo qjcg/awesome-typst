@@ -112,6 +112,7 @@ Contributions are welcome!
 - [Typesetter](https://typesetter.trowell.net/) - A minimalist, local-first Typst editor for Linux.
 - [typos](https://github.com/dailydaniel/typos) - A Typst-native note-taking system powered by Rust and Tauri with typed metadata, cross-references, backlinks, and knowledge graph visualization.
 - [qnote](https://github.com/Omibranch/qnote) - Minimal frameless notepad for Linux with Markdown support and PDF export via Typst, plus OCR and version history.
+- [Oleafly](https://github.com/Oleafly/Oleafly) - A local-first desktop editor for Typst projects with bundled Typst and Tinymist, live PDF preview, and click-to-jump between source and PDF. Also opens LaTeX and Markdown projects (macOS, Windows, Linux).
 
 ### Editor Integrations
 
