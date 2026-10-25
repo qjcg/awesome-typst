@@ -140,6 +140,7 @@ Contributions are welcome!
 - [typst-online-editor](https://github.com/Mapaor/typst-online-editor) - A serverless (client-side) Typst editor powered by WebAssembly.
 - [excel-to-typst](https://github.com/hongjr03/excel-to-typst) - A tool that convert Excel tables to Typst table, can work in uploading .xlsx file or pasting.
 - [sublimated](https://sublimated.com/docs/typst/index.md) - A tool that syncs Typst files online with versioning and renders web version and PDF.
+- [PasteZap Typst Editor](https://pastezap.com/tools/typst-online-editor/) - Browser-based Typst editor with live PDF preview, compiled to WebAssembly; no account needed.
 
 ### Office
 
