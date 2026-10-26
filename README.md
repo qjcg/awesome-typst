@@ -133,6 +133,7 @@ Contributions are welcome!
 - [typstd](https://github.com/daskol/typstd) - Yet another Typst language server.
 - [uben0/tree-sitter-typst](https://github.com/uben0/tree-sitter-typst) - A TreeSitter grammar for the Typst language, used by Helix.
 - [zeta](https://github.com/lentilus/zeta) - A language server for Zettelkasten-style note-taking, featuring fast navigation, and a graph view..
+- [Scribe Pro](https://plugins.jetbrains.com/plugin/30231-scribe-pro) - A paid (7-day free trial) JetBrains IDE plugin for Typst with live preview, Tinymist-based language intelligence, refactoring, and PDF/SVG/HTML export.
 
 ### Online Tools
 
