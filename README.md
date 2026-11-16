@@ -160,6 +160,7 @@ Contributions are welcome!
 ### Typst As A Service
 
 - [typst-http-api](https://github.com/slashformotion/typst-http-api) - A simple Docker container with an API to compile Typst markup.
+- [PageRush](https://pagerush.dev) - Hosted API that renders Typst templates with JSON data to PDF, with batch renders, signed webhooks, a visual template editor and SDKs for Node.js, Python, PHP and Go.
 
 ## Templates & Libraries
 
