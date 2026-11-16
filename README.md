@@ -199,6 +199,7 @@ Contributions are welcome!
 - [typst-uwthesis](https://github.com/yangwenbo99/typst-uwthesis) - A Typst template for writing thesis, featuring working abbreviation lists..
 - [typstry](https://github.com/qjcg/typstry) - A tapestry of Typst templates and examples.
 - [writable-gm-screen-inserts](https://github.com/LLBlumire/writable-gm-screen-inserts) - Writable Game Master Screen Inserts.
+- [grupo_estudio_inferencia_causal_uni_peru](https://github.com/jelincovil/grupo_estudio_inferencia_causal_uni_peru) - UNI (Peru) thesis templates in Typst and LaTeX with APA-style bibliography, Spanish guides, and a compiled example PDF (`tesis.pdf`).
 
 ### Assignments
 
