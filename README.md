@@ -89,6 +89,7 @@ Contributions are welcome!
 - [gitlab-ci-typst](https://gitlab.com/IvanSanchez/gitlab-ci-typst) - Build Typst documents using GitLab CI pipelines.
 - [setup-typst](https://github.com/typst-community/setup-typst) - 📑 Install Typst for use in GitHub Actions.
 - [typst-action](https://github.com/lvignoli/typst-action) - Build Typst documents using GitHub Actions.
+- [typst-dev-container](https://github.com/1solomonwakhungu/typst-dev-container) - Prebuilt multi-arch Dev Container image and OCI template with pinned Typst versions, Pandoc, and Tinymist for VS Code, GitHub Codespaces, and Docker.
 
 ### CLI Tools
 
