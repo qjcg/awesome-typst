@@ -306,6 +306,7 @@ Typst 是可用于出版的可编程标记语言，拥有变量、函数与包�
 ### 期刊
 
 - [ieee-trans-typst](https://github.com/p4perf4ce/typst-ieee-trans-template) - 模仿 LaTeX IEEE 汇刊 (Transactions) 模板（`ieee-trans.cls`）的模板
+- [ijdsir-format](https://github.com/adityak74/ijdsir-format) - 非官方模板，复刻《国际牙科科学与创新研究杂志》(IJDSIR) 的稿件与投稿信格式
 - [xdu-journal-alike-typst](https://github.com/BenderBlog/xdu-journal-alike-typst) - 仿西电学报论文模板编写的 Typst 模板，可用于大作业编写
 - [journal-of-software-alike-typst](https://github.com/BenderBlog/journal-of-software-alike-typst) - 仿软件学报论文模板编写的 Typst 模板，可用于大作业编写
 
