@@ -355,6 +355,7 @@ Contributions are welcome!
 ##### Journals
 
 - [ieee-trans-typst](https://github.com/p4perf4ce/typst-ieee-trans-template) - A template that mimics the LaTeX IEEE Transaction template (`ieee-trans.cls`).
+- [ijdsir-format](https://github.com/adityak74/ijdsir-format) - An unofficial template matching the International Journal of Dental Science and Innovative Research (IJDSIR) manuscript and covering letter.
 
 ##### Grants/Proposals
 
