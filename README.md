@@ -97,6 +97,7 @@ Contributions are welcome!
 - [typstyle](https://github.com/typstyle-rs/typstyle) - Opinionated typst code formatter focusing on aesthetic, convergence and correctness.
 - [typst-live](https://github.com/ItsEthra/typst-live) - Hot reloading of pdf in web browser.
 - [typst-pandoc](https://github.com/lvignoli/typst-pandoc) - Typst custom reader and writer for Pandoc.
+- [typst-xlatory](https://github.com/marcwiki/typst-xlatory) - Lossless round-trip transpiler connecting Typst documents with CAT tools (OmegaT, Weblate, Crowdin) via `.properties` files.
 - [Tylax](https://github.com/scipenai/tylax) - A bidirectional LaTeX-Typst converter based on AST parsing, with support for TikZ graphics.
 - [utpm](https://github.com/typst-community/utpm) - _Package manager_ for **[local](https://github.com/typst/packages#local-packages)** and **[remote](https://github.com/typst/packages)** Typst packages.
 - [Tyler](https://github.com/mkpoli/tyler) - Package compiler for the ease of packaging and publishing Typst libraries and templates.
